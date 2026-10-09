@@ -161,7 +161,10 @@ def verdict_for(url, checks, overrides):
     if url in overrides:
         o = overrides[url]
         v = o["verdict"].strip()
-        return {"verdict": v, "href": o.get("replacement", "").strip() or url,
+        repl = o.get("replacement", "").strip()
+        if v == "hijacked" and repl:
+            v = "moved"  # old domain is spam, but the content has a new home
+        return {"verdict": v, "href": repl or url,
                 "note": o.get("note", "").strip(),
                 "archive": o.get("archive", "").strip()
                 or (checks.get(url, {}).get("wayback_url") or "")}
