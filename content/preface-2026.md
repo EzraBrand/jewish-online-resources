@@ -11,8 +11,7 @@
   [link report](link-report.html).
 - **A new section on Artificial Intelligence.** AI study and research assistants, text
   processing (vocalization, abbreviations, translation), handwritten-text recognition,
-  developer resources (APIs, MCP servers, models and datasets), and a reading list of
-  scholarship and essays on AI and Judaism.
+  and developer resources (APIs, MCP servers, models and datasets).
 - **New projects** from the [Powered by Sefaria](https://developers.sefaria.org/docs/powered-by-sefaria)
   showcase and the [AI and Judaism resource library](https://jewishai.me/table.html),
   selected by the scope rules of this guide (below). They are marked *New in 2026*.

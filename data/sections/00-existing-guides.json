@@ -313,15 +313,15 @@
         },
         {
           "id": "frankfurt-fid-online-resources",
-          "name": "Online Resources Jewish Studies „Corona Service",
+          "name": "Online Resources Jewish Studies (FID Jewish Studies)",
           "name_he": "",
-          "url": "https://www.ub.uni-frankfurt.de/judaica3/en/corona_en.html",
+          "url": "https://www.jewishstudies.de/en/service/informationssammlung/digitale-angebote/digitale-angebote-judische-studien/",
           "access": "open",
           "languages": [
             "en",
             "de"
           ],
-          "summary": "List of online resources for Jewish Studies from the FID Jewish Studies service at the University Library Frankfurt am Main, updated February 2021.",
+          "summary": "List of digital resources for Jewish Studies from the FID Jewish Studies service (University Library Frankfurt am Main), now on jewishstudies.de.",
           "annotation_md": "FID Jewish Studies based at the University Library Frankfurt am Main. Updated February 2021. Great updated list.",
           "footnotes_md": [],
           "tags": [
