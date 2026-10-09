@@ -6,7 +6,7 @@
     subscription: "Subscription", purchase: "Purchase", unknown: "Unknown" };
   const LANG = { he: "Hebrew", en: "English", arc: "Aramaic", yi: "Yiddish", de: "German",
     fr: "French", ar: "Arabic", jrb: "Judeo-Arabic", grc: "Greek", la: "Latin", es: "Spanish",
-    ru: "Russian", it: "Italian", lad: "Ladino" };
+    ru: "Russian", it: "Italian", lad: "Ladino", akk: "Akkadian" };
   const $ = (s) => document.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
   // Fold Hebrew niqqud/cantillation and case so searches match loosely.
