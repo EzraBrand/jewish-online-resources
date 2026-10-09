@@ -7,8 +7,8 @@
 - **Link audit.** Every link from the 2023 edition was checked in October 2026. Dead
   links are struck through, with a pointer to an archived copy in the Wayback Machine
   where one exists. Links whose resource moved now point to the new address. Two domains
-  had been taken over by spam sites, and those links are removed. See the
-  [link report](link-report.html).
+  had been taken over by spam sites. One of those resources was found at a new address,
+  and the other link is removed.
 - **A new section on Artificial Intelligence.** AI study and research assistants, text
   processing (vocalization, abbreviations, translation), handwritten-text recognition,
   and developer resources (APIs, MCP servers, models and datasets).

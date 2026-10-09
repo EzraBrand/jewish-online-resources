@@ -5,7 +5,7 @@ Outputs into site/:
   guide.html            full guide, section by section, with all annotations
   data/resources.json   flat list of entries with rendered HTML (feeds index.html)
   resources.csv         flat CSV export
-  link-report.html      link-rot report
+and, not published, build/link-report.html (link-rot report for the maintainer).
 
 Other modes:
   --dump-urls FILE      write every URL used in the data (for scripts/check_links.py)
@@ -483,7 +483,9 @@ def main():
     (SITE / "index.html").write_text(fill("index.html", **common), encoding="utf-8")
     rows, counts = link_report(link_seen)
     summary = ", ".join(f"{k}: {v}" for k, v in counts.most_common())
-    (SITE / "link-report.html").write_text(
+    # Maintainer-only: kept out of site/ so GitHub Pages does not publish it.
+    (ROOT / "build").mkdir(exist_ok=True)
+    (ROOT / "build" / "link-report.html").write_text(
         fill("link-report.html", rows="\n".join(rows), summary=summary,
              n_links=len(link_seen), **common), encoding="utf-8")
     print(f"entries={len(entries)} new={n_new} links={len(link_seen)} {summary}")
