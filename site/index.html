@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide to Online Resources for Scholarly Jewish Study and Research – 2026</title>
+<meta name="description" content="A curated, annotated, searchable guide to online resources for scholarly Jewish study: texts, manuscripts, catalogs, journals, encyclopedias, AI tools.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site">
+  <span class="title">Online Resources for Scholarly Jewish Study – 2026</span>
+  <nav><a href="index.html" class="active">Table</a><a href="guide.html">Full guide</a><a href="link-report.html">Link report</a><a href="resources.csv">CSV</a></nav>
+  <span class="meta">383 resources · 127 new in 2026 · built 2026-10-09</span>
+</header>
+<main>
+  <div class="controls">
+    <div><label for="q">Search name, Hebrew name, summary, notes</label><input id="q" type="search" placeholder="e.g. geniza, Yerushalmi, כתבי יד"></div>
+    <div><label for="f-section">Section</label><select id="f-section"><option value="">All sections</option></select></div>
+    <div><label for="f-access">Access</label><select id="f-access"><option value="">Any access</option></select></div>
+    <div><label for="f-lang">Language</label><select id="f-lang"><option value="">Any language</option></select></div>
+    <div><label for="f-tag">Topic</label><select id="f-tag"><option value="">Any topic</option></select></div>
+  </div>
+  <div class="toggles">
+    <label><input type="checkbox" id="t-new"> Only new in 2026</label>
+    <label><input type="checkbox" id="t-hidedead"> Hide dead links</label>
+    <label><input type="checkbox" id="t-expand"> Show all notes</label>
+  </div>
+  <div class="count" id="count"></div>
+  <table class="res" id="tbl">
+    <thead><tr>
+      <th data-k="name">Resource</th>
+      <th data-k="where">Section</th>
+      <th data-k="access">Access</th>
+      <th data-k="langs">Lang.</th>
+      <th data-k="summary">Summary</th>
+    </tr></thead>
+    <tbody></tbody>
+  </table>
+  <noscript><p>This table needs JavaScript. See the <a href="guide.html">full guide</a> or the <a href="resources.csv">CSV</a>.</p></noscript>
+</main>
+<footer class="site">Based on Ezra Brand, <em>Guide to Online Resources for Scholarly Jewish Study and Research – 2023</em> (v6, Dec 2023), updated for 2026. Corrections and suggestions welcome via the repository's issues.</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

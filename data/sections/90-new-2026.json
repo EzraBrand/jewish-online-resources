@@ -1,0 +1,472 @@
+{
+  "part": "AI",
+  "source_pages": [],
+  "blocks": [
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - text format - popular editions",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "bekiut",
+          "name": "Bekiut",
+          "name_he": "",
+          "url": "https://bekiut.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en",
+            "arc"
+          ],
+          "summary": "Free bilingual reader for the Babylonian Talmud and other classical texts, built for readability, with the text split into short lines.",
+          "annotation_md": "- Covers all 37 tractates of the Bavli in Hebrew/Aramaic and English, using Sefaria's texts; breaks clauses onto separate lines and suggests well-known passages.\n- Formerly called ChavrutAI (chavrutai.com). Despite the old name it is not mainly an AI tool.\n- Listed both on Powered by Sefaria and on jewishai.me.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "translation"
+          ],
+          "status_note": "Disclosure: the author's own project. Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "bavli-kilvavi",
+          "name": "Bavli Kilvavi",
+          "name_he": "בבלי כלבבי",
+          "url": "https://bavli.onrender.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc"
+          ],
+          "summary": "Hebrew Talmud reader with Rashi and Tosafot, Steinsaltz, Ein Mishpat and Torah Or panels, variant readings and manuscript images.",
+          "annotation_md": "- Hover a sentence for an explanation or for related halakhic rulings; side panels for commentators.\n- Texts from the Sefaria API and the Steinsaltz Center. Built by an individual developer.\n- Hebrew only.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "manuscripts"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "talmud-page",
+          "name": "Talmud.page",
+          "name_he": "",
+          "url": "https://talmud.page/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en",
+            "arc"
+          ],
+          "summary": "Simple, fast reader for the Talmud and other texts on phone and desktop.",
+          "annotation_md": "- Built on Sefaria texts (Powered by Sefaria list).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud"
+          ],
+          "status_note": "Site responds (9-Oct-2026).",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "shitufta",
+          "name": "Shitufta",
+          "name_he": "שיתופתא",
+          "url": "https://shitufta.org.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew Torah text library shown in a traditional page layout.",
+          "annotation_md": "- Built on Sefaria data (Powered by Sefaria list).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud"
+          ],
+          "status_note": "Site responds (9-Oct-2026).",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "otzaria",
+          "name": "Otzaria",
+          "name_he": "אוצריא",
+          "url": "https://github.com/Otzaria/otzaria",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Free offline Jewish library app for Windows, Mac, Linux, Android and iOS, with fast full-text search across thousands of books.",
+          "annotation_md": "- Book data from Sefaria, Dicta, Wikisource, the National Library of Israel and others; users can add their own TXT, DOCX and PDF files.\n- Very active development; the code is under a personal-use license, not a standard open-source license.\n- The AI agent [Ituria](https://github.com/Sivan22/ituria) was built around it (see the AI section).",
+          "footnotes_md": [],
+          "tags": [
+            "search",
+            "app",
+            "printed-books"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Search and Related Tools",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "talmud-navigator",
+          "name": "Talmud Navigator",
+          "name_he": "",
+          "url": "https://talmud-lookup.talmud-lookup-worker.workers.dev/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en",
+            "arc"
+          ],
+          "summary": "Per-daf lookup that gathers the biblical verses cited on a page, gives Hebrew word lookup and compares Bavli with Yerushalmi.",
+          "annotation_md": "- Uses Sefaria texts and links; includes optional AI notes generated with Gemini, which need checking.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "search",
+            "ai"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sefaria-sidebar-extension",
+          "name": "Sefaria Sidebar Extension",
+          "name_he": "",
+          "url": "https://github.com/DovOps/SefariaSidebarExtension/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Chrome extension that shows a sidebar of Sefaria references on Daf Yomi sites for the daf being studied.",
+          "annotation_md": "- Works on YUTorah, OUTorah, AllDaf, daf-yomi.com, E-Daf, Daf HaChaim, the Steinsaltz Center's English PDFs, RealClearDaf and Hadran.\n- Published in the Chrome Web Store as the Talmud Sidebar Extension (next entry).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "search"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "talmud-sidebar-extension",
+          "name": "Talmud Sidebar Extension",
+          "name_he": "",
+          "url": "https://chrome.google.com/webstore/detail/talmud-sidebar-extension/dmpiiciebnbekblfbcdeogjkbbmeeimi",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Chrome Web Store version of the sidebar that links a daf on other sites to its references on Sefaria.",
+          "annotation_md": "- The store listing names dafhachaim.org and daf-yomi.com as supported sites.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "search"
+          ],
+          "status_note": "Listing live 9-Oct-2026; last updated 18-Sep-2022, about 235 users.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Databases",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "zohar-stories",
+          "name": "Stories of the Zohar: digital edition",
+          "name_he": "סיפורי הזוהר",
+          "url": "https://www.zohar-stories.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc"
+          ],
+          "summary": "Hebrew digital edition and database of the narrative passages of the Zohar, with search, comparison of stories, distant reading and motif browsing.",
+          "annotation_md": "- Sections for manuscripts and research bibliography; motifs include snakes, caves, the child, birds and encounters with strangers.",
+          "footnotes_md": [],
+          "tags": [
+            "kabbalah",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Visualizations and Data",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "eitz-harabanim",
+          "name": "Eitz HaRabanim",
+          "name_he": "",
+          "url": "https://eitz-harabanim.com/",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Interactive tree of more than 200 Talmudic sages showing teacher-student links, filterable by region and era.",
+          "annotation_md": "- Filters for Eretz Yisrael and Babylonia and for Zugot, Tannaim and Amoraim; search in English or Hebrew.\n- Data from Sefaria; [code on GitHub](https://github.com/ruebeckscube/talmud-family-tree).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "mishnah",
+            "history",
+            "visualization"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sefer-similarity-map",
+          "name": "Sefer Similarity Map",
+          "name_he": "",
+          "url": "https://jhostyk.github.io/SeferSimilarityMap/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Exploratory map that places books and chapters of Tanakh, Talmud and other texts by shared vocabulary, so related texts cluster together.",
+          "annotation_md": "- Method: word and 2-4 word phrase counts, reduced to two dimensions with UMAP. The authors note it uses raw counts without tf-idf or lemmatization.\n- Version 2.1.0 (2021).",
+          "footnotes_md": [],
+          "tags": [
+            "visualization",
+            "digital-humanities"
+          ],
+          "status_note": "Page responds (9-Oct-2026); last version dated 2021.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "jewish-story-through-books",
+          "name": "The Jewish Story Through Books",
+          "name_he": "",
+          "url": "https://joshcooper417.github.io/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Animated map showing where and when Jewish books were written or published over the centuries.",
+          "annotation_md": "- Data from Sefaria and HebrewBooks.org.",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "geography",
+            "visualization",
+            "history"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "liz-shayne-sefaria-links",
+          "name": "Liz Shayne: visualizations of Sefaria links",
+          "name_he": "",
+          "url": "https://lizshayne.wordpress.com/tag/sefaria/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog post with network graphs of the roughly 87,000 links in the Sefaria library, made in Gephi.",
+          "annotation_md": "- \"Sefaria in Gephi: Seeing Links in Jewish Literature\" (June 2014). An early example of network analysis on the corpus.\n- [Code on GitHub](https://github.com/LizShayne/Sefaria-Data-Viz).",
+          "footnotes_md": [],
+          "tags": [
+            "visualization",
+            "digital-humanities"
+          ],
+          "status_note": "Page responds (9-Oct-2026); content from 2014.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "hamapah",
+          "name": "HaMapah",
+          "name_he": "",
+          "url": "https://blog.hamapah.org/",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Digital-humanities project that maps rabbinic responsa by place and time and analyzes their correspondence networks.",
+          "annotation_md": "- Applies quantitative and geospatial methods to responsa metadata.\n- Found via jewishai.me.",
+          "footnotes_md": [],
+          "tags": [
+            "responsa",
+            "geography",
+            "visualization",
+            "digital-humanities"
+          ],
+          "status_note": "Could not verify: the site returned HTTP 403 to an automated check on 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tertiary literature",
+      "subsection": "Dictionaries",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "jastrow-app",
+          "name": "Jastrow App",
+          "name_he": "",
+          "url": "https://jastrow.app/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "en"
+          ],
+          "summary": "Mobile-friendly, searchable Jastrow dictionary with a Hebrew keyboard, page navigation, abbreviation list and a timeline of sages.",
+          "annotation_md": "- Based on the 1903 printed edition; data from Sefaria. Also includes a guide to rabbinic time reckoning.",
+          "footnotes_md": [],
+          "tags": [
+            "dictionary",
+            "talmud"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "jastrow-search",
+          "name": "Jastrow Search",
+          "name_he": "",
+          "url": "https://onegkg.github.io/Jastrow-Search/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "en"
+          ],
+          "summary": "Lightweight search page for quick lookup of Jastrow entries.",
+          "annotation_md": "- [Code on GitHub](https://github.com/onegkg/Jastrow-Search).",
+          "footnotes_md": [],
+          "tags": [
+            "dictionary"
+          ],
+          "status_note": "Page responds (9-Oct-2026).",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tertiary literature",
+      "subsection": "Encyclopedias",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "torah-tree",
+          "name": "Torah Tree",
+          "name_he": "אילן התורה",
+          "url": "https://torahtree.com/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew collaborative wiki of Torah and halakha arranged as a tree on the model of the Rambam, with sources linked to the texts.",
+          "annotation_md": "- Editors add and revise pages, with review before publication; discussion threads on pages.\n- Built on Sefaria texts.",
+          "footnotes_md": [],
+          "tags": [
+            "halakha",
+            "encyclopedia"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

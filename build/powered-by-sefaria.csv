@@ -1,0 +1,136 @@
+name,url,category,description_paraphrase
+AI Torah,https://aitorah.ai/,AI Projects,Chatbot that answers questions on Jewish law and daily life using Sefaria texts
+AI Sefarim,https://aisefarim.com,AI Projects,English library of Kabbalah and Hasidut works with AI explanations and daily study media
+Ask the Rambam RAG Tutorial,https://www.youtube.com/watch?v=CNIO2MsfeTo,AI Projects,Video tutorial on building a retrieval Q&A bot restricted to the Mishneh Torah
+Build a Torah-Powered AI Chatbot,https://medium.com/@trademamba/build-a-torah-powered-ai-chatbot-83483b09d757,AI Projects,Blog tutorial on a retrieval chatbot limited to the Pentateuch
+DafBuddy,https://dafbuddy.com/,AI Projects,Gemara study site with page layouts and an AI study companion
+Dafyomi AI Summary,https://dormantone.github.io/dafyomi/,AI Projects,AI summaries and translations of the daily Talmud page
+Darshan AI,https://darshan.siddur.xyz/,AI Projects,Generates lesson plans with sources linked to Sefaria
+Derekh Learning,https://www.derekhlearning.com,AI Projects,Builds personalized lessons and study guides from Sefaria texts
+GoTorah!,https://gotorah.web.app/,AI Projects,"Chat app with role-play of sages, chavruta mode and sermon generation"
+Hevruta AI,https://hevruta-ai.com/,AI Projects,Web app with an AI chavruta partner
+Ituria,https://github.com/Sivan22/ituria,AI Projects,Open-source AI agent that searches a Jewish library built for the Otzaria project
+LadderAI,https://ladderai.app/,AI Projects,Hardware voice device that reads Tanakh and Zohar aloud and answers questions
+Lilmod,https://www.lilmod.app,AI Projects,Workspace for reading and annotating Sefaria texts with AI tools
+Mekoros,https://mekoros.com,AI Projects,AI research tool that finds primary sources on a topic and checks them against the text
+Mishneh AI,https://mishneh.ai/,AI Projects,AI study platform with chavruta modes and linked citations
+My Torah Quest,https://mytorahquest.com/,AI Projects,Mishnah quiz game with LLM-written questions
+Orayta: Torah in Your Time,https://preview--orayta-learning-path.lovable.app/,AI Projects,AI app that plans short daily study sessions
+PshatGPT,https://pshatgpt.com/,AI Projects,Tap a line of Talmud or Tanya to stream an AI explanation in context
+RavGPT.ai,https://ravgpt.ai/,AI Projects,General AI model for Torah questions
+Seferai.org,https://seferai.org/,AI Projects,Turns Jewish texts into AI-generated podcast audio
+Sefaria Chat,https://sefaria-chat.up.railway.app/,AI Projects,Community chatbot giving cited answers from the Sefaria library
+Today's Daf,https://daf-yomi.dev,AI Projects,Daily Talmud page in English with a short AI note
+Torah Chat,https://apps.microsoft.com/detail/9pkgfhbjlz52?hl=en-US&gl=US,AI Projects,Windows app that retrieves cited passages with translations
+Torah Research Board,https://torah-research.yaakovbeckerman.com/,AI Projects,Infinite-canvas research board combining Sefaria texts with AI analysis
+Torah Scholar (OpenClaw/MCP Format),https://github.com/abeperl/torah-scholar,AI Projects,Agent skill that lets AI assistants search and fetch Sefaria texts and commentaries
+TzadekAI,https://tzadek.ai/,AI Projects,Halakhic Q&A app comparing how authorities of different eras answered a question
+Weekday Torah Readings with AI Insights,http://jiveyeti.com/wtr,AI Projects,Experimental AI notes on the weekday Torah readings
+Yanki,https://www.yankiai.com,AI Projects,All-in-one religious lifestyle app with filtered content and AI features
+Yochai,https://www.yochai.wiki/chat,AI Projects,Socratic AI learning partner grounded in a curated library of primary sources
+AlHaTorah,https://alhatorah.org/,Learning & Study Tools,Tanakh study site that includes commentaries from Sefaria
+AllDaf,https://alldaf.org/,Learning & Study Tools,OU Daf Yomi app using Sefaria's English Talmud
+ASHAN - Timely Zohar Portions,,Learning & Study Tools,Android app with daily Zohar readings tied to the weekly portion
+Arukh HaShulchan Yomi,http://www.aishdas.org/ahs-yomi/,Learning & Study Tools,Daily study schedule for the Arukh HaShulchan
+Bavli Kilvavi,https://bavli.onrender.com/,Learning & Study Tools,"Hebrew Talmud reader with Rishonim, Acharonim, variants and manuscript images"
+Bayit - Daily Jewish Learning,https://bayitapp.com,Learning & Study Tools,"iOS app with daily verse, teaching, prayer and chat"
+Bekiut,https://bekiut.com/,Learning & Study Tools,Free reader for Talmud and classic texts focused on readability
+Binata,https://binata-ai.com/,Learning & Study Tools,Hebrew AI study assistant that cites sources and checks quotations
+Daf Quiz,https://dafquiz.com/daf-yomi,Learning & Study Tools,Daily multiple-choice quizzes on the Daf Yomi page
+Daily Torah Study Trmnl Plugin,https://usetrmnl.com/recipes/151619,Learning & Study Tools,E-ink display plugin showing daily study schedules
+Hadran,https://hadran.org.il/,Learning & Study Tools,Daf Yomi classes for women
+HaTanakh.com,http://www.hatanakh.com/,Learning & Study Tools,Tanakh study content with Sefaria commentaries
+HebrewProAI,https://www.hebrewproai.com/,Learning & Study Tools,French-language study site with AI chavruta and lexicon
+IvritSuite.com,https://ivritsuite.com/,Learning & Study Tools,Hebrew-learning tools including a Torah reading trainer
+Jastrow App,https://jastrow.app/,Learning & Study Tools,Mobile-friendly searchable Jastrow dictionary with reference guides and a sages timeline
+Jastrow Search,https://onegkg.github.io/Jastrow-Search/,Learning & Study Tools,Fast lookup interface for Jastrow entries
+Jewish Zodiac,https://jewishzodiac.com,Learning & Study Tools,Reflections on one's Hebrew birth month
+Kabbalah of Time Daily Reading,https://kabbalahoftime.github.io/kabalahoftime/,Learning & Study Tools,Daily mystical readings by the calendar
+Kindle Seforim,https://kindleseforim.paritcher.com/,Learning & Study Tools,Converts Sefaria texts for reading on Kindle
+Kitfei Anaqim,http://kitfei.org/,Learning & Study Tools,Anthology of classical Bible commentary drawn from Sefaria
+Kol Tanakh,https://toraparatodos.com/,Learning & Study Tools,Android Tanakh app with word-synced audio
+Kol Torah,https://play.google.com/store/apps/details?id=com.almog.bar_mitzva,Learning & Study Tools,Bar Mitzvah Torah reading preparation
+Koveah,https://koveah.org/,Learning & Study Tools,Builds personal study schedules
+The Lightweight Hebrew Bible Reader,https://apps.apple.com/us/app/%D7%AA%D7%A0-%D7%9A/id6736739283,Learning & Study Tools,Simple Tanakh reader and search app
+Lishkod: Daily Torah Study,https://lishkod.app/,Learning & Study Tools,Hebrew app combining daily study cycles into an audio card feed
+Ma'agar HaMekorot HaTorani'im HaMekif,https://sites.google.com/view/yuda-taub-parashat-hashavua/%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D-%D7%9C%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D/%D7%9E%D7%92%D7%95%D7%95%D7%9F-%D7%A2%D7%A6%D7%95%D7%9D-%D7%A9%D7%9C-%D7%9E%D7%90%D7%92%D7%A8%D7%99%D7%9D,Learning & Study Tools,Hebrew source collection that generates answers in one rabbi's style
+Mishnah Poster Generator,https://mishna-generator.pages.dev/,Learning & Study Tools,Prints daily Mishnah posters
+Parasha Sheet Generator,https://parasha.lautman.net/,Learning & Study Tools,Makes printable weekly-portion handouts
+QuizDrash,https://learn-jewish-text-quest.lovable.app/,Learning & Study Tools,Quiz game on Sefaria texts
+Schnajim Mikra mit Rav Hirsch,https://www.ravhirsch.at/2mikra,Learning & Study Tools,German Shnayim Mikra reader with Onkelos and R. Hirsch
+SEFARIM,https://sefarim.net,Learning & Study Tools,Multilingual Tanakh Q&A with citation labels
+Shnayim Mikra,http://www.shnayim.com/,Learning & Study Tools,App for weekly Torah with Rashi
+Siddurim.com,https://play.google.com/store/apps/dev?id=6639480761921000346,Learning & Study Tools,Siddur app (Edot HaMizrach)
+Sidur KTS,https://toraparatodos.com/,Learning & Study Tools,Spanish-language Western Sephardic prayer app
+Talmud.page,https://talmud.page/,Learning & Study Tools,Clean mobile and web reader for Talmud and other texts
+Talmud Navigator,https://talmud-lookup.talmud-lookup-worker.workers.dev/,Learning & Study Tools,"Per-daf lookup of biblical sources, Hebrew word lookup and Bavli-Yerushalmi comparison"
+Tanach Study,https://tanachstudy.com/,Learning & Study Tools,Online courses on foundational texts
+Tehillim Opening,https://tehillim.bellelli.info/,Learning & Study Tools,Tehillim study app with daily readings
+Tehillim Reader,https://arithmomaniac.github.io/tehillim-reader/,Learning & Study Tools,Children's Tehillim reader
+The Daf Yomi Portal,http://daf-yomi.com/dafYomi.aspx,Learning & Study Tools,Daf Yomi site with Sefaria English text
+The People's Talmud,https://www.thepeoplestalmud.com/,Learning & Study Tools,Thematic Talmud sections with brain teasers
+The Tanaj Hub,https://thetanajhub.com,Learning & Study Tools,"Tanakh texts, questions and games"
+Torah Framework,https://www.torahframework.com/,Learning & Study Tools,Study tool with eight thematic lenses
+Torah Library Add On for Google Docs,https://workspace.google.com/marketplace/app/torah_library/947071438143,Learning & Study Tools,Google Docs add-on for building source sheets
+TorahApp,https://thetorahapp.org/download?&utm_campaign=9d917a99,Learning & Study Tools,App combining Sefaria with YUTorah and OUTorah lectures
+TorahSummary,http://www.torahsummary.com/,Learning & Study Tools,Short summaries of the Torah
+Torah Study Tracker,https://torahtracker.com/,Learning & Study Tools,Personal log of study and review
+Torah Tree,https://torahtree.com/,Learning & Study Tools,Hebrew collaborative Torah wiki arranged on the Rambam's structure with linked sources
+TorahVerse,https://torahverse.powerjews.com/,Learning & Study Tools,Mind map linking sources from one root text
+Yamim Noraim Machzor,https://play.google.com/store/apps/details?id=com.machzoryamimnoraim,Learning & Study Tools,App to learn to lead High Holiday prayers
+Yuchasin,https://yuchasin.com/,Learning & Study Tools,Genealogies of biblical figures using Talmudic references
+Abba Saul,https://github.com/scopreon/abba-saul/,Apps & Other Tools,Discord bot that posts Mishnah
+Artscroll Smart Siddur,https://apps.apple.com/us/app/artscroll-smart-siddur-%D7%A1%D7%93%D7%95%D7%A8/id988119206,Apps & Other Tools,Artscroll siddur app
+Goof,https://goof.surge.sh/,Apps & Other Tools,Shows body-part words in the liturgy
+HolyScroll,https://github.com/akiva10b/HollyScroll,Apps & Other Tools,iPhone app that trades study time for social-media time
+Mishnah.org,https://www.mishnah.org/,Apps & Other Tools,"Mishnah learning pledges, charts and memorial study"
+Parasha Bytes,https://github.com/azemon/parashabytes,Apps & Other Tools,Explores foods in the Torah
+Pninim,https://pninim.yiddishe-kop.com/,Apps & Other Tools,Platform for writing personal Talmud insights
+Shitufta,https://shitufta.org.il/,Apps & Other Tools,Hebrew Torah library in a traditional page layout
+Shulkhan,http://josephtepperman.com/shulkhan.htm,Apps & Other Tools,Touch interface for the printed Talmud page
+The Jewish Story Through Books,https://joshcooper417.github.io/,Apps & Other Tools,Animated map of where and when Jewish books were published
+Zohar-stories.com,https://www.zohar-stories.com/,Apps & Other Tools,Digital edition and database of the stories in the Zohar
+Bina v'Da'at,https://chatgpt.com/g/g-679019fbe68c819193f16337c76081ee-bynh-vd-t,Apps & Other Tools,Custom GPT for Hebrew Torah learning
+Tikkun.io,https://tikkun.io,Apps & Other Tools,Torah reading practice tool
+Zmanim Checklist,https://apps.apple.com/app/id6751196074,Apps & Other Tools,Prayer times and checklist app
+Zmanim Today,https://zmanim-today-1f2656a3.base44.app/,Apps & Other Tools,"Prayer times, compass and siddur toolkit"
+Besasefer,http://www.basehasefer.com/,Visualization & Data Analysis,Analytical search engine for Tanakh
+Gematriaphone,http://alexboxer.com/gematriaphone/,Visualization & Data Analysis,Turns Torah text into music via gematria
+Liz Shayne's Visualizations of Sefaria Links,https://lizshayne.wordpress.com/tag/sefaria/,Visualization & Data Analysis,Network visualizations of the Sefaria link graph
+Quantified Cantillation,https://quantifiedcantillation.nl/,Visualization & Data Analysis,Statistics of cantillation-mark sequences
+Russel Neiss's Micrography,https://github.com/rneiss/micrography,Visualization & Data Analysis,Makes micrography art from an image and a text
+Sefer Similarity Map,https://jhostyk.github.io/SeferSimilarityMap/,Visualization & Data Analysis,Maps texts by word and phrase similarity to show clusters
+Sefaria Networks,https://github.com/scopreon/sefaria-networks,Visualization & Data Analysis,Network analysis code on Sefaria data
+Tanakh Experiments by David Komer,https://dakom.github.io/tanach-experiments/,Visualization & Data Analysis,Gematria and color visualizations of Tanakh
+The Talmud Commentary Atlas,https://github.com/AChompSitsIn/The-Talmud-Commentary-Atlas?tab=readme-ov-file#visualizations,Visualization & Data Analysis,Visualizations of commentary on the Bavli
+Visualizations of Sefaria,https://guedalia.github.io/testab/test,Visualization & Data Analysis,Visual overview of the Jewish textual landscape
+Eitz HaRabanim,https://eitz-harabanim.com/,Visualization & Data Analysis,Interactive teacher-student tree of Talmudic sages
+AI Supported Chevrusa,https://dormantone.github.io/chat-app/,"Community, Interaction, & Social",AI bot answering questions on Jewish texts
+Daily Daf Tracker,https://mattpolanieckidev.github.io/dailydaf/,"Community, Interaction, & Social",Ask AI about the daily Talmud page
+Jew and A,https://seph-efd35.web.app/,"Community, Interaction, & Social",Questions with answers from the Jewish library
+Shulert,https://www.shulert.org/,"Community, Interaction, & Social",Synagogue prayer organizer
+Sefaria Discord Bot with French Support,https://github.com/gchek/sefaria-discord-bot,"Community, Interaction, & Social",Multilingual Discord bot for text questions
+T'Feeling,https://tfeeling.netlify.app/,"Community, Interaction, & Social",Links prayers to emotions
+TorahBot for Mi Yodea,https://www.reddit.com/r/Judaism/comments/53wa47/introducing_torahbot/,"Community, Interaction, & Social",Old bot that inserted cited texts into a Q&A site
+Torah Scroll,http://www.scrolltorah.com/,"Community, Interaction, & Social",Forum combining texts and discussion
+Tweet Yomi,https://tweetyomi.org/,"Community, Interaction, & Social",Daily Torah tweets
+V'Hagita,https://vehagita.co.il/,"Community, Interaction, & Social",Hebrew Torah social network on Sefaria data
+Bisl Torah,https://github.com/DaveDushi/bisl-torah,Extensions and API Integrations,Shows a Torah snippet in the terminal while an AI coding agent runs
+Learn,https://github.com/luvchurchill/learn,Extensions and API Integrations,Terminal client for Sefaria texts
+Sefaria Sidebar Extension,https://github.com/DovOps/SefariaSidebarExtension/,Extensions and API Integrations,Chrome sidebar showing Sefaria references on Daf Yomi sites
+Nextcloud Dashboard,https://apps.nextcloud.com/apps/sefaria_dashboard,Extensions and API Integrations,Nextcloud widget with the study calendar
+I'm Learning Lucky,https://github.com/jmcaplan/sefariaExtension,Extensions and API Integrations,Chrome extension with extra notes while studying on Sefaria
+Talmud Sidebar Extension,https://chrome.google.com/webstore/detail/talmud-sidebar-extension/dmpiiciebnbekblfbcdeogjkbbmeeimi,Extensions and API Integrations,Chrome extension adding Sefaria links on pages for a given daf
+Alexa Torah Scholar,https://github.com/pzp1997/alexa-torah-scholar,Extensions and API Integrations,Alexa skill that reads verses and commentary
+Sefaria Extension for Raycast,https://www.raycast.com/danyeric123/sefaria,Extensions and API Integrations,Unofficial Raycast launcher extension for Sefaria
+RecurrentRav,https://github.com/leerosenthalj/RecurrentRav,Extensions and API Integrations,Neural network that generates mock Mishnah
+Sefaria .NET Framework,https://github.com/orenfromberg/sefariadotnet,Extensions and API Integrations,.NET client library for Sefaria
+Sefaria-Container-Unofficial,https://github.com/orxaicom/Sefaria-Container-Unofficial,Extensions and API Integrations,Docker build for running Sefaria locally
+Sefaria-Desktop-Unofficial,https://github.com/orxaicom/Sefaria-Desktop-Unofficial,Extensions and API Integrations,"Linux desktop app for Sefaria, work in progress"
+Sefaria Embedded,https://github.com/nassan/sefaria-embedded/tree/master,Extensions and API Integrations,Server that makes embeddable iframes of texts
+Sefaria Translation Studio,https://github.com/av1m/sefaria-translation-studio,Extensions and API Integrations,"Local tool for AI-drafted, human-reviewed translations of Sefaria texts"
+Sefaria Wordpress Plugin,https://github.com/JoshMB/sefaria-wp-plugin,Extensions and API Integrations,WordPress plugin for Sefaria content
+Shnayim Mikrah,https://www.npmjs.com/package/@orthodox-union/shnayimmikrah,Extensions and API Integrations,npm wrapper presenting Shnayim Mikra by aliyah
+Stndr,https://github.com/danilius/Stndr,Extensions and API Integrations,Offline desktop reader with tabs and search
+Torah MCP,https://torah-mcp.jonathan-ef2.workers.dev,Extensions and API Integrations,"Community MCP server connecting Claude to Sefaria, HebrewBooks search and calendars"
+Yolaroo Library of Jewish Texts,https://github.com/yolaroo/SefariaiOSv0.1,Extensions and API Integrations,Early iOS library app

@@ -1,0 +1,861 @@
+{
+  "part": "A",
+  "source_pages": [
+    4,
+    6
+  ],
+  "blocks": [
+    {
+      "section": "Intro",
+      "subsection": "Existing Guides",
+      "group": "Guides by librarians",
+      "intro_md": "There are many guides to electronic resources for Jewish scholarship, such as that of university library guides, as well as other websites. However, many of these guides are meant for students and researchers, and less for the general educated reader with an interest in these topics. In addition, many previous guides are from ten years ago or longer, and many of the links no longer work.\n\nHere are some guides that I found especially useful:",
+      "entries": [
+        {
+          "id": "biu-library-talmud-oral-law",
+          "name": "Talmud & Oral Law | Libraries and Information System | Bar-Ilan University",
+          "name_he": "",
+          "url": "https://lib.biu.ac.il/en/db-subject/217",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Bar-Ilan University library's subject list of databases for Talmud and Oral Law.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "1"
+          }
+        },
+        {
+          "id": "biu-library-jewish-history",
+          "name": "Jewish History | Libraries and Information System | Bar-Ilan University",
+          "name_he": "",
+          "url": "https://lib.biu.ac.il/en/db-subject/198",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Bar-Ilan University library's subject list of databases for Jewish history.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "2"
+          }
+        },
+        {
+          "id": "herzog-library-hebrew-language",
+          "name": "Herzog College Library - Databases for the Hebrew Language Department",
+          "name_he": "המכללה האקדמית הרצוג < ספריות < מאגרים בחוג ללשון עברית",
+          "url": "https://www.herzog.ac.il/library-page/%d7%9e%d7%90%d7%92%d7%a8%d7%99%d7%9d-%d7%91%d7%97%d7%95%d7%92-%d7%9c%d7%9c%d7%a9%d7%95%d7%9f-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Herzog Academic College library page that lists databases for the study of the Hebrew language.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "3"
+          }
+        },
+        {
+          "id": "herzog-library-jewish-thought",
+          "name": "Herzog College Library - Databases for the Jewish Thought Department",
+          "name_he": "המכללה האקדמית הרצוג < ספריות < מאגרים בחוג למחשבת ישראל",
+          "url": "https://www.herzog.ac.il/library-page/%d7%9e%d7%90%d7%92%d7%a8%d7%99%d7%9d-%d7%91%d7%97%d7%95%d7%92-%d7%9c%d7%9e%d7%97%d7%a9%d7%91%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Herzog Academic College library page that lists databases for the study of Jewish thought.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "4"
+          }
+        },
+        {
+          "id": "herzog-library-hebrew-literature",
+          "name": "Herzog College Library - Databases for the Hebrew Literature Department",
+          "name_he": "המכללה האקדמית הרצוג < ספריות < מאגרים בחוג לספרות עברית",
+          "url": "https://www.herzog.ac.il/library-page/%d7%9e%d7%90%d7%92%d7%a8%d7%99%d7%9d-%d7%91%d7%97%d7%95%d7%92-%d7%9c%d7%a1%d7%a4%d7%a8%d7%95%d7%aa-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Herzog Academic College library page that lists databases for the study of Hebrew literature.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "5"
+          }
+        },
+        {
+          "id": "cjh-libguides-az-databases",
+          "name": "Center for Jewish History > LibGuides > A-Z Databases",
+          "name_he": "",
+          "url": "https://libguides.cjh.org/az.php",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Alphabetical directory of databases from the library guides of the Center for Jewish History in New York.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "6"
+          }
+        },
+        {
+          "id": "safranim-blog-online-jewish-bookshelf",
+          "name": "The Online Jewish Bookshelf - Databases and Scanned-Book Sites | Safranim's Blog",
+          "name_he": "ארון הספרים היהודי המקוון – מאגרי מידע ואתרי ספרים סרוקים",
+          "url": "https://safranim.com/2010/12/01/%D7%90%D7%A8%D7%95%D7%9F-%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99-%D7%94%D7%9E%D7%9E%D7%95%D7%97%D7%A9%D7%91-%D7%9E%D7%90%D7%92%D7%A8%D7%99-%D7%9E%D7%99%D7%93%D7%A2/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Post on the Israeli librarians' blog Safranim (December 2010) that lists Jewish databases and sites with scanned books.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books",
+            "blog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "7"
+          }
+        },
+        {
+          "id": "northwestern-jewish-studies-websites",
+          "name": "Recommended Websites - *Jewish Studies - Research Guides at Northwestern University",
+          "name_he": "",
+          "url": "https://libguides.northwestern.edu/c.php?g=114862&p=749233",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Northwestern University library research guide with recommended websites for Jewish Studies.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "8"
+          }
+        },
+        {
+          "id": "penn-judaica-etexts",
+          "name": "eTexts - Directory of Judaica online resources - Guides at Penn Libraries",
+          "name_he": "",
+          "url": "https://guides.library.upenn.edu/judaica-resources/etexts",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Penn Libraries directory of online Judaica resources, section on electronic texts.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "9"
+          }
+        },
+        {
+          "id": "jhu-jewish-studies-research-resources",
+          "name": "Resources for Doing Research - Jewish Studies - Guides at Johns Hopkins University",
+          "name_he": "",
+          "url": "https://guides.library.jhu.edu/jewish-studies/research-resources",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Johns Hopkins University library guide to research resources for Jewish Studies.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "10"
+          }
+        },
+        {
+          "id": "georgetown-hebrew-reference-works",
+          "name": "Reference Works - Hebrew and Jewish Studies - Guides at Georgetown University",
+          "name_he": "",
+          "url": "https://guides.library.georgetown.edu/hebrew/reference",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Georgetown University library guide to reference works for Hebrew and Jewish Studies.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "encyclopedia",
+            "dictionary"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "11"
+          }
+        },
+        {
+          "id": "eajs-turning-the-page",
+          "name": "Turning the Page: Jewish Print Cultures & Digital Humanities - An EAJS Roundtable",
+          "name_he": "",
+          "url": "https://www.eurojewishstudies.org/wp-content/uploads/2018/06/eajs-resources-17-09-07.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "PDF resource list from a European Association for Jewish Studies roundtable on Jewish print cultures and digital humanities (file dated 2017-2018).",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "digital-humanities",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "12"
+          }
+        },
+        {
+          "id": "nyu-digital-collection-gateways",
+          "name": "Digital Collection Gateways: a Selection - Hebrew and Judaic Studies - Research Guides at New York University",
+          "name_he": "",
+          "url": "https://guides.nyu.edu/c.php?g=276652&p=1845363",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "New York University library guide with a selection of gateways to digital collections for Hebrew and Judaic Studies.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "13"
+          }
+        },
+        {
+          "id": "frankfurt-fid-online-resources",
+          "name": "Online Resources Jewish Studies „Corona Service",
+          "name_he": "",
+          "url": "https://www.ub.uni-frankfurt.de/judaica3/en/corona_en.html",
+          "access": "open",
+          "languages": [
+            "en",
+            "de"
+          ],
+          "summary": "List of online resources for Jewish Studies from the FID Jewish Studies service at the University Library Frankfurt am Main, updated February 2021.",
+          "annotation_md": "FID Jewish Studies based at the University Library Frankfurt am Main. Updated February 2021. Great updated list.",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "14"
+          }
+        },
+        {
+          "id": "jewish-museum-berlin-links",
+          "name": "Links to Other Libraries and Archives | Jewish Museum Berlin",
+          "name_he": "",
+          "url": "https://www.jmberlin.de/en/links-other-libraries-and-archives",
+          "access": "open",
+          "languages": [
+            "en",
+            "de"
+          ],
+          "summary": "Jewish Museum Berlin page of links to other libraries, archives, library portals, and directories for research on Jewish topics.",
+          "annotation_md": "“This page features links to other libraries and archives that support research on Jewish topics, as well as to library portals and directories”.",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "15"
+          }
+        },
+        {
+          "id": "huc-free-online-resources",
+          "name": "Free Online Resources - HUC",
+          "name_he": "",
+          "url": "https://huc.edu/libraries/free-online-resources/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Hebrew Union College libraries' list of free online resources.",
+          "annotation_md": "",
+          "footnotes_md": [
+            "Last three links pointed out by A. Berman."
+          ],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "16"
+          }
+        }
+      ],
+      "notes_md": [
+        "See [here](http://www.jewishdigitalcollections.com/jewish-studies-guides.html) for “a list of guides prepared by university librarians worldwide to help students taking courses in Jewish studies” by Diane Romm, published no later than 2018. See [the About page](http://www.jewishdigitalcollections.com/about.html). Thanks to A. Berman for pointing out this guide. Unfortunately many of the links are now broken. For a relevant university syllabus, see [Prof. Aaron Ahrend’s syllabus to his course “Research Guidance in Bibliography and Writing”](https://talmud.biu.ac.il/sites/talmud/files/shared/%D7%AA%D7%9C%D7%9E%D7%95%D7%93%20%D7%A1%D7%99%D7%9C%D7%91%D7%95%D7%A1%D7%99%D7%9D%20%D7%AA%D7%A9%D7%A4%D7%91/%D7%90%D7%A8%D7%A0%D7%9309101%D7%94%D7%93%D7%A8%D7%9B%D7%94.pdf). I took this course many years ago as part of my MA in Talmud at Bar-Ilan. The course and course packet went over many digital tools, however the syllabus available online only gives topic headings, and bibliography of published articles."
+      ]
+    },
+    {
+      "section": "Intro",
+      "subsection": "Existing Guides",
+      "group": "Other Guides",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "hewiki-torah-database",
+          "name": "Torah database - Hebrew Wikipedia",
+          "name_he": "מאגר תורני – ויקיפדיה",
+          "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%AA%D7%95%D7%A8%D7%A0%D7%99",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew Wikipedia article on Torah databases, with an overview of digital collections of Jewish texts.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "encyclopedia",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "1"
+          }
+        },
+        {
+          "id": "enwiki-torah-database",
+          "name": "Torah database - Wikipedia",
+          "name_he": "",
+          "url": "https://en.wikipedia.org/wiki/Torah_database",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "English Wikipedia article on Torah databases and digital collections of Jewish texts.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "encyclopedia",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "2"
+          }
+        },
+        {
+          "id": "enwiki-rabbinic-literature-external-links",
+          "name": "Rabbinic literature - Wikipedia > “External links”",
+          "name_he": "",
+          "url": "https://en.wikipedia.org/wiki/Rabbinic_literature#External_links",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "The external-links section of the English Wikipedia article on rabbinic literature.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "encyclopedia"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "3"
+          }
+        },
+        {
+          "id": "safa-ivrit-links",
+          "name": "The Hebrew Language - Links",
+          "name_he": "השפה העברית - קישורים",
+          "url": "https://www.safa-ivrit.org/links.php",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Links page of the Hebrew-language website safa-ivrit.org.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "4"
+          }
+        },
+        {
+          "id": "daf-yomi-portal-virtual-library",
+          "name": "Daf Yomi Portal: Virtual Library",
+          "name_he": "פורטל הדף היומי: ספריה וירטואלית",
+          "url": "http://daf-yomi.com/content.aspx?PageId=210",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Virtual library page of the Daf Yomi portal (daf-yomi.com), with links to online Talmud texts and tools.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "5"
+          }
+        },
+        {
+          "id": "daf-yomi-portal-textual-variants",
+          "name": "Daf Yomi Portal: Textual Versions and Variants",
+          "name_he": "פורטל הדף היומי: נוסחאות וגירסאות",
+          "url": "http://daf-yomi.com/content.aspx?PageId=110",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Daf Yomi portal page with links to resources on textual versions and variant readings of the Talmud.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "6"
+          }
+        },
+        {
+          "id": "halacha-brura-virtual-library",
+          "name": "Halacha Brura > Virtual Library",
+          "name_he": "הלכה ברורה < ספרייה וירטואלית",
+          "url": "http://www.halachabrura.org/alephlink.htm",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Virtual-library links page of the Halacha Brura institute.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "halakha",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "7"
+          }
+        },
+        {
+          "id": "talmud-blog-search-engines",
+          "name": "Search Engines and Other Web-Resources | The Talmud Blog",
+          "name_he": "",
+          "url": "https://thetalmud.blog/toolbox/search-engines-and-other-web-resources/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Toolbox page of The Talmud Blog that lists search engines and other web resources for Talmud study.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "search",
+            "blog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "8"
+          }
+        },
+        {
+          "id": "talmud-blog-textual-witnesses",
+          "name": "Textual Witnesses | The Talmud Blog",
+          "name_he": "",
+          "url": "https://thetalmud.blog/toolbox/textual-witnesses-pictures-transcriptions-descriptions-and-synopsi/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Toolbox page of The Talmud Blog on textual witnesses: images, transcriptions, descriptions, and synopses.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "manuscripts",
+            "blog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "9"
+          }
+        },
+        {
+          "id": "rabbinics-org",
+          "name": "Rabbinics",
+          "name_he": "",
+          "url": "https://www.rabbinics.org/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Rabbinics.org, a website for the study of rabbinic literature.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "midrash"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 5,
+            "number": "10"
+          }
+        },
+        {
+          "id": "dhjewish-projects",
+          "name": "#DHJewish Jewish Studies & Digital Humanities Projects",
+          "name_he": "",
+          "url": "https://dhjewish.org/projects",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Directory of digital humanities projects in Jewish Studies from the #DHJewish community.",
+          "annotation_md": "",
+          "footnotes_md": [
+            "Thanks to Shaul Seidler-Feller for pointing out this resource."
+          ],
+          "tags": [
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "11"
+          }
+        },
+        {
+          "id": "lerner-online-resources-talmud",
+          "name": "Online Resources for Talmud Research, Study, and Teaching",
+          "name_he": "",
+          "url": "https://www.associationforjewishstudies.org/professional-development/professional-development/digital-jewish-studies/perspectives-on-technology/online-resources-for-talmud-research-study-and-teaching",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Article by Heidi Lerner for the Association for Jewish Studies (Fall 2010) that surveys online resources for Talmud.",
+          "annotation_md": "By Heidi Lerner, published Fall 2010.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "12"
+          }
+        },
+        {
+          "id": "maanelashon-useful-links",
+          "name": "Useful Links (Maane Lashon)",
+          "name_he": "קישורים שימושיים",
+          "url": "https://www.maanelashon.org/links",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Links list by Uriel Frank on the Maane Lashon website.",
+          "annotation_md": "By Uriel Frank.",
+          "footnotes_md": [
+            "Thanks to A. Fredj for pointing out this list."
+          ],
+          "tags": [
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "13"
+          }
+        },
+        {
+          "id": "olami-top-torah-research-sites",
+          "name": "The Top Sites to do Torah Research in the Internet Era | OLAMI Resources",
+          "name_he": "",
+          "url": "http://nleresources.com/2018/12/the-top-sites-to-do-torah-research-in-the-internet-era/#.YkTAlihBxPY",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Article by Reuven Chaim Klein (December 12, 2018) on the best websites for Torah research.",
+          "annotation_md": "By Reuven Chaim Klein, published December 12, 2018.",
+          "footnotes_md": [],
+          "tags": [
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "14"
+          }
+        },
+        {
+          "id": "tanen-sources-on-the-net",
+          "name": "Sources on the Net",
+          "name_he": "",
+          "url": "https://docs.google.com/document/u/1/d/1ZfHfZsLh2qYBM6Q6Qp18csQvYQMBUOvjfwPCRn9iyJk/mobilebasic",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Google Doc list of online Jewish sources by Dr. Melech Tanen.",
+          "annotation_md": "By Dr. Melech Tanen.",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "15"
+          }
+        },
+        {
+          "id": "mivami-excellent-talmud-projects",
+          "name": "mi vami: Some excellent Talmud projects out there",
+          "name_he": "",
+          "url": "https://blog.mivami.org/2020/03/some-excellent-talmud-projects-out-there.html",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog post by R' Josh Waxman (March 5, 2020) on notable Talmud projects.",
+          "annotation_md": "By R’ Josh Waxman, published March 5, 2020.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "blog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "16"
+          }
+        },
+        {
+          "id": "jewish-digital-collections",
+          "name": "Jewish Digital Collections and Jewish Study Guides",
+          "name_he": "",
+          "url": "http://www.jewishdigitalcollections.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Website by Diane Romm that collects Jewish digital collections and Jewish Studies guides; published no later than 2018.",
+          "annotation_md": "By Diane Romm, published no later than 2018. See [the About page](http://www.jewishdigitalcollections.com/about.html).",
+          "footnotes_md": [
+            "Thanks to A. Berman for pointing out this guide."
+          ],
+          "tags": [
+            "bibliography",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "17"
+          }
+        },
+        {
+          "id": "jewish-guide-to-the-internet",
+          "name": "The Jewish Guide to the Internet",
+          "name_he": "",
+          "url": "https://www.jewishinternetguide.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Website by Diane Romm that guides users to Jewish resources on the internet.",
+          "annotation_md": "By Diane Romm.",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "18"
+          }
+        },
+        {
+          "id": "koppel-shmidman-torah-study-digital-revolution",
+          "name": "Moshe Koppel and Avi Shmidman, “Torah Study and the Digital Revolution: A Glimpse of the Future”",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/commentary/torah-study-and-the-digital-revolution-a-glimpse-of-the-future/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Essay in The Lehrhaus (2020) on digital humanities tools for Torah study and what automation may soon make possible.",
+          "annotation_md": "Moshe Koppel and Avi Shmidman, “[Torah Study and the Digital Revolution: A Glimpse of the Future](https://thelehrhaus.com/commentary/torah-study-and-the-digital-revolution-a-glimpse-of-the-future/)”, The Lehrhaus (2020).",
+          "footnotes_md": [],
+          "tags": [
+            "digital-humanities",
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "19"
+          }
+        },
+        {
+          "id": "secunda-resources-critical-study",
+          "name": "Shai Secunda, “Resources for the Critical Study of Rabbinic Literature in the Twenty-First Century”",
+          "name_he": "",
+          "url": "https://www.academia.edu/83275646/Resources_for_the_Critical_Study_of_Rabbinic_Literature_in_the_Twenty_First_Century_in_Compendia_Rerum_Iudaicarum_ad_Novum_Testamentum_CRINT_16_Christine_Hayes_ed_Leiden_The_Netherlands_Brill_2022_pp_621_632",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Book chapter by Shai Secunda (CRINT 16, 2022) on resources for the critical study of rabbinic literature, including digital corpora.",
+          "annotation_md": "Shai Secunda, “[Resources for the Critical Study of Rabbinic Literature in the Twenty-First Century](https://www.academia.edu/83275646/Resources_for_the_Critical_Study_of_Rabbinic_Literature_in_the_Twenty_First_Century_in_Compendia_Rerum_Iudaicarum_ad_Novum_Testamentum_CRINT_16_Christine_Hayes_ed_Leiden_The_Netherlands_Brill_2022_pp_621_632)” in Compendia Rerum Iudaicarum ad Novum Testamentum (CRINT) 16, Christine Hayes (ed.), (2022), pp. 621-632 (Esp. pp. 625 and on - “Digital Corpora”).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "digital-humanities",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 6,
+            "number": "20"
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/problems.txt
+build/wayback-last.txt
+# Local-only inputs: the 2023 PDF and its raw text dump contain a personal email
+# address; source/web and jewishai-records.csv are third-party page copies.
+source/guide-2023.pdf
+build/guide-2023.txt
+source/web/
+build/jewishai-records.csv

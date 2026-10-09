@@ -1,0 +1,2695 @@
+{
+  "part": "AI",
+  "source_pages": [],
+  "blocks": [
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "AI study and research assistants",
+      "group": "Retrieval with citations",
+      "intro_md": "Since the 2023 edition, large language models and related AI tools have become part of how many people read and search Jewish texts. This section gathers tools that are useful for serious study and research, developer resources for building such tools, and a selection of scholarship and essays on AI and Judaism.\n\nAI tools are good at some tasks: finding passages when one does not know the exact wording, suggesting parallels and later discussions, adding vocalization, expanding abbreviations, giving a first draft of a translation, and turning manuscript images into searchable text. Tools that retrieve passages from a fixed library and link every claim to its source are much more reliable than general chatbots that answer from memory.\n\nThe main risk is invented or wrong citations. Models produce sources that do not exist, attach real quotations to the wrong work, and summarize a sugya or responsum with confidence and in error. Treat every AI answer as a lead, not a finding: open the cited source, read it in context, and check the edition and wording before relying on it. Machine transcriptions and translations need the same check against the original.\n\nTools in this field change quickly. Status notes record what was checked on 9-Oct-2026; several projects found in the source lists were already offline.",
+      "entries": [
+        {
+          "id": "sefaria-ai-library-assistant",
+          "name": "Sefaria: AI features and Library Assistant",
+          "name_he": "",
+          "url": "https://www.sefaria.org/ai",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Sefaria's page on its AI features, including an experimental chatbot that answers with linked citations, and its rules for labeling AI content.",
+          "annotation_md": "- The page sets out where Sefaria uses AI: LLM-based citation linking (also through the Sefaria Linker on outside sites), AI-assisted introductions and source selection on about 1,000 English topic pages, a Pirkei Avot learning guide drafted by AI and reviewed by staff, relevance sorting of user source sheets, and an AI-drafted, human-edited English translation of the Kli Yakar.\n- The **Library Assistant**, an experimental chatbot built on Claude that answers questions with cited, linked sources, launched in spring 2026.\n- Policy points: AI content is marked (an outline star for AI-assisted content with human review, a filled star for unreviewed AI content); AI output must point back to sources in the library; AI is not used for halakhic rulings or personal advice.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search",
+            "translation"
+          ],
+          "status_note": "Checked live 9-Oct-2026. The sefaria.org URL redirects by language (e.g. to sefaria.org.il).",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "mekoros",
+          "name": "Mekoros",
+          "name_he": "",
+          "url": "https://mekoros.com",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "AI source-finder that collects primary sources on a Torah topic, traces how an idea developed, and exports source sheets.",
+          "annotation_md": "- Covers Tanakh, both Talmuds, Rishonim, Acharonim, halakha and responsa; built on the Sefaria library.\n- States that each result is checked against the primary text. How this check works is not described, so treat it as a claim and verify quotations yourself.\n- A pricing page exists; the free scope was not confirmed.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "binata",
+          "name": "Binata",
+          "name_he": "בינתא",
+          "url": "https://binata-ai.com/",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Hebrew-first AI study assistant that answers with source references and marks quotations it cannot match to the original text.",
+          "annotation_md": "- Library: Tanakh and commentaries, Bavli and Yerushalmi, midrash, Rishonim, Shulchan Arukh with commentaries, and responsa; draws on Sefaria. Subscribers can add their own texts.\n- Each quotation is checked against the source; unmatched quotes are flagged as unverified. A \"research mode\" writes a longer article.\n- Free monthly quota for registered users; premium subscription in shekels. Interface mainly Hebrew, with an English option. Presents itself as a study aid, not a halakhic authority.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ituria",
+          "name": "Ituria",
+          "name_he": "",
+          "url": "https://github.com/Sivan22/ituria",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Open-source AI agent that searches a Jewish text library, reads passages and pulls commentaries before it answers.",
+          "annotation_md": "- Uses a reason-and-act agent design with a local full-text index and the Sefaria API. Built in connection with the Otzaria project.\n- Works with several model providers (Claude, GPT, Gemini) or local open models through Ollama.\n- Code on GitHub; a demo is linked from the README.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search",
+            "api"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "torah-research-board",
+          "name": "Torah Research Board",
+          "name_he": "",
+          "url": "https://torah-research.yaakovbeckerman.com/",
+          "access": "unknown",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Infinite-canvas research workspace that places Sefaria texts side by side with AI analysis.",
+          "annotation_md": "- A Sefaria \"team pick\" in the Powered by Sefaria list.\n- The site is a JavaScript app; details of the AI model and its citation handling could not be checked automatically.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search"
+          ],
+          "status_note": "Site responds (9-Oct-2026); features not verified in detail.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "AI study and research assistants",
+      "group": "Chat and explanation",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "yochai",
+          "name": "Yochai",
+          "name_he": "",
+          "url": "https://www.yochai.wiki/chat",
+          "access": "unknown",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Socratic AI study partner that leads the user to primary sources and asks questions rather than giving answers.",
+          "annotation_md": "- Built on a curated library of more than 1,000 primary sources with entity data linked to Sefaria.\n- Developed by Zohar Atkins (per jewishai.me).",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "talmud"
+          ],
+          "status_note": "Site responds (9-Oct-2026); described as a \"Jewish Learning Companion\".",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "pshatgpt",
+          "name": "PshatGPT",
+          "name_he": "",
+          "url": "https://pshatgpt.com/",
+          "access": "freemium",
+          "languages": [
+            "en",
+            "he",
+            "arc"
+          ],
+          "summary": "Tap a line of Talmud or Tanya to get a streamed AI explanation of its plain meaning in context.",
+          "annotation_md": "- Covers the Babylonian Talmud and Tanya (more Hasidic works announced); texts come from Sefaria. Offers several explanation styles and longer \"iyun\" sessions.\n- Daily free limit; beyond it users can supply their own Anthropic API key.\n- Explanations are model output, not a commentary: check them against Rashi and the standard commentaries.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "talmud",
+            "hasidut"
+          ],
+          "status_note": "Checked live 9-Oct-2026. Page notes a move to a new home and that account sync was not yet configured.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Text processing: vocalization, abbreviations, translation",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "dicta-tools-2026",
+          "name": "Dicta tools (2026 update)",
+          "name_he": "דיקטה",
+          "url": "https://dicta.org.il/tools",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Dicta's free machine-learning tools for Hebrew texts, including automatic vocalization, abbreviation expansion and citation finding.",
+          "annotation_md": "- Also listed in the 2023 guide (Dicta entry under Search and Related Tools). Tools most relevant here:\n    - [Nakdan](https://nakdan.dicta.org.il/): adds nikud automatically; modes for modern, rabbinic and poetic Hebrew.\n    - [Rabbinic abbreviation expander](https://abbreviation.dicta.org.il/): resolves ראשי תיבות in context.\n    - [Citation finder](https://citation.dicta.org.il/): finds exact and loose quotations of Bible, Mishnah and Talmud in a pasted text.\n- Dicta, led by Moshe Koppel, also publishes open language models (see the Dicta Hugging Face entry below).",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "hebrew-language",
+            "search",
+            "talmud"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sofer-ai",
+          "name": "Sofer.ai",
+          "name_he": "",
+          "url": "https://sofer.ai",
+          "access": "freemium",
+          "languages": [
+            "en",
+            "he",
+            "yi",
+            "arc"
+          ],
+          "summary": "AI platform for Torah media: transcribes shiurim in mixed English, Hebrew, Yiddish and Aramaic, and converts scanned Hebrew and Rashi-script books to text.",
+          "annotation_md": "- Transcripts have timestamped topic outlines and click-to-play audio; a search tool (\"Maishiv\") answers only from the user's own transcripts and notes.\n- OCR for scanned Hebrew and Rashi script.\n- Free tier (a few transcripts a month) and paid personal and commercial plans.\n- Founded by Zachary Fisch; see the Seforim Chatter interview under Readings.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "ocr-htr",
+            "transcription"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "OCR and handwritten text recognition",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "midrash-erc",
+          "name": "MiDRASH (ERC Synergy project)",
+          "name_he": "",
+          "url": "https://www.midrash.eu/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "jrb"
+          ],
+          "summary": "Large European-Israeli project to transcribe and analyze tens of thousands of medieval Hebrew-script manuscripts with HTR and NLP.",
+          "annotation_md": "- Full title: \"Migrations of Textual and Scribal Traditions via Large-Scale Computational Analysis of Medieval Manuscripts in Hebrew Script\" (ERC grant 101071829). Partners: EPHE-PSL (Paris), Tel Aviv University, Bar-Ilan University, with the National Library of Israel and the University of Haifa.\n- Targets about 30,000 manuscripts and 300,000 fragments in Hebrew, Aramaic and Judeo-Arabic; uses NLI KTIV images and the eScriptorium/kraken toolchain (see Escriptorium in the 2023 guide).\n- First outputs are on Zenodo (next two entries). A conference on computational manuscript studies is planned at Tel Aviv University in December 2026.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "manuscripts",
+            "geniza",
+            "ocr-htr",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "midrash-geniza-transcriptions",
+          "name": "MiDRASH automatic transcriptions of the Cairo Geniza",
+          "name_he": "",
+          "url": "https://zenodo.org/records/17734473",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "jrb",
+            "ar"
+          ],
+          "summary": "Downloadable first-pass machine transcription of the National Library of Israel's entire Cairo Geniza image collection.",
+          "annotation_md": "- Released November 2025 (CC BY 4.0), a zipped text file of about 445 MB; made with kraken. Fragments are matched to KTIV by their system number.\n- The publishers call it \"very preliminary and imperfect\": segmentation and reading errors, some wrong reading order, vertical text mostly skipped, weaker Arabic-script results. Use it to find fragments, not to quote them.\n- Corrected transcriptions are to be added to KTIV.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "geniza",
+            "manuscripts",
+            "ocr-htr"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "midrash-geniza-htr-model",
+          "name": "MiDRASH Geniza HTR model",
+          "name_he": "",
+          "url": "https://zenodo.org/records/18732245",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "jrb"
+          ],
+          "summary": "Open handwritten-text-recognition model for Hebrew-script Geniza fragments, for use with kraken and eScriptorium.",
+          "annotation_md": "- Fine-tuned on documentary and literary Geniza texts (including Tannaitic literature and Talmud) on top of a broad Hebrew-script base model. Abbreviations are not expanded.\n- Version 2, February 2026; license CC BY-NC-SA 4.0.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "geniza",
+            "manuscripts",
+            "ocr-htr",
+            "api"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "transkribus-hebrew-models",
+          "name": "Transkribus: Hebrew and Yiddish models",
+          "name_he": "",
+          "url": "https://www.transkribus.org/hebrew-manuscript-transcription",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "yi"
+          ],
+          "summary": "Transkribus page listing its public Hebrew-script recognition models and the option to train a model on one's own manuscripts.",
+          "annotation_md": "- Public models include DiJeSt 3.0 (printed Hebrew and Yiddish; see the 2023 entry on the DiJeSt model), a 15th-century Sephardic semi-cursive model, the Pinkas Brody model for 19th-century communal records, and several Yiddish handwriting models.\n- No general public model for medieval Ashkenazi or Italian hands was found; for such material users usually train their own model (about 50-150 transcribed pages).\n- Free monthly credits; paid plans for larger work.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "manuscripts",
+            "ocr-htr",
+            "transcription"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "tikkoun-sofrim",
+          "name": "Tikkoun Sofrim",
+          "name_he": "",
+          "url": "https://tikkunsofrim.hypotheses.org/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Crowdsourcing project in which volunteers correct machine transcriptions of medieval Hebrew manuscripts of Midrash Tanhuma.",
+          "annotation_md": "- Joint project of the University of Haifa, the National Library of Israel and EPHE (Paris). Manuscripts were first read with kraken; each line is corrected by several volunteers and the best reading is chosen automatically.\n- Reported character error rates of about 3-9% before correction, on manuscripts in Paris, Parma, the Vatican and Geneva.\n- Described in the ACM *Journal on Computing and Cultural Heritage* (2021). A forerunner of the MiDRASH work.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "manuscripts",
+            "midrash",
+            "ocr-htr",
+            "transcription",
+            "digital-humanities"
+          ],
+          "status_note": "Project blog found via web search 9-Oct-2026; current activity not confirmed.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Developer resources: APIs, MCP servers, models and datasets",
+      "group": "APIs, MCP servers and tutorials",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "sefaria-developers",
+          "name": "Sefaria developer portal and API",
+          "name_he": "",
+          "url": "https://developers.sefaria.org/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Documentation and interactive reference for Sefaria's free API, with links to its data exports, Hugging Face assets and MCP servers.",
+          "annotation_md": "- API reference: [developers.sefaria.org/reference](https://developers.sefaria.org/reference/getting-started).\n- An [llms.txt](https://developers.sefaria.org/llms.txt) index lists the docs in Markdown and the endpoints in OpenAPI form, for use by AI agents.\n- The [Powered by Sefaria](https://developers.sefaria.org/docs/powered-by-sefaria) page lists more than 130 projects built on the API.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sefaria-mcp",
+          "name": "Sefaria MCP servers",
+          "name_he": "",
+          "url": "https://developers.sefaria.org/docs/the-sefaria-mcp",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Official Model Context Protocol servers that let AI assistants such as Claude or ChatGPT search and quote the Sefaria library with citations.",
+          "annotation_md": "- **Sefaria Texts MCP** connects an assistant to the library for text questions with cited answers; **Sefaria Developers MCP** helps write code against the API.\n- Tools include text retrieval, search, links between texts, dictionary search, bibliographic data and manuscript images.\n- Open source: [Sefaria/sefaria-mcp](https://github.com/Sefaria/sefaria-mcp). Docs last updated September 2026.\n- An assistant connected this way can still misread or over-summarize a text; the gain is that its quotes come from the library and can be checked.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sefaria-linker",
+          "name": "Sefaria Linker",
+          "name_he": "",
+          "url": "https://www.sefaria.org/linker",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Script for websites that finds citations of Jewish texts on a page and links them to Sefaria; now uses LLMs to recognize references.",
+          "annotation_md": "- Sefaria's AI page describes the Linker as using LLMs to identify citations both inside the library and on outside websites.\n- Sefaria's open citation-recognition models are on its Hugging Face page.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "search"
+          ],
+          "status_note": "Checked live 9-Oct-2026. The sefaria.org URL redirects by language.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "torah-mcp",
+          "name": "Torah MCP",
+          "name_he": "",
+          "url": "https://torah-mcp.jonathan-ef2.workers.dev",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Community MCP server for Claude that adds a chavruta mode, citation discipline and full-text search of about 50,000 HebrewBooks volumes to Sefaria access.",
+          "annotation_md": "- Open source (MIT). Sixteen free tools, including Sefaria text search, HebrewBooks search, calendar and gematria.\n- The site itself recommends using it together with Sefaria's official MCP server.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "search",
+            "printed-books"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "torah-scholar-skill",
+          "name": "Torah Scholar (agent skill)",
+          "name_he": "",
+          "url": "https://github.com/abeperl/torah-scholar",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Small open-source skill and command-line tool that lets AI agents search Sefaria and fetch texts, links and commentaries.",
+          "annotation_md": "- Commands for search, verse lookup, links and related texts; uses the Sefaria API with no key.\n- Core features free; a paid add-on unlocks extra features.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ask-the-rambam-rag-tutorial",
+          "name": "Ask the Rambam: RAG tutorial",
+          "name_he": "",
+          "url": "https://www.youtube.com/watch?v=CNIO2MsfeTo",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Beginner-level video tutorial on building a retrieval-augmented Q&A bot that answers only from the Mishneh Torah.",
+          "annotation_md": "- A worked example of the main technique behind citation-grounded tools: retrieve passages first, then let the model answer only from them.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "halakha",
+            "video"
+          ],
+          "status_note": "Video page responds (9-Oct-2026).",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Developer resources: APIs, MCP servers, models and datasets",
+      "group": "Models and datasets",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "sefaria-hugging-face",
+          "name": "Sefaria on Hugging Face",
+          "name_he": "",
+          "url": "https://huggingface.co/Sefaria",
+          "access": "open",
+          "languages": [
+            "he",
+            "en",
+            "arc"
+          ],
+          "summary": "Sefaria's open models and datasets: citation and named-entity recognition models, full library exports, links and Hebrew-English pairs.",
+          "annotation_md": "- Models: Hebrew and English Torah NER, reference and sub-reference recognizers, and a BEREL-based linker model.\n- Datasets: Hebrew and English library dumps, the links graph, Rabbinic Hebrew-English pairs, a gold NER set, and the Rabbinic Embedding Leaderboard (next entry).",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "rabbinic-embedding-leaderboard",
+          "name": "Rabbinic Embedding Leaderboard",
+          "name_he": "",
+          "url": "https://huggingface.co/datasets/Sefaria/Rabbinic-Embedding-Leaderboard",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "en"
+          ],
+          "summary": "Benchmark results comparing text-embedding models on retrieving and matching rabbinic Hebrew and Aramaic passages.",
+          "annotation_md": "- About 3,700 test pairs across Talmud, Mishnah, Midrash Rabbah, halakha and other categories; scores for 32 models (results dated January to September 2026).\n- Useful for anyone choosing an embedding model for semantic search over rabbinic texts. MIT license.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "search",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "sefaria-export",
+          "name": "Sefaria Export",
+          "name_he": "",
+          "url": "https://github.com/Sefaria/Sefaria-Export",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Full bulk download of the Sefaria library (about 26 GB) in JSON, plain-text and CLTK formats, with schemas and the links graph.",
+          "annotation_md": "- Files are in a public cloud bucket; the repo holds a monthly-updated index (books.json) and download scripts.\n- Licenses vary by text version; check each text's license before reuse.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "dicta-hugging-face",
+          "name": "Dicta on Hugging Face (DictaLM, DictaBERT, BEREL)",
+          "name_he": "",
+          "url": "https://huggingface.co/dicta-il",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Dicta's open Hebrew language models: the DictaLM chat models, DictaBERT encoders and BEREL for rabbinic Hebrew.",
+          "annotation_md": "- **DictaLM 3.0** (late 2025): open-weight Hebrew-English chat models in 24B, 12B and 1.7B sizes, Apache-2.0.\n- **DictaBERT**: encoders for segmentation, morphology, syntax, lexical tasks and vocalization.\n- **BEREL** (BERT Embeddings for Rabbinic-Encoded Language, 2022): a model trained for rabbinic Hebrew; BEREL 3.0 is the newer version.\n- Most are for developers; the Nakdan and other Dicta web tools put them to use for end users.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "hebrew-language"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Developer resources: APIs, MCP servers, models and datasets",
+      "group": "Directories",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "nnlp-il-resources",
+          "name": "Hebrew and Arabic NLP resources (NNLP-IL)",
+          "name_he": "",
+          "url": "https://resources.nnlp-il.mafat.ai/",
+          "access": "open",
+          "languages": [
+            "he",
+            "ar"
+          ],
+          "summary": "Searchable directory of Hebrew and Arabic NLP corpora, models and tools, with license information.",
+          "annotation_md": "- Mostly modern Hebrew, but includes rabbinic and historical items such as BEREL, the Sefaria export, Project Ben-Yehuda dumps, JPress and the KIMA historical gazetteer.\n- Run by Israel's National NLP Program.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "hebrew-language"
+          ],
+          "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Readings: scholarship and essays on AI and Judaism",
+      "group": "Academic",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "ai-reading-god-and-golem-inc",
+          "name": "God and Golem, Inc. (Norbert Wiener)",
+          "name_he": "",
+          "url": "https://mitpress.mit.edu/9780262730112/god-and-golem-inc/",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Short classic by the founder of cybernetics on machines, learning and creation, which draws on golem imagery.",
+          "annotation_md": "- Author(s): Wiener, Norbert. Year: 1966.\n- jewishai.me gives 1966; the MIT Press first edition is 1964.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-religion-and-the-robot-tradition-8",
+          "name": "Religion and the Robot - Tradition 8",
+          "name_he": "",
+          "url": "https://hods.org/pdf/Azriel%20Rosenfeld%20-%20Religion%20and%20the%20Robot.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Pioneering 1966 article by a computer scientist and rabbi on whether a thinking machine raises religious problems.",
+          "annotation_md": "- Author(s): Rosenfeld, A. Year: 1966.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-golem-jewish-magical-and-mystical-traditions",
+          "name": "Golem: Jewish Magical and Mystical Traditions (Moshe Idel)",
+          "name_he": "",
+          "url": "https://www.amazon.com/Golem-Magical-Mystical-Traditions-Artificial/dp/0791423875",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Standard scholarly study of golem-making traditions from late antiquity to modern times.",
+          "annotation_md": "- Author(s): Idel, Moshe. Year: 1990.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "kabbalah",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-golems-among-us-how-a-jewish-legend-can-help-us-na",
+          "name": "Golems Among Us: How a Jewish Legend Can Help Us Navigate the Biotech Century",
+          "name_he": "",
+          "url": "https://www.amazon.com/Golems-Among-Us-Navigate-Biotech/dp/1566635683",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Book that uses the golem legend to think through bioethics and the making of artificial life.",
+          "annotation_md": "- Author(s): Sherwin, Byron L.. Year: 2004.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-robotics-and-artificial-intelligence-jewish-ethica",
+          "name": "Robotics and artificial intelligence: Jewish ethical perspectives",
+          "name_he": "",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-211-33303-7_2",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Early academic chapter on Orthodox Jewish views of robotics and AI.",
+          "annotation_md": "- Author(s): Rappaport, Z. H.. Year: 2006.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-golems-in-the-biotech-century",
+          "name": "Golems in the Biotech Century (Zygon)",
+          "name_he": "",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9744.2006.00810.x",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Uses the golem tradition as a frame for ethical questions about biotechnology and artificial life.",
+          "annotation_md": "- Author(s): Sherwin, Byron L.. Year: 2007.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-golem-legend-and-the-enigma-of-facebook",
+          "name": "The Golem Legend and the Enigma of Facebook (Zygon)",
+          "name_he": "",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/zygo.12643",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Uses the golem legend to interpret the social effects of large platforms such as Facebook.",
+          "annotation_md": "- Author(s): Ambrus, Gábor L.. Year: 2020.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-golem-in-the-age-of-artificial-intelligence",
+          "name": "The Golem in the Age of Artificial Intelligence (Academia.edu)",
+          "name_he": "",
+          "url": "https://www.academia.edu/43891992/The_Golem_in_the_Age_of_Artificial_Intelligence",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Paper on how golem legends can frame questions about present-day AI.",
+          "annotation_md": "- Author(s): Vudka, Amir. Year: 2020.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-from-the-tree-of-knowledge-and-the-golem-of-prague",
+          "name": "From the Tree of Knowledge and the Golem of Prague to Kosher Autonomous Cars (Oxford Journal of Law and Religion)",
+          "name_he": "",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675987",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues from Jewish law and ethics against giving moral personhood to AI and self-driving cars.",
+          "annotation_md": "- Author(s): Goltz, Nachshon (Sean); Zeleznikow, John; Dowdeswell, Tracey. Year: 2020.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-staying-human-a-jewish-theology-for-the-age-of-art",
+          "name": "Staying Human: A Jewish Theology for the Age of Artificial Intelligence",
+          "name_he": "",
+          "url": "https://www.jewishbookcouncil.org/book/staying-human-a-jewish-theology-for-the-age-of-artificial-intelligence",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Book-length Jewish theology of what it means to stay human alongside AI.",
+          "annotation_md": "- Author(s): Bor, Harris. Year: 2021.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-human-condition-in-an-algorithmized-world-a-cr",
+          "name": "The Human Condition in An Algorithmized World: A Critique through the Lens of 20th-Century Jewish Thinkers and the Concepts of Rationality, Alterity and History by Nathalie A. Smuha :: SSRN",
+          "name_he": "",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4093683",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Uses twentieth-century Jewish philosophy to critique algorithmic decision-making.",
+          "annotation_md": "- Author(s): Smuha, Nathalie. Year: 2022.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-let-us-make-man-in-our-image-a-jewish-ethical-pers",
+          "name": "Let Us Make Man in Our Image: A Jewish Ethical Perspective on Creating Conscious Robots (AI and Ethics)",
+          "name_he": "",
+          "url": "https://link.springer.com/article/10.1007/s43681-023-00328-y",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Uses the golem as a model to argue that building conscious humanoid robots is morally problematic from a Jewish ethical view.",
+          "annotation_md": "- Author(s): Navon, Mois. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-ai-and-jewish-law-seeing-how-chatgpt-4-0-looks-at",
+          "name": "AI and Jewish Law: Seeing How ChatGPT 4.0 Looks at a Novel Issue (Canopy Forum)",
+          "name_he": "",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4520100",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Puts a new question of Jewish law to GPT-4 and evaluates the quality of its halakhic reasoning.",
+          "annotation_md": "- Author(s): Broyde, Michael J.. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-to-make-a-mind-a-primer-on-conscious-robots",
+          "name": "To Make a Mind—A Primer on Conscious Robots (Theology and Science)",
+          "name_he": "",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/14746700.2023.2294530",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Introductory survey of the philosophy and science of machine consciousness.",
+          "annotation_md": "- Author(s): Navon, Mois. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-moral-status-of-artificial-intelligence-a-jewi",
+          "name": "The Moral Status of Artificial Intelligence — a Jewish Ethical Perspective",
+          "name_he": "",
+          "url": "https://www.researchgate.net/publication/380458244_The_Moral_Status_Of_Artificial_Intelligence_-_a_Jewish_Ethical_Perspective",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Dissertation in Jewish philosophy on what moral standing, if any, an artificial agent could have.",
+          "annotation_md": "- Author(s): Navon, Mois. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-ajs-perspectives-the-artificial-intelligence-issue",
+          "name": "AJS Perspectives: The Artificial Intelligence Issue",
+          "name_he": "",
+          "url": "https://associationforjewishstudies.org/docs/default-source/ajs-perspectives/ajs_perspectives-ai-issue-web.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Themed issue of the Association for Jewish Studies magazine with short scholarly essays on AI, the golem, memory, teaching and bias.",
+          "annotation_md": "- Author(s): Schulman, Jason (ed.); Association for Jewish Studies. Year: 2024.\n- Contributions include essays on the golem and robots, AI as midrash, AI and Holocaust memory, AI and antisemitism, and a roundtable on teaching.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-golem-the-djinni-and-chatgpt-artificial-intell",
+          "name": "The Golem, the Djinni, and ChatGPT: Artificial Intelligence and the Islamicate Occult Sciences (Theology and Science)",
+          "name_he": "",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/14746700.2024.2436785",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Reads AI against golem and djinn traditions in Islamicate occult sciences, by a scholar of Islamic studies.",
+          "annotation_md": "- Author(s): Inloes, Amina. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-s-understanding-of-religio",
+          "name": "Artificial Intelligence's Understanding of Religion: Investigating the Moralistic Approaches Presented by Generative AI Tools (Religions)",
+          "name_he": "",
+          "url": "https://www.mdpi.com/2077-1444/15/3/375",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Tests how generative AI tools describe Judaism, Islam and Christianity and finds a moralizing, flattened picture.",
+          "annotation_md": "- Author(s): Tsuria, Ruth; Tsuria, Yossi. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-machine-translation-for-historical-research-aramai",
+          "name": "Machine Translation for Historical Research: Aramaic-Ancient Hebrew (ACM)",
+          "name_he": "",
+          "url": "https://dl.acm.org/doi/10.1145/3627168",
+          "access": "subscription",
+          "languages": [
+            "en",
+            "arc",
+            "he"
+          ],
+          "summary": "Builds and publishes a parallel Aramaic-Hebrew corpus from Targum Onkelos and tests machine translation for historical research.",
+          "annotation_md": "- Author(s): Liebeskind, Chaya; Liebeskind, Shmuel; Bouhnik, Dan. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "translation",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-jewish-perspectives-on-artificial-intelligence-and",
+          "name": "Jewish Perspectives on Artificial Intelligence and Synthetic Biology",
+          "name_he": "",
+          "url": "https://hakirah.org/vol35Grossman.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Survey of halakhic and traditional sources on golems, free will, liability and labor as they bear on AI and synthetic biology.",
+          "annotation_md": "- Author(s): Grossman, Yitzhak. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-a-jewish-theological-perspective-on-technology",
+          "name": "A Jewish Theological Perspective on Technology (Orthodox) (St Andrews Encyclopaedia of Theology)",
+          "name_he": "",
+          "url": "https://www.saet.ac.uk/Judaism/AJewishTheologicalPerspectiveonTechnologyOrthodox",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Encyclopedia entry setting out an Orthodox Jewish theological view of technology.",
+          "annotation_md": "- Author(s): Navon, Mois. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy",
+            "encyclopedia"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-religious-actors-as-friction-creators-shaping-the",
+          "name": "Religious Actors as Friction Creators Shaping the AI Dialogue (Laws)",
+          "name_he": "",
+          "url": "https://www.mdpi.com/2075-471X/14/5/67",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues that religious groups act as useful sources of friction in public debate on AI governance.",
+          "annotation_md": "- Author(s): Barth, Whittney. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-and-jewish-thought-the-cam",
+          "name": "Artificial Intelligence and Jewish Thought - The Cambridge Companion to Religion and Artificial Intelligence",
+          "name_he": "",
+          "url": "https://davidzvi.com/wp-content/uploads/2025/02/Artificial-Intellige-and-Jewish-Thought.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Broad scholarly overview of how Jewish thought has engaged with AI, written for a Cambridge handbook.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-ccar-journal-fall-2025-ai-and-the-rabbinate",
+          "name": "CCAR Journal Fall 2025: AI and the Rabbinate (special issue)",
+          "name_he": "",
+          "url": "https://www.ccarpress.org/9780881236736/ccar-journal-fall-2025/",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Special issue of the Reform movement's quarterly on AI and the rabbinate, with essays on ethics, authority and creativity.",
+          "annotation_md": "- Author(s): Various. Year: 2025.\n- The editors' introduction is available as a [free PDF](https://www.ccarnet.org/wp-content/uploads/2025/12/Fall-2025_At-the-Gates.pdf).\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-altman-s-golem",
+          "name": "Altman's Golem (Springer book chapter)",
+          "name_he": "",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-05155-4_12",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Book chapter that reads the rhetoric of AI leaders through the golem legend.",
+          "annotation_md": "- Author(s): Laywine, Nathaniel; Simon, Vanessa. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-algorithms-zombies-and-maimonides-god-a-jewish-the",
+          "name": "Algorithms, Zombies and Maimonides' God: A Jewish Theology of Consciousness for the Age of AI (TRADITION)",
+          "name_he": "",
+          "url": "https://traditiononline.org/algorithms-zombies-and-maimonides-god-a-jewish-theology-of-consciousness-for-the-age-of-ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Builds a Maimonidean account of consciousness to address questions raised by AI.",
+          "annotation_md": "- Author(s): Zilbergerts, Marina. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Readings: scholarship and essays on AI and Judaism",
+      "group": "Essays",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "ai-reading-the-golem-and-the-limits-of-artifice",
+          "name": "The Golem and the Limits of Artifice (The New Atlantis)",
+          "name_he": "",
+          "url": "https://www.thenewatlantis.com/publications/the-golem-and-the-limits-of-artifice",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Review essay that questions the use of the golem legend to justify unlimited technological creation.",
+          "annotation_md": "- Author(s): Rubin, Charles T.. Year: 2013.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-torah-study-and-the-digital-revolution-a-glimpse-o",
+          "name": "Torah Study and the Digital Revolution: A Glimpse of the Future (The Lehrhaus)",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/commentary/torah-study-and-the-digital-revolution-a-glimpse-of-the-future/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Programmatic essay predicting that NLP will automate vocalization, punctuation, citation and parallel-finding in Torah texts.",
+          "annotation_md": "- Author(s): Koppel, Moshe; Shmidman, Avi. Year: 2020.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-computers-can-write-torah-now-should-we-be-excited",
+          "name": "Computers Can Write Torah Now — Should We Be Excited or Terrified? (Forward)",
+          "name_he": "",
+          "url": "https://forward.com/culture/469440/computers-can-write-torah-now-should-we-be-excited-or-terrified/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Early look at GPT-3 writing mock responsa and midrash, and what that means for Jewish texts.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2021.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-torah-genius-infallibility-and-augmented-intellige",
+          "name": "Torah Genius, Infallibility and Augmented Intelligence (Seforim Blog)",
+          "name_he": "",
+          "url": "https://seforimblog.com/2022/03/torah-genius-infallibility-and-augmented-intelligence/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues that great Torah scholars were fallible and that technology can assist, not replace, them.",
+          "annotation_md": "- Author(s): Fraenkel, Avinoam. Year: 2022.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-jewish-technophobia-an-old-story-sapir-journal",
+          "name": "Jewish Technophobia: An Old Story - SAPIR Journal",
+          "name_he": "",
+          "url": "https://sapirjournal.org/technology/2023/jewish-technophobia-an-old-story/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Historian traces recurring Jewish anxieties about new technology, from print onward.",
+          "annotation_md": "- Author(s): Schacter, Jacob J.. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-judaism-at-the-speed-of-technological-change-sapir",
+          "name": "Judaism at the Speed of Technological Change - SAPIR Journal",
+          "name_he": "",
+          "url": "https://sapirjournal.org/technology/2023/judaism-at-the-speed-of-technological-change/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Essay on what happens to a religious tradition when technology changes faster than its norms.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-jewish-ethics-in-an-age-of-autonomous-warfare-sapi",
+          "name": "Jewish Ethics in an Age of Autonomous Warfare - SAPIR Journal",
+          "name_he": "",
+          "url": "https://sapirjournal.org/technology/2023/jewish-ethics-in-an-age-of-autonomous-warfare/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Applies a case-based Jewish ethics to the problem of autonomous weapons.",
+          "annotation_md": "- Author(s): Brody, Shlomo. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-judaism-s-three-doors-into-ai",
+          "name": "Judaism's Three Doors into AI (Jello Menorah)",
+          "name_he": "",
+          "url": "https://jellomenorah.substack.com/p/judaisms-three-doors-into-ai",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Sorts Jewish responses to AI into three modes: halakhic, theological and practical.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-on-gizzards-and-the-making-of-rabbis",
+          "name": "On Gizzards and the Making of Rabbis (The Lehrhaus)",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/commentary/on-gizzards-and-the-making-of-rabbis/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues from how pesak actually works that a ruling needs an embodied human decisor.",
+          "annotation_md": "- Author(s): Schwartz, Ezra. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-can-artificial-intelligence-pasken",
+          "name": "Can Artificial Intelligence Pasken? (multi-part series, Talmud & Tech)",
+          "name_he": "",
+          "url": "https://www.ezrabrand.com/p/can-artificial-intelligence-pasken",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Series summarizing and analyzing a Haredi podcast debate on whether AI can issue halakhic rulings.",
+          "annotation_md": "- Author(s): Brand, Ezra. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "Disclosure: the author's own project.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-the-newest-revolution-in-t",
+          "name": "Artificial Intelligence: The Newest Revolution in Torah Study? (Jewish Action)",
+          "name_he": "",
+          "url": "https://jewishaction.com/cover-story/artificial-intelligence-the-newest-revolution-in-torah-study/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Interview with Moshe Koppel on how AI could change Torah study.",
+          "annotation_md": "- Author(s): Koppel, Moshe. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-what-artificial-intelligence-has-in-store-for-juda",
+          "name": "What Artificial Intelligence Has In Store for Judaism (Mosaic)",
+          "name_he": "",
+          "url": "https://mosaicmagazine.com/essay/politics-current-affairs/2024/03/what-artificial-intelligence-has-in-store-for-judaism/",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Dicta's founder argues that AI will change Jewish life and learning more deeply than earlier technologies.",
+          "annotation_md": "- Author(s): Koppel, Moshe. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-jews-aren-t-loud-enough-about-ai",
+          "name": "Jews Aren't Loud Enough about AI (Mosaic Magazine)",
+          "name_he": "",
+          "url": "https://mosaicmagazine.com/response/politics-current-affairs/2024/03/jews-arent-loud-enough-about-ai/",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Response in the same exchange, arguing that Jewish thinkers are not engaging AI seriously enough.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-will-jewish-tradition-adapt-to-ai",
+          "name": "Will Jewish Tradition Adapt to AI? (Mosaic response)",
+          "name_he": "",
+          "url": "https://mosaicmagazine.com/response/politics-current-affairs/2024/04/will-jewish-tradition-adapt-to-ai",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Koppel's reply in the same exchange: halakha has built-in ways to adapt to AI-era questions.",
+          "annotation_md": "- Author(s): Koppel, Moshe. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-torah-to-go-artificial-intelligence",
+          "name": "Torah To-Go: Artificial Intelligence (Chanukah 5785, Yeshiva University)",
+          "name_he": "",
+          "url": "https://download.yutorah.org/2024/1053/1119209/the-benjamin-and-rose-berger-chanuka-to-go-5785.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Yeshiva University holiday reader with short essays by rabbis and scholars on AI.",
+          "annotation_md": "- Author(s): Various (RIETS, Yeshiva University). Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-like-silicon-from-clay-what-ancient-jewish-wisdom",
+          "name": "Like Silicon From Clay: What Ancient Jewish Wisdom Can Teach Us About AI",
+          "name_he": "",
+          "url": "https://www.amazon.com/Like-Silicon-Clay-Ancient-Jewish/dp/0844750840/",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Popular book that applies Jewish legends and modes of reasoning to current questions about AI.",
+          "annotation_md": "- Author(s): Rosen, Michael. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-moses-set-the-table-can-ai-help-serve-the-torah",
+          "name": "Moses set the table — can AI help serve the Torah? (eJewish Philanthropy)",
+          "name_he": "",
+          "url": "https://ejewishphilanthropy.com/moses-set-the-table-can-ai-help-serve-the-torah/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Sefaria's chief learning officer explains how the library applies AI while keeping learners tied to sources.",
+          "annotation_md": "- Author(s): Wolkenfeld, Sara. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-torah-like-technology-is-a-form-of-optimism",
+          "name": "Torah, Like Technology, Is a Form of Optimism (Shalom Hartman Institute)",
+          "name_he": "",
+          "url": "https://www.hartman.org.il/torah-like-technology-is-a-form-of-optimism/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues that Torah study has always adapted to new technology and can adapt to AI too.",
+          "annotation_md": "- Author(s): Wolkenfeld, Sara. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-deep-research-will-change-jewish-law",
+          "name": "Deep Research Will Change Jewish Law (Jello Menorah)",
+          "name_he": "",
+          "url": "https://www.jellomenorah.com/p/deep-search-will-change-jewish-law",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Tests a deep-research AI tool on demanding halakhic questions and reports what it can and cannot do.",
+          "annotation_md": "- Author(s): Kalman, David Zvi. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-tradition-questions-the-rabbi-ai",
+          "name": "TRADITION Questions: The Rabbi & AI",
+          "name_he": "",
+          "url": "https://traditiononline.org/tradition-questions-rabbiai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Essay in Tradition's online series on what AI means for the work of a rabbi.",
+          "annotation_md": "- Author(s): Flug, Josh. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-robot-rabbi-chatgpt5-s-stance-on-assuming-the",
+          "name": "The Robot Rabbi: ChatGPT5's Stance on Assuming the Role of a Posek, Rabbi, or Talmud Scholar (Talmud & Tech)",
+          "name_he": "",
+          "url": "https://www.ezrabrand.com/p/the-robot-rabbi-chatgpt5s-stance",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Tests GPT-5 on four kinds of Jewish legal and textual scholarship and reports its strengths and failures.",
+          "annotation_md": "- Author(s): Brand, Ezra. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "Disclosure: the author's own project.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-ameilut-in-the-age-of-ai",
+          "name": "Ameilut in the Age of AI (The Lehrhaus)",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/commentary/ameilut-in-the-age-of-ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Asks what toil in Torah study means once AI can do much of the intellectual labor.",
+          "annotation_md": "- Author(s): Hollander, Max. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-talmud-torah-in-the-age-of-ai",
+          "name": "Talmud Torah in the Age of AI (Torah Musings)",
+          "name_he": "",
+          "url": "https://www.torahmusings.com/2025/08/talmud-torah-in-the-age-of-ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues that AI will not change the core of Torah study, by analogy to earlier shifts in how Torah was recorded.",
+          "annotation_md": "- Author(s): Student, Gil. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-when-artificial-intelligence-came-to-life-in-18th",
+          "name": "When Artificial Intelligence Came to Life in 18th-Century Amsterdam (Tablet)",
+          "name_he": "",
+          "url": "https://www.tabletmag.com/sections/history/articles/artificial-intelligence-18th-century-amsterdam",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Historical essay on the Amsterdam of the Chacham Tzvi and his responsum on whether a golem counts for a minyan.",
+          "annotation_md": "- Author(s): Levine, Yosie. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "history",
+            "responsa"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-talmud-torah-in-the-age-of-ai-2",
+          "name": "Talmud Torah in the Age of AI (Shtark Tank)",
+          "name_he": "",
+          "url": "https://shtarktank.org/p/talmud-torah-in-the-age-of-ai",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Essay on what remains essential in Talmud Torah when AI can retrieve and summarize sources.",
+          "annotation_md": "- Author(s): Fisch, Zachary. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-cherlow-ai-chavruta",
+          "name": "הבינה המלאכותית כחברותא (Yeshiva.org.il)",
+          "name_he": "",
+          "url": "https://www.yeshiva.org.il/midrash/57322",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew essay asking whether AI can serve as a study partner.",
+          "annotation_md": "- Author(s): Cherlow, Yuval. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-algorithm-that-couldn-t-see-ai-ethics-and-the",
+          "name": "The Algorithm That Couldn't See: AI Ethics and the Halakhic Discipline of Perception (The Lehrhaus)",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/commentary/the-algorithm-that-couldnt-see-ai-ethics-and-the-halakhic-discipline-of-perception/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Argues that AI changes perception itself and sets this against a halakhic discipline of seeing.",
+          "annotation_md": "- Author(s): Feit, Joseph. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-torah-in-the-age-of-artificial-intelligence-jewish",
+          "name": "Torah in the Age of Artificial Intelligence - Jewish Action",
+          "name_he": "",
+          "url": "https://jewishaction.com/cover-story/torah-in-the-age-of-artificial-intelligence-2/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Cover-story series in the OU magazine on how AI is and will be used in Torah study.",
+          "annotation_md": "- Author(s): Various. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-rabbi-lamm-aliens-and-imitating-god-in-the-age-of",
+          "name": "Rabbi Lamm, Aliens, and Imitating God in the Age of AI (The Lehrhaus)",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/scholarship/rabbi-lamm-aliens-and-imitating-god-in-the-age-of-ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Uses R. Norman Lamm's essay on extraterrestrial life as a model for keeping human worth in view of AI.",
+          "annotation_md": "- Author(s): Hollander, Max. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Readings: scholarship and essays on AI and Judaism",
+      "group": "Halakhic responsa",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "ai-reading-mikyab-shut-ai",
+          "name": "על בינה מלאכותית - שו\"ת (mikyab.net)",
+          "name_he": "",
+          "url": "https://mikyab.net/%D7%A9%D7%95%D7%AA/%D7%A2%D7%9C-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew question-and-answer exchange on whether a sufficiently advanced AI could have halakhic standing.",
+          "annotation_md": "- Author(s): Avraham, Michael (הרב מיכאל אברהם). Year: 2016.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-halakhic-responses-to-artificial-intelligence-and",
+          "name": "Halakhic Responses to Artificial Intelligence and Autonomous Machines (Rabbi Daniel Nevins)",
+          "name_he": "",
+          "url": "https://www.rabbinicalassembly.org/sites/default/files/nevins_ai_moral_machines_and_halakha-final_1.pdf",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Conservative movement responsum, approved by its law committee, on halakhic questions about AI and autonomous machines.",
+          "annotation_md": "- Author(s): Nevins, Daniel. Year: 2019.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-the-next-frontier-in-jewish-law-artificial-intelli",
+          "name": "The Next Frontier in Jewish Law: Artificial Intelligence (Jewish Action)",
+          "name_he": "",
+          "url": "https://jewishaction.com/religion/jewish-law/the-next-frontier-in-jewish-law-artificial-intelligence/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Interview with a prominent Israeli posek on new halakhic questions raised by AI.",
+          "annotation_md": "- Author(s): Rimon, Yosef Zvi. Year: 2020.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-mikyab-column-590",
+          "name": "על פוביות טכנולוגיות ופסיקות של בינה מלאכותית — טור 590 (הרב מיכאל אברהם)",
+          "name_he": "",
+          "url": "https://mikyab.net/posts/82482/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew column arguing that resistance to AI-issued rulings rests partly on technophobia.",
+          "annotation_md": "- Author(s): Avraham, Michael (הרב מיכאל אברהם). Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-is-an-ai-posek-kosher",
+          "name": "Is an AI Posek Kosher? (Rabbi Gil Student)",
+          "name_he": "",
+          "url": "https://www.torahmusings.com/2023/06/is-an-ai-posek-kosher/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Considers, on the whole positively, the use of AI as an aid to Torah study and pesak.",
+          "annotation_md": "- Author(s): Student, Gil. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-and-authorship",
+          "name": "Artificial Intelligence and Authorship (CCAR Responsa 5784.2)",
+          "name_he": "",
+          "url": "https://www.ccarnet.org/ccar-responsa/5784-2-artificial-intelligence-and-authorship/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Reform responsum on whether a rabbi may present AI-written material as their own and what must be disclosed.",
+          "annotation_md": "- Author(s): CCAR Responsa Committee (Friedman, Joan S., chair). Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-software-and-artificial-intelligence-in-halacha",
+          "name": "Software and Artificial Intelligence (AI) in Halacha",
+          "name_he": "",
+          "url": "https://feldheim.com/software-and-artificial-intelligence-ai-in-halacha",
+          "access": "purchase",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Book-length halakhic treatment of software and AI questions by a software engineer.",
+          "annotation_md": "- Author(s): Alter, Shaul Moshe. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-meshiv-asking-ai-halakha",
+          "name": "לשאול הלכה מבינה מלאכותית (AI), האם אפשר? (משיב - Meshiv)",
+          "name_he": "",
+          "url": "https://meshiv.co.il/en/shelot_vetshuvot/to-ask-halachic-questions-for-chat-gbt-ai/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Hebrew responsum ruling that one may not rely on a halakhic answer from ChatGPT or similar tools.",
+          "annotation_md": "- Author(s): Bahbout, Eliyahu. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-and-halacha-rabbi-josh-flu",
+          "name": "Artificial Intelligence and Halacha - Rabbi Josh Flug",
+          "name_he": "",
+          "url": "https://www.yutorah.org/lectures/1119217/Artificial-Intelligence-and-Halacha",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Survey of halakhic questions raised by AI with the key sources.",
+          "annotation_md": "- Author(s): Flug, Josh. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-ten-reasons-why-we-cannot-turn-to-ai-for-psak-unde",
+          "name": "Ten Reasons Why We Cannot Turn to AI for Psak: Understanding the Nature and Philosophy of the Halachic Process",
+          "name_he": "",
+          "url": "https://www.yutorah.org/lectures/1119225/Ten-Reasons-Why-We-Cannot-Turn-to-AI-for-Psak:-Understanding-the-Nature-and-Philosophy-of-the-Halachic-Process",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Sets out ten reasons why AI cannot serve as a posek, based on the nature of pesak.",
+          "annotation_md": "- Author(s): Wiederblank, Netanel. Year: 2024.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-using-artificial-intelligence-systems-to-rule-hala",
+          "name": "Using Artificial Intelligence Systems to Rule Halacha [Abridged Position Paper] (Tzohar Center for Jewish Ethics)",
+          "name_he": "",
+          "url": "https://ethics.tzohar.org.il/en/using-artificial-intelligence-systems-to-rule-halacha-abridged-position-paper/",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Tzohar position paper: AI can help halakhic research and study but must not replace the human decisor.",
+          "annotation_md": "- Author(s): Cherlow, Yuval; Moskowitz, Yaron. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-amital-ai-pesak",
+          "name": "פסיקת הלכה על ידי בינה מלאכותית (שיעורי הרב יואל עמיטל)",
+          "name_he": "",
+          "url": "https://yoelamital.com/%D7%9B%D7%9C%D7%9C%D7%99/%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%95%D7%94%D7%9C%D7%9B%D7%94/%D7%9B%D7%98-%D7%A4%D7%A1%D7%99%D7%A7%D7%AA-%D7%94%D7%9C%D7%9B%D7%94-%D7%A2%D7%9C-%D7%99%D7%93%D7%99-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew shiur arguing that AI cannot legitimately issue halakhic rulings.",
+          "annotation_md": "- Author(s): Amital, Yoel (הרב יואל עמיטל).\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Readings: scholarship and essays on AI and Judaism",
+      "group": "Podcasts and lectures",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "ai-reading-rabbi-adin-even-israel-steinsaltz-in-dialogue-with",
+          "name": "Rabbi Adin Even-Israel Steinsaltz in dialogue with Ray Kurzweil",
+          "name_he": "",
+          "url": "https://www.youtube.com/watch?v=q42F9-F17t8",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Recorded dialogue between R. Adin Steinsaltz and futurist Ray Kurzweil.",
+          "annotation_md": "- Author(s): Steinsaltz, Adin Even-Israel. Year: 2014.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-michael-broyde-ai-and-jewish-law",
+          "name": "Michael Broyde — AI and Jewish Law (Interactions: A Law and Religion Podcast)",
+          "name_he": "",
+          "url": "https://podcasts.apple.com/us/podcast/michael-broyde-ai-and-jewish-law-seeing-how-chatgpt-4/id1525642093?i=1000633360373",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Law-and-religion podcast episode with Michael Broyde on putting a novel halakhic question to ChatGPT.",
+          "annotation_md": "- Author(s): Broyde, Michael. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-moshe-koppel-artificial-intelligence-and-torah",
+          "name": "Moshe Koppel: Artificial Intelligence and Torah (18Forty)",
+          "name_he": "",
+          "url": "https://18forty.org/podcast/moshe-koppel/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "18Forty interview with Moshe Koppel on AI and Torah.",
+          "annotation_md": "- Author(s): Bashevkin, David (host); Koppel, Moshe (guest). Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-judaism-unbound-episode-408-jewish-artificial-inte",
+          "name": "Judaism Unbound Episode 408: Jewish Artificial Intelligence — David Zvi Kalman",
+          "name_he": "",
+          "url": "https://www.judaismunbound.com/podcast/episode-408-david-zvi-kalman",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Judaism Unbound interview with David Zvi Kalman on Jewish approaches to AI.",
+          "annotation_md": "- Author(s): Rofeberg, Lex; Libenson, Dan (hosts); Kalman, David Zvi (guest). Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-bible-by-bot",
+          "name": "Bible by Bot (Hartman Institute)",
+          "name_he": "",
+          "url": "https://www.hartman.org.il/biblebybot/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Hartman Institute podcast episode on AI and the Bible.",
+          "annotation_md": "- Author(s): Kalman, David Zvi; Wolkenfeld, Sara. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-headlines-shiur-422-can-ai-pasken-will-artificial",
+          "name": "Headlines – Shiur 422 – Can AI Pasken? Will Artificial Intelligence ever replace Rabbonim?",
+          "name_he": "",
+          "url": "http://podcast.headlinesbook.com/e/61023-%e2%80%93-shiur-422-%e2%80%93-can-ai-pasken-will-artifical-intelligence-ever-replace-rabbonim/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Headlines shiur with interviews of leading rabbis on whether AI can pasken.",
+          "annotation_md": "- Author(s): Lichtenstein, Dovid. Year: 2023.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-responsa-radio-ai-chatbot",
+          "name": "Can an AI Chatbot Answer My Halakhic Questions? (Responsa Radio)",
+          "name_he": "",
+          "url": "https://podcasts.apple.com/us/podcast/can-an-ai-chatbot-answer-my-halakhic-questions/id929388589?i=1000642778203",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Responsa Radio episode on whether a chatbot can answer halakhic questions.",
+          "annotation_md": "- Author(s): Tucker, Ethan. Year: 2024.\n- Listed twice on jewishai.me with the two Responsa Radio episode titles and links swapped; this entry follows the link.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-scrolls-and-screens-ai-s-role-in-jewish-learning-w",
+          "name": "Scrolls and Screens: AI's Role in Jewish Learning — with Sara Wolkenfeld (AI and Faith podcast #26)",
+          "name_he": "",
+          "url": "https://aiandfaith.org/aif-podcast/podcast-ai-jewish-learning-sara-wolkenfeld/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "AI and Faith podcast interview with Sefaria's chief learning officer on AI in Jewish learning.",
+          "annotation_md": "- Author(s): Wolkenfeld, Sara. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-jewish-history-and-the-jew",
+          "name": "Artificial Intelligence, Jewish History, and the Jewish Future",
+          "name_he": "",
+          "url": "https://www.youtube.com/watch?v=RY6biBCqjjk",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Video lecture series by a historian on AI, Jewish history and the Jewish future.",
+          "annotation_md": "- Author(s): Abramson, Henry. Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "video",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-belief-in-the-future",
+          "name": "Belief in the Future",
+          "name_he": "",
+          "url": "https://podcasts.apple.com/us/podcast/belief-in-the-future/id1753951860",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Podcast series on religion, technology and the future, hosted by a scholar of Judaism and technology.",
+          "annotation_md": "- Author(s): Kalman, David Zvi (host). Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-sofer-ai-ai-and-torah-with-zach-fisch",
+          "name": "Sofer.AI: AI and Torah with Zach Fisch (Seforim Chatter)",
+          "name_he": "",
+          "url": "https://seforimchatter.com/2026/02/15/sofer-ai-ai-and-torah-with-zach-fisch/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Seforim Chatter episode with the founder of Sofer.ai on AI and Torah.",
+          "annotation_md": "- Author(s): Weinstein, Nachi (host); Fisch, Zachary (guest). Year: 2026.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Artificial Intelligence (new in 2026)",
+      "subsection": "Readings: scholarship and essays on AI and Judaism",
+      "group": "Resource hubs and research centers",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "ai-reading-18forty-podcast-ai-episodes-and-articles",
+          "name": "18Forty Podcast - AI Episodes and Articles",
+          "name_he": "",
+          "url": "https://18forty.org/topics/ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "18Forty topic page with its podcasts and essays on AI.",
+          "annotation_md": "- Author(s): Various. Year: 2025.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-topic-page",
+          "name": "Artificial Intelligence Topic Page (Sefaria)",
+          "name_he": "",
+          "url": "https://www.sefaria.org/topics/artificial-intelligence",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Sefaria topic page gathering classical and modern sources tagged to artificial intelligence.",
+          "annotation_md": "- Author(s): Various.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-artificial-intelligence-topic-hub",
+          "name": "Artificial Intelligence topic hub (Tikvah Ideas / Mosaic)",
+          "name_he": "",
+          "url": "https://ideas.tikvah.org/mosaic/topics/artificial-intelligence",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Topic page of the Tikvah/Mosaic platform with its essays on AI.",
+          "annotation_md": "- Author(s): Tikvah Fund (Mosaic Magazine).\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-elijah-lab-university-of-haifa",
+          "name": "eLijah Lab, University of Haifa",
+          "name_he": "",
+          "url": "https://elijahlab.haifa.ac.il",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "University of Haifa digital-humanities lab for Jewish studies, partner in HTR, crowdsourcing and MiDRASH work.",
+          "annotation_md": "- Author(s): University of Haifa (eLijah Lab).\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "digital-humanities",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-david-zvi-kalman-personal-website",
+          "name": "David Zvi Kalman: writing on AI",
+          "name_he": "",
+          "url": "https://davidzvi.com/artificial-intelligence/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "David Zvi Kalman's page collecting his academic and popular writing on AI and religion.",
+          "annotation_md": "- Author(s): Kalman, David Zvi.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-essay-series-on-ai-in-jewish-thought-and-law-torah",
+          "name": "Torah Musings: AI essays",
+          "name_he": "",
+          "url": "https://www.torahmusings.com/topics/ai/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Torah Musings archive of essays on AI in Jewish law and thought.",
+          "annotation_md": "- Author(s): Student, Gil.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "ai-reading-rabbi-dr-mois-navon",
+          "name": "Mois Navon (Divrei Navon)",
+          "name_he": "",
+          "url": "https://www.divreinavon.com",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Mois Navon's site with his lectures, essays and dissertation on AI ethics.",
+          "annotation_md": "- Author(s): Navon, Mois.\n- Found via the jewishai.me resource library.",
+          "footnotes_md": [],
+          "tags": [
+            "ai"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

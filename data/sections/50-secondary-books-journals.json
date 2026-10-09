@@ -1,0 +1,1092 @@
+{
+  "part": "F",
+  "source_pages": [
+    28,
+    35
+  ],
+  "blocks": [
+    {
+      "section": "Secondary literature",
+      "subsection": "Books",
+      "group": "Open-access",
+      "intro_md": "There are a nice amount of academic books available online, especially more recent ones.",
+      "entries": [
+        {
+          "id": "daat",
+          "name": "Daat",
+          "name_he": "דעת",
+          "url": "https://www.daat.ac.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew Judaica site with books as text and scanned PDFs, including out-of-copyright works and recent open-access scholarly books.",
+          "annotation_md": "- Has both books as text, as well as scanned PDFs. Includes lots of out-of-copyright books, as well as recent open-access scholarly books, see [here](https://daat.ac.il/daat/bibliogr/allbooks.asp?sub=0), and [here](https://daat.ac.il/EPUB/home.asp).\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%93%D7%A2%D7%AA_(%D7%90%D7%AA%D7%A8_%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98)): “Daat is a Hebrew website whose main content is texts in the fields of Judaism and the humanities that were collected from various printed sources. The site contains learning and teaching materials in various fields: Bible, Torah Sheba’al Peh, Shabbat and festivals, Jewish history, Jewish thought, literature, studies of the Land of Israel, Shemita, medicine and halakhah, education, Hasidism, family studies, Hebrew law, army and war, the Holocaust, and more. The site includes extensive databases containing entire books, full text of articles published in about 30 different journals, photos and maps, illustrations, photographs and presentations.”",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 29,
+            "number": "1"
+          }
+        },
+        {
+          "id": "portal-hadaf-hayomi",
+          "name": "Portal HaDaf HaYomi",
+          "name_he": "פורטל הדף היומי",
+          "url": "http://daf-yomi.com/BookFilesAll.aspx?PageId=211",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "A few hundred scanned books, mostly on the Babylonian Talmud and often not found elsewhere, plus maps of Talmudic Babylonia.",
+          "annotation_md": "- Has a few hundred scanned books, mostly relating to Talmud Bavli, many of them not available elsewhere. Examples: R’ Kashet’s highly methodical works on lomdus ([קובץ יסודת וחקירות](http://daf-yomi.com/BookFiles.aspx?type=1&id=142); [אמרי במערבא](http://daf-yomi.com/BookFiles.aspx?type=1&id=36); [פלפולא דאורייתא](http://daf-yomi.com/BookFiles.aspx?type=1&id=442); [דרכי התלמודים](http://daf-yomi.com/BookFiles.aspx?type=1&id=520); see also there R’ Kashash’s similar style work, [קובץ מיסודות הש”ס](http://daf-yomi.com/BookFiles.aspx?type=1&id=561)); R’ Amitai’s well-researched and highly-structured works on Torah and science ([דע מאיין באו](http://daf-yomi.com/BookFiles.aspx?type=1&id=403); [הידיעות המדעיות שבדברי חז\"ל](http://daf-yomi.com/BookFiles.aspx?type=1&id=363); [היחס שבין היקף המעגל לרוחבו](http://daf-yomi.com/BookFiles.aspx?type=1&id=369); [באהלי שם](http://daf-yomi.com/BookFiles.aspx?type=1&id=440); [מנא להו](http://daf-yomi.com/BookFiles.aspx?type=1&id=513); [אמונה טהורה](http://daf-yomi.com/BookFiles.aspx?type=1&id=558)); R’ Pinchuk’s intro to Talmud Yerushalmi ([מבוא ללימוד התלמוד הירושלמי](http://daf-yomi.com/BookFiles.aspx?type=1&id=544)); some great works on Talmudic humor (Engleman’s [שעשועי](http://daf-yomi.com/BookFiles.aspx?type=1&id=559); Lifshitz’s [ברוח טובה](http://daf-yomi.com/BookFiles.aspx?type=1&id=242)).\n- [Maps of Talmudic Babylonia](http://daf-yomi.com/content.aspx?PageId=93).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "printed-books",
+            "geography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 29,
+            "number": "2"
+          }
+        },
+        {
+          "id": "society-interpretation-talmud",
+          "name": "Society for the Interpretation of the Talmud",
+          "name_he": "האיגוד לפרשנות התלמוד",
+          "url": "http://www.talmudha-igud.org.il/nosafot.asp?lang=en&id=5",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Free PDFs of the first seven volumes of a high-level scholarly Modern Hebrew commentary series on the Babylonian Talmud.",
+          "annotation_md": "Scholarly interpretation of Talmud Bavli, written in Modern Hebrew.\n\n- Recommended. The first seven of their publications are available there (published between 2006 - 2016). Does not include the most recent publications published 2019 - 2021. The level of scholarship is very high.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%99%D7%92%D7%95%D7%93_%D7%9C%D7%A4%D7%A8%D7%A9%D7%A0%D7%95%D7%AA_%D7%94%D7%AA%D7%9C%D7%9E%D7%95%D7%93): “A series of commentaries on the Babylonian Talmud based on scientific research as well as a traditional-religious interpretation. Most of the project’s books are available for public use as PDF files on the Society’s website, along with additional unpublished reference materials. The chairman of the association is its founder, Professor Shama Friedman, and its management consists of Prof. Yeshayahu Gafni, Prof. Gideon Libson and Prof. Shmuel Shilo.”",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "bible-commentary"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 29,
+            "number": "3"
+          }
+        },
+        {
+          "id": "sifriyat-asif",
+          "name": "Asif - Sifriyat Asif",
+          "name_he": "אסיף - ספריית אסיף",
+          "url": "https://asif.co.il/%d7%a1%d7%a4%d7%a8%d7%99%d7%99%d7%aa-%d7%99%d7%95%d7%9e%d7%90/%d7%a2%d7%91%d7%95%d7%93%d7%95%d7%aa-%d7%97%d7%a7%d7%a8/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew dissertations, books and Torah journals from Hesder and Religious-Zionist circles, divided and searchable.",
+          "annotation_md": "Dissertations in Hebrew, written by scholars associated with hesder and Religious-Zionist institutions. Also [whole books](https://asif.co.il/%d7%a1%d7%a4%d7%a8%d7%99%d7%99%d7%aa-%d7%99%d7%95%d7%9e%d7%90/%d7%a1%d7%a4%d7%a8%d7%99%d7%9d/) and [Torah journals](https://asif.co.il/%d7%a1%d7%a4%d7%a8%d7%99%d7%99%d7%aa-%d7%99%d7%95%d7%9e%d7%90/%d7%93%d7%a4%d7%99-%d7%99%d7%a9%d7%99%d7%91%d7%95%d7%aa/) divided neatly and searchable, many of them of potential scholarly interest, well-annotated and sourced (such as R’ David Bruckner’s series [Mishnat Tana’im](https://asif.co.il/%d7%a1%d7%a4%d7%a8%d7%99%d7%99%d7%aa-%d7%99%d7%95%d7%9e%d7%90/%d7%a1%d7%a4%d7%a8%d7%99%d7%9d/%d7%9e%d7%a9%d7%a0%d7%aa-%d7%aa%d7%a0%d7%90%d7%99%d7%9d/)).",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "journal",
+            "mishnah"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 29,
+            "number": "4"
+          }
+        },
+        {
+          "id": "psik",
+          "name": "P’sik",
+          "name_he": "פסיק",
+          "url": "https://ebooks.psik.io/home",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Digital platform of Hebrew scholarly books for a wider audience, mainly on Bible and contemporary religious thought.",
+          "annotation_md": "Scholarly books in Hebrew, for a more popular audience, mostly on Bible and contemporary religious thought.\n\n- From [Bar-Ilan University’s library guide](https://lib.biu.ac.il/en/Ebooks%20%20Full%20): “The digital book platform is designed for reading and academic research.”",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 29,
+            "number": "5"
+          }
+        },
+        {
+          "id": "de-gruyter-open-access",
+          "name": "De Gruyter",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Academic publisher with around 100 open-access English books on Jewish topics available for download.",
+          "annotation_md": "Academic publisher. Has [around 100 open-access books in English categorized as on Jewish topics](https://www.degruyter.com/search?query=licenseType%3A%22open-access%22&startItem=0&pageSize=10&sortBy=relevance&subjectFacet=JS&documentTypeFacet=book&languageFacet=en) available for download.",
+          "footnotes_md": [
+            "50 Search done on 23-Jan-2022. Example of books available: Ari Bergmann’s recent book, [The Formation of the Talmud: Scholarship and Politics in Yitzhak Isaac Halevy’s Dorot Harishonim](https://www.degruyter.com/document/doi/10.1515/9783110709834/html) (2021); [Guggenheimer’s recent translation into English and short commentary of Talmud Yershalmi](https://www.degruyter.com/serial/jertal-b/html). (Guggenheimer’s translation is also available in Sefaria.)"
+          ],
+          "tags": [
+            "printed-books",
+            "talmud",
+            "translation"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 30,
+            "number": "6"
+          }
+        },
+        {
+          "id": "jstor-books",
+          "name": "JSTOR",
+          "name_he": "",
+          "url": "https://www.jstor.org/subject/jewishstudies",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Many open-access books on JSTOR, especially about 65 open-access titles from the Brown Judaic Studies backlist.",
+          "annotation_md": "- Many open-access books, see the books marked “open-access”.\n- Especially [JSTOR, Brown Judaic Studies](https://www.jstor.org/publisher/bjs). Currently around 65 open-access books. From the “Publisher Description”:\n  - “Brown Judaic Studies has been publishing scholarly books in all areas of Judaic studies for forty years. Our books, many of which contain groundbreaking scholarship, were typically printed in small runs and are not easily accessible outside of major research libraries. We are delighted that with the support of a grant from the National Endowment for the Humanities/Andrew W. Mellon Foundation Humanities Open Book Program, we are now able to make available, in digital, open-access, format, fifty titles from our backlist. Once digitized the volumes will be freely available through ProjectMUSE, JSTOR, ACLS Open Humanities and the Hathi Trust.”",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 30,
+            "number": "7"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Secondary literature",
+      "subsection": "Books",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "kotar",
+          "name": "Kotar",
+          "name_he": "כותר",
+          "url": "https://kotar.cet.ac.il/",
+          "access": "subscription",
+          "languages": [
+            "he"
+          ],
+          "summary": "Subscription digital library of Hebrew academic books, with around 800 Jewish studies titles, often reachable through library access.",
+          "annotation_md": "Requires subscription.\n\n- For Hebrew academic books. Fairly user friendly for reading, though not as user-friendly as Kindle (see later). According to results, around 800 titles in Jewish studies. Leans towards newer publications. Subscription for remote access is sometimes available through libraries, such as my library (Tel Aviv library). Should be pointed out that Kotar links are often linked in National Library’s Merhav search results (see earlier under “Search”).[^51]\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%AA%D7%A8_(%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94_%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%D7%AA)): “A website that is an online library for subscribers of scholarly books in Hebrew, in collaboration with Israeli publishers. The title library offers hundreds of digital books and online reference on a wide range of topics from the humanities and social sciences, law, natural sciences and exact sciences and more. The publishers involved in the project include about 100 academic, public and private book publishers. The library began operating in January 2006. Kotar offers online access to a large variety of information sources. Kotar offers online browsing of a selection of over 3,000 titles (as of March 2018) of reference and information books and is constantly expanding.”\n- There are a large amount of works put out by the following publishers:\n  - Yad Ben-Tzvi\n  - Bialik\n  - Sifriyat Heileil Ben-Chaim\n- A few of the hundreds of books that are available there (all in Hebrew, as mentioned):\n  - M. Kahana et. al (ed.), [Sifrut Hazal HaEretz Yisra’elit](https://kotar.cet.ac.il/kotarapp/index/Book.aspx?nBookID=104820662) (2 vol.)\n  - A. Grosman, [Rashi VeHaPolemos HaYehudi HaNotzri](https://kotar.cet.ac.il/kotarapp/index/Book.aspx?nBookID=109043536)\n  - A. Reiner, [Rabbeinu Tam](https://kotar.cet.ac.il/kotarapp/index/Book.aspx?nBookID=108308905)\n  - S. Reif, [HaGeniza MiKahir](https://kotar.cet.ac.il/kotarapp/index/Book.aspx?nBookID=108702657)\n  - Anat Reizel, [Mavo LeMidrashim](https://kotar.cet.ac.il/kotarapp/index/Book.aspx?nBookID=105755469).[^52]",
+          "footnotes_md": [
+            "51 Such as for the series משנת ארץ ישראל. It appears that the entire series is on Kotar, see [Merhav search results](https://nli.userservices.exlibrisgroup.com/view/uresolver/972NNL_INST/openurl?Force_direct=false&ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2022-01-06T17%3A01%3A41IST&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-NNL_ALEPH&req_id=&rft_dat=ie=972NNL_INST/51440491650005171,ie=972NNL_INST:51440491650005171,language=heb,view=NLI&svc_dat=viewit&u.ignore_date_coverage=true&Force_direct=true&is_new_ui=true) and [Kotar search results](https://kotar.cet.ac.il/KotarApp/Search.aspx?sSearchText=%D7%9E%D7%A9%D7%A0%D7%AA%20%D7%90%D7%A8%D7%A5%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C&lang=#0).",
+            "52 This book is also available open-access, in a very user-friendly format, at a dedicated website: [מבוא למדרשים | מחלקי המים](https://www.mayim.org.il/publications/#gsc.tab=0). Thanks to Eliezer Brodt for pointing this out."
+          ],
+          "tags": [
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 30,
+            "number": "8"
+          }
+        },
+        {
+          "id": "kindle-e-books",
+          "name": "Kindle e-books",
+          "name_he": "",
+          "url": "",
+          "access": "purchase",
+          "languages": [
+            "en"
+          ],
+          "summary": "Amazon e-books, recommended for English scholarly books, with highlighting, annotation, dictionary lookup and free samples.",
+          "annotation_md": "- Requires purchase for full books. Samples of first 10% of book are often available for free.\n- Great for scholarly books in English. Recommend, in my opinion underrated as a resource for scholarly English books. Great advantages of Kindle e-books:\n  - Can highlight and annotate, with a special section with your highlights and annotations, which is great for later skimming and refreshing memory.\n  - Can hover for dictionary definitions and Wikipedia entry header paragraphs.\n  - As well as many of the other advantages mentioned above for electronic resources: instant availability; takes up minimal space, searchable, easily screenshotted, etc.\n  - For most books, can download free sample of beginning of book, usually containing front matter, Table of Contents, intro, and first chapter or two.\n- However, it should be pointed out that Kindle editions are not necessarily “cheap”, though they’re generally cheaper than the physical copies. For example, Halivni’s book mentioned below is currently being sold on Amazon for $104, and the Kindle version is $67.[^53]\n- Some of the many scholarly books available on Kindle:\n  1. Secunda, [The Iranian Talmud](https://www.amazon.com/dp/B084YWP1C8) (2013)\n  2. Halivni, [The Formation of the Babylonian Talmud](https://www.amazon.com/dp/B00DY57D6C) (2013)\n  3. Cohen, [From the Maccabees to the Mishnah](https://www.amazon.com/dp/B00SVSGVSI/) (2014)\n  4. Feiner, [The Jewish Enlightenment](https://www.amazon.com/dp/B00B4FJ9BQ) (2011)\n  5. Fonrobert & Jaffee (eds.), [The Cambridge Companion to the Talmud and Rabbinic Literature](https://www.amazon.com/Cambridge-Companion-Rabbinic-Literature-Companions-ebook/dp/B00AA8JWQ0/) (2007)",
+          "footnotes_md": [
+            "53 As of 20-Jan-2022."
+          ],
+          "tags": [
+            "printed-books",
+            "app"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 31,
+            "number": "9"
+          }
+        },
+        {
+          "id": "magnes-press",
+          "name": "Magnes Press",
+          "name_he": "",
+          "url": "https://www.magnespress.co.il/category/%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%99%D7%94%D7%93%D7%95%D7%AA-76?format=ebook",
+          "access": "purchase",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew University press selling around 350 e-books to read in its own app.",
+          "annotation_md": "Hebrew University’s academic press. Around 350 books available as ebooks for purchase, to read on their app. Came across this while researching this guide, have no idea if it’s any good, but looks promising.",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "app"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 31,
+            "number": "10"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Secondary literature",
+      "subsection": "Journals",
+      "group": "Open-access",
+      "intro_md": "There are a lot of academic articles readily available online.[^54]\n\nJournals whose full archives are currently open-access.",
+      "entries": [
+        {
+          "id": "kiryat-sefer",
+          "name": "Kiryat Sefer",
+          "name_he": "קרית ספר",
+          "url": "https://www.nli.org.il/he/research-and-teach/catalogs/bibliographic-databases/rambi/kiryat-sefer",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "National Library bibliographic journal, open archive 1924-1998, with many articles by leading Hebrew bibliographers.",
+          "annotation_md": "(years available: 1924 - 1998). Scholarly articles written in Modern Hebrew.\n\n- Recommended. Contains a huge number of articles by the greats of Hebrew bibliography.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%AA_%D7%A1%D7%A4%D7%A8_(%D7%9E%D7%A4%D7%A2%D7%9C_%D7%91%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99)): “The journal was published from the founding of the database in 1925 until 2003. It also contains many bibliographic articles.”",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "1"
+          }
+        },
+        {
+          "id": "cathedra",
+          "name": "Cathedra",
+          "name_he": "קתדרה",
+          "url": "https://www.ybz.org.il/cathedra/gilyonot",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Yad Ben-Zvi journal in Modern Hebrew, open archive 1976-2017.",
+          "annotation_md": "(years available: 1976 - 2017). Scholarly articles written in Modern Hebrew.\n\n- See description in Wikipedia Hebrew: [קתדרה (כתב עת) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%AA%D7%93%D7%A8%D7%94_(%D7%9B%D7%AA%D7%91_%D7%A2%D7%AA))",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "history",
+            "geography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "2"
+          }
+        },
+        {
+          "id": "peamim",
+          "name": "Pe’amim",
+          "name_he": "פעמים",
+          "url": "https://www.ybz.org.il/?CategoryID=287&SearchParam=",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Yad Ben-Zvi journal in Modern Hebrew, open archive 1979-2009; later issues mostly closed.",
+          "annotation_md": "(years available: 1979 - 2009). Scholarly articles written in Modern Hebrew. After 2009, some articles open-access, but most not.\n\n- See description in Wikipedia Hebrew: [פעמים – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A4%D7%A2%D7%9E%D7%99%D7%9D).",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "3"
+          }
+        },
+        {
+          "id": "jsij",
+          "name": "Jewish Studies, an Internet Journal",
+          "name_he": "",
+          "url": "https://jewish-faculty.biu.ac.il/en/JSIJ",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Free peer-reviewed online journal (JSIJ) of Bar-Ilan University covering all fields of Jewish studies since 2002.",
+          "annotation_md": "(years available: 2002 -). Scholarly articles written in English and Modern Hebrew\n\n- Started in 2002, have issued 21 issues so far. Editor-in-Chief - Prof. James L. Kugel. Managing Editor - Prof. Leib Moscovitz.\n- From the home page: “JSIJ is a peer-reviewed electronic journal dealing with all fields of Jewish studies, which is distributed free of charge via the Internet. By publishing articles electronically via the Internet, JSIJ seeks to disseminate articles much faster than is possible with paper publication, and to make these articles readily and conveniently accessible to a wide variety of readers at all times. We hope that the use of this new technology will eventually allow JSIJ to develop in ways not available with conventional print journals, including the possibility of computerized full-text searches and the use of hyperlinks to other texts.”",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "4"
+          }
+        },
+        {
+          "id": "ginzei-qedem",
+          "name": "Ginzei Qedem",
+          "name_he": "גנזי קדם",
+          "url": "https://www.ybz.org.il/?CategoryID=790",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Annual peer-reviewed journal of Genizah texts and studies from the Friedberg Genizah Project and the Ben-Zvi Institute.",
+          "annotation_md": "(years available: 2005 - ). Scholarly articles written in Modern Hebrew. Journal is published by the Friedberg Genizah Project and the Ben-Zvi Institute.\n\n- From the About page: “Ginzei Qedem is a peer reviewed annual publication devoted to Genizah texts and studies published by the Friedberg Genizah Project and the Ben-Zvi Institute. Ginzei Qedem uses the term, “Genizah texts and studies” in the widest sense of the term – fragments of literary works and documents from genizot in Cairo and elsewhere – including all the relevant disciplines – history, literature (including piyyut), language, Biblical studies and exegesis, Talmud and Rabbinics, magic etc. The articles are in Hebrew and English. Seven issues have appeared to date.”\n- See further description in Wikipedia Hebrew: [גנזי קדם (שנתון) – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%96%D7%99_%D7%A7%D7%93%D7%9D_(%D7%A9%D7%A0%D7%AA%D7%95%D7%9F))",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "geniza"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "5"
+          }
+        },
+        {
+          "id": "hatzofeh-lehochmat-yisrael",
+          "name": "HaTzofeh LaHochmat Yisra’el",
+          "name_he": "הצופה לחכמת ישראל",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Early Wissenschaft des Judentums journal (1921-1931), with its volumes on HebrewBooks.",
+          "annotation_md": "Available on HebrewBooks. (years available: 1921 - 1931). Scholarly articles written in Hebrew. See description in Wikipedia Hebrew: [הצופה מארץ הגר – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%94%D7%A6%D7%95%D7%A4%D7%94_%D7%9E%D7%90%D7%A8%D7%A5_%D7%94%D7%92%D7%A8).",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "6"
+          }
+        },
+        {
+          "id": "kovetz-al-yad",
+          "name": "Kovetz al Yad",
+          "name_he": "קובץ על יד",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Mekize Nirdamim series of editions of texts from manuscripts (1885-1946), on HebrewBooks.",
+          "annotation_md": "Available on HebrewBooks. (years available: 1885 - 1946). Publications of works from manuscripts. See description in Wikipedia Hebrew: [מקיצי נרדמים](https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%99%D7%A6%D7%99_%D7%A0%D7%A8%D7%93%D7%9E%D7%99%D7%9D).",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "manuscripts",
+            "critical-edition"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 32,
+            "number": "7"
+          }
+        },
+        {
+          "id": "revue-des-etudes-juives",
+          "name": "Revue des Etudes Juives",
+          "name_he": "",
+          "url": "https://www.sefarim.fr/hamore/ref-Sifria_Magazines_Revue%20des%20%E9tudes%20juives_65_145.aspx",
+          "access": "open",
+          "languages": [
+            "fr"
+          ],
+          "summary": "French Jewish studies journal, with an online archive linked from the guide.",
+          "annotation_md": "Available [here](https://www.sefarim.fr/hamore/ref-Sifria_Magazines_Revue%20des%20%E9tudes%20juives_65_145.aspx).[^55]",
+          "footnotes_md": [
+            "55 See [Otzar HaHochama forum](https://forum.otzar.org/viewtopic.php?f=7&t=22946#p229554) for description of how to access it from there (accessed 18-May-22)."
+          ],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "8"
+          }
+        },
+        {
+          "id": "hamaayan",
+          "name": "Hama’ayan",
+          "name_he": "המעין",
+          "url": "http://www.machonso.org/hamaayan/?task=list",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Quarterly Torah-and-scholarship journal since 1953, linked to Yeshivat Sha’alvim; recent issues at Machon Shlomo Uman, earlier ones at Daat and HebrewBooks.",
+          "annotation_md": "(years available: 1953 - 2009). Scholarly articles written in Modern Hebrew. Journal is currently affiliated with Yeshivat Sha’alvim.\n\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A2%D7%99%D7%9F_(%D7%9B%D7%AA%D7%91_%D7%A2%D7%AA)): “HaMa'ayan is a quarterly publication, published since 1953, ‘which combines a Torah dimension with a scientific-Torah dimension’ and contains various articles on Halacha, hashkafa, Jewish history and scholarly research.”\n- Available here:\n  - [המעין - מכון שלמה אומן](http://www.machonso.org/hamaayan/?task=list): years available: 2007 -\n  - Earlier issues, years available: 1953 - 2006, at [Daat](https://daat.ac.il/he-il/kitveyet/hamayan/gilyonot) and HebrewBooks",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "halakha",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "9"
+          }
+        },
+        {
+          "id": "netuim",
+          "name": "Netu’im",
+          "name_he": "נטועים",
+          "url": "https://herzogpress.herzog.ac.il/ktav.asp?id=2",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Herzog College / Yeshivat Alon Shevut journal on the Oral Torah, since 1994.",
+          "annotation_md": "(years available: 1994 -). Scholarly articles written in Modern Hebrew. Focuses on Torah Sheba’al Peh. Journal is affiliated with Yeshivat Alon Shevut and Herzog College.",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "talmud",
+            "mishnah"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "10"
+          }
+        },
+        {
+          "id": "al-atar",
+          "name": "Al Atar",
+          "name_he": "על אתר",
+          "url": "http://herzogpress.herzog.ac.il/ktav.asp?id=3",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Herzog College / Yeshivat Alon Shevut journal on the Land of Israel, since 1996.",
+          "annotation_md": "(years available: 1996 -). Scholarly articles written in Modern Hebrew. Focuses on Eretz Yisra’el. Journal is affiliated with Yeshivat Alon Shevut and Herzog College.",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "geography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "11"
+          }
+        },
+        {
+          "id": "dinei-yisrael",
+          "name": "Dinei Yisra’el",
+          "name_he": "דיני ישראל",
+          "url": "https://law.tau.ac.il/dine_israel/published",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Tel Aviv University journal of Jewish law, open online since 2009; older issues on Nevo.",
+          "annotation_md": "(years available: 2009 - ). Scholarly articles written in Modern Hebrew. Focuses on Jewish law. Journal is affiliated with Tel-Aviv University.[^56]",
+          "footnotes_md": [
+            "56 Previous issues of Dinei Yisra’el available at [Nevo](https://www.nevo.co.il/Books.aspx?Type=1) (נבו) with subscription, years available: 1970 -."
+          ],
+          "tags": [
+            "journal",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "12"
+          }
+        },
+        {
+          "id": "masechet",
+          "name": "Masechet",
+          "name_he": "",
+          "url": "https://jewish-faculty.biu.ac.il/node/669",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Bar-Ilan University journal on topics related to women, since 2004.",
+          "annotation_md": "(years available: 2004 - ). Scholarly articles written in Modern Hebrew. Focuses on topics related to women. Journal is affiliated with Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "13"
+          }
+        },
+        {
+          "id": "tallelei-orot",
+          "name": "Tallelei Orot",
+          "name_he": "טללי אורות",
+          "url": "https://orot.ac.il/%D7%98%D7%9C%D7%9C%D7%99-%D7%90%D7%95%D7%A8%D7%95%D7%AA",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Orot Yisra’el College journal since 1989, with selected articles also as text at Daat.",
+          "annotation_md": "(years available: 1989 - ). Scholarly articles written in Modern Hebrew. Journal is affiliated with Orot Yisra’el College. Also selected articles at [Daat](https://daat.ac.il/he-il/kitveyet/taleley_orot), in text format.",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "14"
+          }
+        },
+        {
+          "id": "oreshet",
+          "name": "Oreshet",
+          "name_he": "אורשת",
+          "url": "https://orot.ac.il/%D7%90%D7%95%D7%A8%D7%A9%D7%AA",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Orot Yisra’el College journal, since 2010.",
+          "annotation_md": "(years available: 2010 - ). Scholarly articles written in Modern Hebrew. Journal is affiliated with Orot Yisra’el College.",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "15"
+          }
+        },
+        {
+          "id": "moreshet-israel",
+          "name": "Moreshet Israel",
+          "name_he": "מורשת ישראל",
+          "url": "https://www.ariel.ac.il/wp/moreshet-israel-jurnal/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Ariel University journal, since 2018.",
+          "annotation_md": "(years available: 2018 - ). Scholarly articles written in Modern Hebrew. Journal is affiliated with Ariel University.",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "16"
+          }
+        },
+        {
+          "id": "oqimta",
+          "name": "Oqimta",
+          "name_he": "אוקימתא",
+          "url": "http://www.oqimta.org.il/PrevPublic.aspx",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Journal on rabbinic literature started by Prof. Shamma Friedman, since 2013, in Hebrew and English.",
+          "annotation_md": "(years available: 2013 - ). Scholarly articles written in Modern Hebrew and English. Journal started by Prof. Shamma Friedman of Bar-Ilan University.\n\n- See description in Wikipedia Hebrew: [אוקימתא (כתב עת)](https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A7%D7%99%D7%9E%D7%AA%D7%90_(%D7%9B%D7%AA%D7%91_%D7%A2%D7%AA))",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "17"
+          }
+        },
+        {
+          "id": "tradition",
+          "name": "Tradition",
+          "name_he": "",
+          "url": "https://traditiononline.org/archives/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Orthodox journal of Jewish thought with an open archive from 1958.",
+          "annotation_md": "(years available: 1958 -).",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "18"
+          }
+        },
+        {
+          "id": "hakirah",
+          "name": "Hakira",
+          "name_he": "",
+          "url": "https://hakirah.org/Archieve.htm",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Hakirah, the Flatbush journal of Jewish law and thought, peer-reviewed, since 2004.",
+          "annotation_md": "(years available: 2004 - ). Scholarly articles written in English.\n\n- [Wikipedia](https://en.wikipedia.org/wiki/%E1%B8%A4akirah_(journal)): “Ḥakirah, The Flatbush Journal of Jewish Law and Thought is a peer-reviewed academic journal in the field of halakha and Jewish thought. Hakirah is a Jewish journal which publishes articles that reflect a wide range of Orthodox beliefs and ideas. Those who submit articles run the gamut from laypeople, to rabbis, doctors and professors. The first volume of Hakirah was published in the fall of 2004. Each volume generally contains about ten English and two Hebrew articles comprising a total of about 250 pages. A new volume appears about every six to seven months.”",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "halakha",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "19"
+          }
+        },
+        {
+          "id": "journal-of-synagogue-music",
+          "name": "Journal of Synagogue Music Archive - Cantors Assembly",
+          "name_he": "",
+          "url": "https://www.cantors.org/journal-of-synagogue-music/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Full-text archive of the Cantors Assembly’s Journal of Synagogue Music, plus Torah-reading audio.",
+          "annotation_md": "- “The Cantors Assembly provides full text of Journal of Synagogue Music Archive and audio recordings or Torah reading. Essays address Jewish law related to music [and piyut].”[^57]",
+          "footnotes_md": [
+            "57 [https://huc.edu/libraries/free-online-resources/?table=Bible/Early%20Resources](https://huc.edu/libraries/free-online-resources/?table=Bible/Early%20Resources) > “Cantors Assembly”."
+          ],
+          "tags": [
+            "journal",
+            "liturgy",
+            "piyyut"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 33,
+            "number": "20"
+          }
+        },
+        {
+          "id": "torani-journals-hebrewbooks",
+          "name": "Torani journals on HebrewBooks",
+          "name_he": "",
+          "url": "https://www.hebrewbooks.org/journals",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Orthodox Torani journals in Modern Hebrew on HebrewBooks; mostly not scholarly, but some publish manuscripts of Geonic, medieval and later rabbinic works.",
+          "annotation_md": "Many Torani journals are available on [HebrewBooks](https://www.hebrewbooks.org/journals), by searching the title. Many are also linked to by Halacha Brura in their index of journals, and in their respective Wikipedia entries. These are Torani journals, meaning that they are published by Orthodox institutions. They are all written in Modern Hebrew. The articles in these journals are mostly not relevant for this guide; however, they often contain scholarly articles, especially related to publications of manuscripts of rabinnic works of Geonim, Rishonim, or Aharonim. For ideological reasons, the scholarly articles relevant for this guide generally don’t cover topics earlier than the Geonic period, and they are more likely to publish on recent topics than earlier ones.[^58]\n\nThe journals listed under this item (21a–21i) are given as separate entries.",
+          "footnotes_md": [
+            "58 See index of Hebrew Wikipedia entries on Torani journals here: [קטגוריה:ישראל: כתבי עת תורניים – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A9%D7%A8%D7%90%D7%9C:_%D7%9B%D7%AA%D7%91%D7%99_%D7%A2%D7%AA_%D7%AA%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%9D)"
+          ],
+          "tags": [
+            "journal",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21"
+          }
+        },
+        {
+          "id": "tzefunot",
+          "name": "Tzefunot",
+          "name_he": "צפונות",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal on bibliographic topics, 1989-1993.",
+          "annotation_md": "(years available: 1989 - 1993). Focuses on bibliographic topics. See description in Wikipedia: [צפונות](https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%95%D7%A0%D7%95%D7%AA).",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21a"
+          }
+        },
+        {
+          "id": "kovetz-beis-aharon-veyisrael",
+          "name": "Kovetz Beis Aharon VeYisra’el",
+          "name_he": "קובץ בית אהרן וישראל",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal, 1986-2002, also on the Otzar HaHochma forum.",
+          "annotation_md": "(years available: 1986 - 2002). Also available on [Otzar Hachochma’s forum](https://forum.otzar.org/viewtopic.php?t=25426).",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21b"
+          }
+        },
+        {
+          "id": "or-yisrael",
+          "name": "Or Yisra’el",
+          "name_he": "אור ישראל",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal, 1996-2015.",
+          "annotation_md": "(Years available: 1996 - 2015). See description in Wikipedia: [חסידות_קרלין#קובץ_בית_אהרן_וישראל](https://he.wikipedia.org/wiki/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA_%D7%A7%D7%A8%D7%9C%D7%99%D7%9F#%D7%A7%D7%95%D7%91%D7%A5_%D7%91%D7%99%D7%AA_%D7%90%D7%94%D7%A8%D7%9F_%D7%95%D7%99%D7%A9%D7%A8%D7%90%D7%9C).",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21c"
+          }
+        },
+        {
+          "id": "pealim-letorah",
+          "name": "Pe’alim LeTorah",
+          "name_he": "פעלים לתורה",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal listed without further details.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21d"
+          }
+        },
+        {
+          "id": "yeshurun",
+          "name": "Yeshurun",
+          "name_he": "ישורון",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal (Torah anthology), 1996-2015.",
+          "annotation_md": "(Years available: 1996 - 2015). See description in Wikipedia: [ישורון (מאסף תורני)](https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%95%D7%A8%D7%95%D7%9F_(%D7%9E%D7%90%D7%A1%D7%A3_%D7%AA%D7%95%D7%A8%D7%A0%D7%99)).",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21e"
+          }
+        },
+        {
+          "id": "yerushateinu",
+          "name": "Yerushateinu",
+          "name_he": "ירושתנו",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal, described in Hebrew Wikipedia.",
+          "annotation_md": "See description in Wikipedia: [ירושתנו](https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%AA%D7%A0%D7%95).",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21f"
+          }
+        },
+        {
+          "id": "asifas-chachomim",
+          "name": "Asifas Chachomim",
+          "name_he": "אסיפת חכמים",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal listed without further details.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21g"
+          }
+        },
+        {
+          "id": "hitzei-giborim",
+          "name": "Hitzei Giborim",
+          "name_he": "חצי גבורים",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal listed without further details.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21h"
+          }
+        },
+        {
+          "id": "min-hagenazim",
+          "name": "Min HaGenazim",
+          "name_he": "מן הגנזים",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Torani journal listed without further details.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "21i"
+          }
+        }
+      ],
+      "notes_md": [
+        "54 See recent list of Jewish Studies journal websites here: [Digitized Historical Magazines and Present-Day Academic Journals | Jewish Museum Berlin](https://www.jmberlin.de/en/digitized-historical-magazines-and-present-day-academic-journals)"
+      ]
+    },
+    {
+      "section": "Secondary literature",
+      "subsection": "Journals",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "jstor-journals",
+          "name": "JSTOR",
+          "name_he": "",
+          "url": "https://www.jstor.org/subject/jewishstudies",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Subscription archive with 58 journals focused on Jewish Studies.",
+          "annotation_md": "- 58 journals that focus on the subject of Jewish Studies.[^59]",
+          "footnotes_md": [
+            "59 A commenter to the blogpost noted: “I just want to publicize that one can get 100 articles/month free on JSTOR, which could be enough for most part-time researchers.”"
+          ],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "1"
+          }
+        },
+        {
+          "id": "nevo",
+          "name": "Nevo",
+          "name_he": "נבו",
+          "url": "https://www.nevo.co.il/Books.aspx?Type=1",
+          "access": "subscription",
+          "languages": [
+            "he"
+          ],
+          "summary": "Israeli legal database with Hebrew law journals, several of them rich in articles on the history of halakha.",
+          "annotation_md": "- Israeli law journals, in Modern Hebrew. Journals there with many articles relevant to history of halacha:\n  - Dinei Yisra’el available at Nevo (נבו) with subscription, years available: 1970 -.\n  - Sh’naton Hamishpat Ha’ivri (שנתון המשפט העברי) (years available: 1974 - 2006). Journal is affiliated with Hebrew University.\n  - Mehkerei Mishpat (מחקרי משפט) (years available: 1980 - ). Journal is affiliated with Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "2"
+          }
+        },
+        {
+          "id": "otzar-hahochma-journals",
+          "name": "Otzar HaHochma",
+          "name_he": "אוצר החכמה",
+          "url": "",
+          "access": "subscription",
+          "languages": [
+            "he"
+          ],
+          "summary": "Subscription library of scanned Hebrew books that also holds journals, for example Areshet (1958-1980).",
+          "annotation_md": "- See on this resource above.\n- For example, the journal Areshet (ארשת) is available there. (years available: 1958 - 1980). Journal published by Mossad HaRav Kook, focused on Hebrew bibliography. Links at [the Wikipedia entry for the journal](https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%A9%D7%AA:_%D7%A1%D7%A4%D7%A8_%D7%A9%D7%A0%D7%94_%D7%9C%D7%97%D7%A7%D7%A8_%D7%94%D7%A1%D7%A4%D7%A8_%D7%94%D7%A2%D7%91%D7%A8%D7%99).",
+          "footnotes_md": [],
+          "tags": [
+            "journal",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 34,
+            "number": "3"
+          }
+        },
+        {
+          "id": "project-muse",
+          "name": "Project MUSE",
+          "name_he": "",
+          "url": "https://en.wikipedia.org/wiki/Project_MUSE",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Subscription platform of humanities journals, including Jewish Studies journals such as JQR.",
+          "annotation_md": "- Some journals on Project MUSE that focus on Jewish Studies: [JQR](https://jqr.pennpress.org/home/)",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 35,
+            "number": "4"
+          }
+        },
+        {
+          "id": "ebsco",
+          "name": "EBSCO",
+          "name_he": "",
+          "url": "",
+          "access": "subscription",
+          "languages": [
+            "en"
+          ],
+          "summary": "Subscription database of academic journals, listed without further notes.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 35,
+            "number": "5"
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

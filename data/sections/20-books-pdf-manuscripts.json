@@ -1,0 +1,263 @@
+{
+  "part": "C",
+  "source_pages": [13, 17],
+  "blocks": [
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - PDF format",
+      "group": "Open-access",
+      "intro_md": "Mostly searchable via OCR, and in PDF format.",
+      "entries": [
+        {
+          "id": "hebrewbooks",
+          "name": "HebrewBooks",
+          "name_he": "",
+          "url": "https://hebrewbooks.org/",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Large free library of scanned Torah books and journals, searchable by text, with a newer and more powerful beta search engine.",
+          "annotation_md": "- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/HebrewBooks): “Free online digital library for Torah literature. The site contains about 61,000 scanned Torah books and journals, from the beginning of printing to contemporary authors, most of them in Hebrew. The books can be viewed, downloaded and textually searched for in the book's content. The site is accessible in Hebrew and English.”\n- HebrewBooks is likely well-known to most readers. However, something that might be less well-known is that HebrewBooks has a new search page, officially in beta: [https://beta.hebrewbooks.org/#gsc.tab=0](https://beta.hebrewbooks.org/#gsc.tab=0). It’s a much more powerful search engine, with many new, modern features (bringing it closer to the Otzar HaChochma experience).[^33]",
+          "footnotes_md": ["[33] Thanks to Eliezer Brodt for bringing this new tool to my attention."],
+          "tags": ["printed-books", "search", "ocr-htr"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "1"}
+        },
+        {
+          "id": "nli-books",
+          "name": "National Library of Israel",
+          "name_he": "הספרייה הלאומית",
+          "url": "https://merhav.nli.org.il/primo-explore/search?vid=NLI&lang=iw_IL",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Scanned books from the National Library of Israel, found only by search or direct link; the guide gives search steps and the URL pattern.",
+          "annotation_md": "- Links to books accessed via search or direct link, no way to browse. However, the “Halacha Brura” index (see later, under section “Index”) often links to it.\n- Unfortunately, due to many changes and updates to the National Library website over the years, many of the links to the website found at outside websites are now broken.\n- Presumably, the best way to find the work is to as follows:\n  - Search the name of the work in the National Library website search box (“Merhav”).\n  - Filter for “Available online” AND “Books”\n  - Click on “Online access”\n- URLs of open-access works appear to following template: **“https://www.nli.org.il/he/books/NNL_ALEPH00XXXXXXX/NLI”**. For example, Ohev Yisra’el: [https://www.nli.org.il/he/books/NNL_ALEPH001091556/NLI](https://www.nli.org.il/he/books/NNL_ALEPH001091556/NLI)",
+          "footnotes_md": [],
+          "tags": ["printed-books"],
+          "status_note": "The guide notes that many outside links to the site are broken after website changes.",
+          "origin": {"edition": "2023", "page": 14, "number": "2"}
+        },
+        {
+          "id": "center-for-jewish-history",
+          "name": "Center for Jewish History",
+          "name_he": "",
+          "url": "https://archives.cjh.org/",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Digitized primary texts at the Center for Jewish History, hard to search but often reachable through the Halacha Brura index.",
+          "annotation_md": "- Links to books accessed via search or direct link, no way to browse. Has many primary texts available. Couldn’t find a simple way to search for books. However, the “Halacha Brura” index (see later, under section “Index”) often links to it. For example, [the sefer Derech Yeshara](https://digipres.cjh.org/delivery/DeliveryManagerServlet?dps_pid=IE4934153).",
+          "footnotes_md": [],
+          "tags": ["printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 14, "number": "3"}
+        },
+        {
+          "id": "open-library",
+          "name": "Open Library",
+          "name_he": "",
+          "url": "https://openlibrary.org/search/subjects?q=jewish+&mode=everything",
+          "access": "open",
+          "languages": ["en", "he"],
+          "summary": "Internet Archive project with thousands of relevant scanned books, searchable by subject.",
+          "annotation_md": "- Part of the Internet Archive family of projects. Has thousands of relevant scanned books. Can be searched by subject.",
+          "footnotes_md": [],
+          "tags": ["printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 14, "number": "4"}
+        },
+        {
+          "id": "massorti-com",
+          "name": "Massorti.com",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Hosts Saul Lieberman's Tosefet Rishonim and Tosefta Kifshuta, with links in the Halacha Brura index.",
+          "annotation_md": "Has all of Lieberman’s Tosefet Rishonim and Tosefta Kifshuta available. See links at [Halacha Brura > מפרשי תוספתא](http://www.halachabrura.org/library/library8l.htm#%D7%90%D7%91%D7%95%D7%AA).",
+          "footnotes_md": [],
+          "tags": ["printed-books", "mishnah"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 14, "number": "5"}
+        },
+        {
+          "id": "abuelafia-blogspot",
+          "name": "Abuelafia.blogspot",
+          "name_he": "",
+          "url": "http://abuelafia.blogspot.com/",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "R' Amnon Gros's website with his recent editions of books by the medieval kabbalist Abraham Abulafia.",
+          "annotation_md": "- A number of books by the medieval kabbalist R’ [Avraham Abulafia](https://en.wikipedia.org/wiki/Abraham_Abulafia), published recently by R’ Amnon Gros. This is R’ Gros’s website.[^34]",
+          "footnotes_md": ["[34] See Boaz Hus, שאלת קיומה של מיסטיקה יהודית, 2016, pp. 146-147, for a discussion of these editions. (Book available in Kotar [here](https://kotar.cet.ac.il/KotarApp/Viewer.aspx?nBookID=102847481).)"],
+          "tags": ["kabbalah", "printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 14, "number": "6"}
+        },
+        {
+          "id": "google-books",
+          "name": "Google Books",
+          "name_he": "",
+          "url": "https://books.google.com/",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Search-only collection that includes a few hundred scanned manuscripts and early printed Hebrew works, findable through the Halacha Brura index.",
+          "annotation_md": "- No way to browse, only search.[^35] But relevant works can be found using Halacha Brura’s index,[^36] see [the webpage indexing Tanach and Hazal](http://www.halachabrura.org/library/library0.htm). Has a few hundred scanned manuscripts and early printed works.",
+          "footnotes_md": [
+            "[35] Searching on Google Books can be aided greatly by their Advanced Google Books search: [https://books.google.com/advanced_book_search](https://books.google.com/advanced_book_search) (thanks to A. Berman for pointing this out). See short overview of the source of seforim on Google books, as well as a guide for how to search for seforim there, [at Otzar HaHochma forum](https://forum.otzar.org/viewtopic.php?f=7&t=22946#p229838).",
+            "[36] See my discussion later of this index."
+          ],
+          "tags": ["printed-books", "manuscripts", "search"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 14, "number": "7"}
+        },
+        {
+          "id": "israel613",
+          "name": "Israel613",
+          "name_he": "",
+          "url": "http://www.israel613.com/",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Eccentric haredi website that also has some PDFs of historical hasidic works, best reached through the Halacha Brura index.",
+          "annotation_md": "- An eccentric website, mostly dedicated to contemporary haredi works and polemics. However, there are some PDFs of interest, of historical hasidic works. No real browsing capabilities on the website, but can be found using Halacha Brura’s index (as in previous item).",
+          "footnotes_md": [],
+          "tags": ["hasidut", "printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 15, "number": "8"}
+        },
+        {
+          "id": "google-drive",
+          "name": "Google Drive",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Individuals sometimes share book scans on Google Drive, for example the full set of Cordovero's Or Yakar.",
+          "annotation_md": "Sometimes individuals upload scans of books, and share the links. For example, the full set of R’ Moshe Cordevero’s Or Yakar is currently hosted by an unknown host on Google Drive (see [Halacha Brura > Kabbala](http://www.halachabrura.org/library/library6.htm) > “אור יקר, ר' משה קורדוברו, פרוש על הזהר, ירושלים תשכ\"ב”.)",
+          "footnotes_md": [],
+          "tags": ["printed-books", "kabbalah"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 15, "number": "9"}
+        },
+        {
+          "id": "epidat",
+          "name": "Epidat",
+          "name_he": "",
+          "url": "http://www.steinheim-institut.de/cgi-bin/epidat?lang=en&release=beta&id=&info=&show=&project=",
+          "access": "open",
+          "languages": ["he", "de", "en"],
+          "summary": "Research database of Jewish gravestone inscriptions from historical European cemeteries, with transcriptions, translations and images.",
+          "annotation_md": "- See description at the [website of European Association for Jewish Studies (EAJS)](https://www.eurojewishstudies.org/digital-forum-showcase-reports/epidat/): “Epidat, short for epigraphic database, is a research platform for Jewish funerary epigraphy. Currently, Epidat contains transcriptions, translations, descriptions, and iconographic documentation of 43,838 headstones (with 79,972 digital images) from 233 historical Jewish cemeteries, spanning a period of 900 years (1040-1952) and covering six European countries (Germany, The Netherlands, Poland, Spain, Latvia and Czechia).”",
+          "footnotes_md": [],
+          "tags": ["epigraphy", "history", "translation"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 15, "number": "10"}
+        },
+        {
+          "id": "machberet-menachamiyot",
+          "name": "Machberet Menachamiyot",
+          "name_he": "מחברות מנחמיות",
+          "url": "",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Prof. Menahem Katz's new formatted edition of Talmud Bavli tractate Kiddushin, published as PDFs on Academia.edu.",
+          "annotation_md": "- New formatting of Talmud Bavli, by Prof. Menahem Katz:\n  - [אקדמות למהדורה של התלמוד הבבלי – מסכת קידושין – מחברות מנחמיות](https://www.academia.edu/72820895/Mahbarot_Menachamyiot_%D7%90%D7%A7%D7%93%D7%9E%D7%95%D7%AA_%D7%9C%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94_%D7%A9%D7%9C_%D7%94%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%94%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA)\n  - [מסכת קידושין ב ע\"א-יד ע\"ב](https://www.academia.edu/11120558/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%9E%D7%A9%D7%A0%D7%94_%D7%90_%D7%91_%D7%A2_%D7%90_%D7%99%D7%93_%D7%A2_%D7%91_)\n  - [מסכת קידושין יד ע\"ב – כה ע\"ב](https://www.academia.edu/13224118/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%9E%D7%A9%D7%A0%D7%99%D7%95%D7%AA_%D7%91_%D7%92_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A2%D7%91%D7%93%D7%99%D7%9D_%D7%99%D7%93_%D7%A2_%D7%91_%D7%9B%D7%94_%D7%A2_%D7%91_Qiddushin)\n  - [מסכת קידושין כה ע\"ב – כט ע\"א](https://www.academia.edu/18819286/Qiddushin_%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%9E%D7%A9%D7%A0%D7%99%D7%95%D7%AA_%D7%93_%D7%95_%D7%A7%D7%A0%D7%99%D7%99%D7%A0%D7%99_%D7%91%D7%94%D7%9E%D7%94_%D7%95%D7%A0%D7%9B%D7%A1%D7%99%D7%9D_%D7%9B%D7%94_%D7%A2_%D7%91_%D7%9B%D7%98_%D7%A2_%D7%90_)\n  - [מסכת קידושין כט ע\"א – מא ע\"א](https://www.academia.edu/21126241/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%9E%D7%A9%D7%A0%D7%99%D7%95%D7%AA_%D7%96_%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9E%D7%A6%D7%95%D7%95%D7%AA_%D7%9B%D7%98_%D7%A2_%D7%90_%D7%9E%D7%90_%D7%A2_%D7%90_)\n  - [מסכת קידושין מא ע\"א – נח ע\"ב](https://www.academia.edu/24587460/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%91_Qiddushin)\n  - [מסכת קידושין נח ע\"ב – סט ע\"א](https://www.academia.edu/25088401/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%92_%D7%A0%D7%97_%D7%A2_%D7%91_%D7%A1%D7%98_%D7%A2_%D7%90_Qiddushin)\n  - [מסכת קידושין סט ע\"א-פב ע\"ב](https://www.academia.edu/25445026/%D7%9E%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%95%D7%AA_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F_%D7%A4%D7%A8%D7%A7_%D7%93_Qiddushin)",
+          "footnotes_md": [],
+          "tags": ["talmud", "critical-edition"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 15, "number": "11"}
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - PDF format",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "otzar-hahochma",
+          "name": "Otzar HaHochma",
+          "name_he": "אוצר החכמה",
+          "url": "https://www.otzar.org/otzaren/indexeng.asp",
+          "access": "subscription",
+          "languages": ["he"],
+          "summary": "Subscription database of over 110,000 scanned and OCR-searchable Torah and academic books, with paid publisher add-on packages.",
+          "annotation_md": "- Generally requires subscription. However, interestingly enough, as of this writing (23-Jan-2022), it appears that the entire basic Otzar HaHochma is open-access, and has been for three months already! As per the pop-up notification on the website, and the banner at the top while browsing: “בס\"ד 19/10/2021. Dear users, the system is undergoing upgrades at this time, some users may experience technical difficulties, therefore we are giving free access to the beta site: beta.otzar.org. This service will be free of charge until further notice. Please note the printing option as well as the add-on packages are available for purchase only on the old website.”[^37]\n- [Add-ons include books from the following publishers](https://www.otzar.org/mekuvan-mosdot.asp) (in order of price): Oz VeHodor, Mossad HaRav Kook, Mechon Yerushalayim, Mechon Ahavat Shalom, Mechon Ofek, Mechon Hochmat Shelomo.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A6%D7%A8_%D7%94%D7%97%D7%9B%D7%9E%D7%94): “Otzar HaHochma is a database containing over 110,000 Torah and academic books scanned in the same format as the original printing pages that have undergone optical character recognition, which allows information to be retrieved using a search engine embedded in the system. In version 19.0 (summer 2021) of the database there are 112,749 titles. The update rate of the database is about 5,000 books annually. The database allows the books to be divided into categories, such as: Bible and its commentators; Mishnah and its commentaries; Babylonian Talmud and its commentaries; Jerusalem Talmud and its commentaries; Kabbalah; Mussar; Hasidut; history; disputes (פולמוסים); journals; community books (ספרי קהילות), jubilee books (ספרי יובל), memorial books (ספרי זיכרון), manuscripts and first editions.”",
+          "footnotes_md": ["[37] A commenter on the blogpost noted: “Unfortunately they have updated the notice on Otzar [HaHochma], they will be ending the free access ‘in a few days’ ”."],
+          "tags": ["printed-books", "search", "ocr-htr"],
+          "status_note": "The guide notes a temporary period of free access (from Oct-2021), which a commenter said was soon ending.",
+          "origin": {"edition": "2023", "page": 15, "number": "12"}
+        },
+        {
+          "id": "siddurim-database",
+          "name": "Siddurim Database",
+          "name_he": "מאגר הסידורים הממוחשב",
+          "url": "",
+          "access": "unknown",
+          "languages": ["he"],
+          "summary": "Collection of more than a thousand manuscript and printed siddurim and machzorim, distributed by R' Aharon Gabbai.",
+          "annotation_md": "- Distributed by R’ Aharon Gabbai. See [the Otzar Hahochma post](http://212.199.162.70/viewtopic.php?t=39717), published Apr 3, 2017.\n- From the post:\n  - “A computerized database containing more than a thousand siddurim and machzorim, both manuscript and printed editions. Collected from all over the internet (including hundreds of items that were previously downloadable and can not be downloaded today) and from other rare sources. The database is over a hundred gigabytes in size.”",
+          "footnotes_md": [],
+          "tags": ["liturgy", "manuscripts", "printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 16, "number": "13"}
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Manuscripts - General",
+      "group": "Open-access",
+      "intro_md": "Some with transcription.",
+      "entries": [
+        {
+          "id": "ktiv",
+          "name": "Ktiv",
+          "name_he": "כתיב",
+          "url": "https://web.nli.org.il/sites/nlis/en/manuscript",
+          "access": "open",
+          "languages": ["he", "arc", "ar"],
+          "summary": "National Library of Israel project that puts online high-resolution scans of Hebrew manuscripts from libraries around the world.",
+          "annotation_md": "- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%9B%D7%95%D7%9F_%D7%9C%D7%AA%D7%A6%D7%9C%D7%95%D7%9E%D7%99_%D7%9B%D7%AA%D7%91%D7%99_%D7%99%D7%93_%D7%A2%D7%91%D7%A8%D7%99%D7%99%D7%9D#%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%22%D7%9B%D7%AA%D7%99%D7%91%22): “The Ktiv project, launched with the 17th World Congress of Jewish Studies in August 2017, is the next stage in the Institute of Microfilmed Hebrew Manuscripts’s life, designed to make photographs of all Hebrew manuscripts in the world accessible to the public on the Internet. Upon its launch, four years after the digitization project began, Ktiv had full scans with an excellent resolution of 45,000 manuscripts (out of 90,000) that together hold 4.37 million pages available to the public.[^38] The project was organized in collaboration with the National Library of France (BnF), the Jewish Theological Seminary of America (JTS), the Palatine Library, the British Library, the National Library of Austria, the Bavarian State Library, the Rosenthaliana Library, Yad Yitzhak Ben-Zvi, the Vatican Library, Hebrew Union College, The State Library in Berlin, the National Library of Russia, the National Library of Florence, and more.”[^39]\n- See also “[Moreshet B’reshet](https://web.nli.org.il/sites/NLI/Hebrew/digitallibrary/moreshet_bareshet/Pages/default.aspx)” of the National Library of Israel. From the page: “This page focuses on webpages set up by the National Library over the years. Although these webpages are not updated, they preserve valuable items and information for future generations. Therefore, these sites are maintained and made accessible.”\n- For example, see the [webpage](https://web.nli.org.il/sites/nli/hebrew/collections/jewish-collection/talmud/pages/default.aspx) for searching for images of Talmudic manuscripts (עיון בכתבי היד).",
+          "footnotes_md": [
+            "[38] A. Berman pointed out (private communication): “You may want to note that some printed seforim can be found on the Ktiv website, when there are handwritten notes in the sefer.”",
+            "[39] For a full list of library website portals of their Hebrew manuscript collections, see [Adiel Breuer’s 2015 Otzar HaHochma forum post](https://forum.otzar.org/viewtopic.php?f=7&t=22946#p229554) (mentioned also above in section “Existing guides”, in footnote). There he lists (with some short descriptions) around 40 such library websites in alphabetical order. Subsequent commenters add additional links.\n\nBreuer there also has subsections for links to library websites with PDF scans of:\n\n1. Cairo geniza manuscripts (6 websites),\n2. “European genizah” manuscripts (3 websites).\n3. Books (around 13 such websites). Relevant to earlier section “Books - PDF format”.\n4. Catalogs of around 20 libraries and other collections, in alphabetical order. Relevant to later sections “Bibliographic info” and “Indexes”.\n\nFor a general extensive list of digitized library collections, see the bottom of this page: [https://publicdomainreview.org/collections/source/british-library](https://publicdomainreview.org/collections/source/british-library).\n\nThere’s an interesting analogue to Breur’s work, a [German-language Wikisource page](https://de.wikisource.org/wiki/Digitale_Sammlungen) listing websites of “digital collections that make at least one public domain German-language printed book available in the form of a scan (digital copy), i.e. that can be considered as a source for Wikisource” (translation from Google Translate. This list pointed out to me by A. Berman). A potentially interesting idea would be to have all the websites in Breuer’s post and ensuing comments compiled and maintained in a Hebrew-language Wikisource page."
+          ],
+          "tags": ["manuscripts", "catalog"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 16, "number": "1"}
+        },
+        {
+          "id": "columbia-hebrew-manuscripts-archive-org",
+          "name": "Hebrew Manuscripts : Free Texts",
+          "name_he": "",
+          "url": "https://archive.org/details/culhebrewmss?tab=collection",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Internet Archive collection of Hebrew and Judaica manuscripts from Columbia University's Rare Book & Manuscript Library.",
+          "annotation_md": "Hosted on archive.org. From the About section: “Hebrew and Judaica manuscripts from Columbia University's Rare Book & Manuscript Library.” Currently shows 334 manuscripts.",
+          "footnotes_md": [],
+          "tags": ["manuscripts"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 17, "number": "2"}
+        },
+        {
+          "id": "bodleian-vatican-digitized-hebrew-manuscripts",
+          "name": "Digitized Items: Hebrew Manuscripts",
+          "name_he": "",
+          "url": "http://bav.bodleian.ox.ac.uk/digitized-items-hebrew-manuscripts",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Joint Bodleian and Vatican project that digitized and freely shares selected Hebrew manuscripts from both libraries.",
+          "annotation_md": "From [the About page](http://bav.bodleian.ox.ac.uk/about-the-project): “[t]his project will make 1.5 million digitized pages freely available over the next three years. Portions of the Bodleian and Vatican Libraries’ collections of Hebrew manuscripts [...] have been selected for digitization by a team of scholars and curators from around the world.”\n\n- Based on my count, links to 773 Bodleian manuscripts, and 641 Vatican manuscripts.\n- See also here: [Hebrew Manuscripts and Printed Books](https://digital.bodleian.ox.ac.uk/collections/hebrew/), wide range of ways to browse 806 Bodleian manuscripts.",
+          "footnotes_md": [],
+          "tags": ["manuscripts"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 17, "number": "3"}
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

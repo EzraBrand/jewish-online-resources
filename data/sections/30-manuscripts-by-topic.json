@@ -1,0 +1,381 @@
+{
+  "part": "D",
+  "source_pages": [
+    17,
+    22
+  ],
+  "blocks": [
+    {
+      "section": "Primary Texts",
+      "subsection": "Manuscripts - by Topic",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "friedberg-projects",
+          "name": "Friedberg projects",
+          "name_he": "",
+          "url": "",
+          "access": "registration",
+          "languages": [
+            "he",
+            "en",
+            "arc",
+            "ar"
+          ],
+          "summary": "Overview of the Friedberg family of manuscript websites (Talmud, Geniza, transcriptions, Rambam, Yemenite and Judeo-Arabic collections), each listed separately.",
+          "annotation_md": "Friedberg projects. Each will have its own entry below. See [YouTube video](https://youtu.be/bCwfzfU4AJI) for recent discussion of some of these projects (uploaded 2-Feb-2022). All require registration (free). The first two projects appear to be the ones most actively used and developed: Hachi Garsinan and Genizah Project.\n- [Hachi Garsinan - The Friedberg Project for Talmud Bavli Variants](https://bavli.genizah.org/) (הכי גרסינן).\n- [Friedberg Genizah Project](https://fgp.genizah.org/).\n- [Mahadura - the Friedberg Site for Transcriptions and Synopsis](https://manuscripts.genizah.org/) (מהדורא).\n- [Yad Harambam](https://rambam.genizah.org/) (יד הרמב”ם - פרוייקט פרידברג לשינויי נוסחאות ברמב”ם).\n- [The Nahum Collection of Yemenite Manuscripts](https://nachumsite.genizah.org/) (אוסף נחום לכתבי יד תימניים).\n- [The Friedberg Judeo-Arabic Project](https://ja.genizah.org/) (פרויקט פרידברג לערבית יהודית).",
+          "footnotes_md": [],
+          "tags": [
+            "manuscripts",
+            "geniza",
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 17,
+            "number": "4"
+          }
+        },
+        {
+          "id": "hachi-garsinan",
+          "name": "Hachi Garsinan - The Friedberg Project for Talmud Bavli Variants",
+          "name_he": "הכי גרסינן",
+          "url": "https://bavli.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he",
+            "arc",
+            "en"
+          ],
+          "summary": "Friedberg site with images and transcriptions of all Babylonian Talmud textual witnesses, with variant-comparison tools, search, and reference works like Dikdukei Sofrim.",
+          "annotation_md": "- Requires registration (free).\n- From the webpage:\n  - “The Hachi Garsinan site displays all variant-readings of the Talmud Bavli, including images and transcriptions, with sophisticated comparison tools between the variants.\n  - The \"Hachi Garsinan\" site is meant to serve the wide range of all Bavli learners and researchers: from academic researchers, through Yeshiva communities and Torah students, as well as anyone interested in exploring the variations of the Talmud Bavli and its transformations throughout the ages.\n  - The site contains high quality digital images of all original textual witnesses that exist for the Talmud Bavli (manuscripts, early printings, Genizah fragments, binding fragments and other fragments), accompanied by precise transcriptions of the text in the image. The site integrates additional functions, including full text search, Sussmann catalog, Dikdukei Sofrim, and also save, copy and print options.\n- Also includes the following foundational works, open-access and user-friendly:\n  - Jacob Sussman, [Otzar Kitvey Yad Talmudiyyim](http://sussmann.genizah.org/Home/ZussmanCatalog) (יעקב זוסמן, אוצר כתבי-היד התלמודיים)\n  - R’ Raphael Nathan Nata Rabbinovicz, [Dikdukei Sofrim](https://bavli.genizah.org/GeneralPages/DKS/DKS_Browse) (ר' רפאל נתן נטע ראבינאוויטץ, דקדוקי סופרים)\n  - Many relevant articles (“Ref. Materials > Introductions”).",
+          "footnotes_md": [
+            "40 See the reviews: Amit Gvaryahu: “[“We Read Thus”: On Hachi Garsinan and Learning Talmud in the 21st century | The Talmud Blog](https://thetalmud.blog/2016/06/19/we-read-thus-on-hachi-garsinan-and-learning-talmud-in-the-21st-century/)” (June 19, 2016) ; Menachem Katz, Assael Shmeltzer, Hillel Gershuni, Sara Preis, \"[The Hachi Garsinan Project as a Critical Edition of the Talmud Bavli](https://bavli.genizah.org/Content/pdfFile/Introductions_B/Introductions_Eng/The%20Hachi%20Garsinan%20Project%20as%20a%20Critical%20Edition%20of%20the%20Talm.pdf)\", (September 2017) ; Secunda, pg. 627."
+          ],
+          "tags": [
+            "talmud",
+            "manuscripts",
+            "geniza",
+            "critical-edition",
+            "transcription",
+            "catalog",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 18,
+            "number": "5"
+          }
+        },
+        {
+          "id": "friedberg-genizah-project",
+          "name": "Friedberg Genizah Project",
+          "name_he": "",
+          "url": "https://fgp.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he",
+            "en",
+            "arc",
+            "ar"
+          ],
+          "summary": "Friedberg database computerizing the Cairo Geniza corpus: images, identifications, catalogs, transcriptions, translations, bibliography, and image-processing research tools.",
+          "annotation_md": "- Requires registration (free).\n- From the homepage:\n  - “The Friedberg Genizah Project (FGP) presents a real revolution in the study and research of the field of Cairo Genizah and Jewish Studies in general. Its main task is to computerize the entire corpus of Genizah manuscripts and Genizah-related materials: images, identifications, catalogs, metadata, transcriptions, translations and bibliographical references. In the course of this project a full digitization of the entire Genizah collections has been done, together with a huge database which is accessible to every scholar and student. The project also introduces new designated tools for Genizah research which are based on advanced technologies of image processing.\n  - The Site was developed by Genazim Digital, headed by Professor Yaacov Choueka. Currently it is supported by the Association for the Study of Jewish Manuscripts.”",
+          "footnotes_md": [],
+          "tags": [
+            "geniza",
+            "manuscripts",
+            "catalog",
+            "transcription",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 18,
+            "number": "6"
+          }
+        },
+        {
+          "id": "mahadura",
+          "name": "Mahadura - the Friedberg Site for Transcriptions and Synopsis",
+          "name_he": "מהדורא",
+          "url": "https://manuscripts.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Friedberg platform for creating and sharing manuscript transcriptions and synopses, with collaborative project groups; the author met many errors when browsing.",
+          "annotation_md": "- I tried browsing existing projects, got a lot of errors.\n- From the homepage:\n  - “The Mahadura site is designed to create, preserve and share transcriptions and synopses of manuscripts and early printings. The site is meant for Academics, Biblical and Religious Scholars, anyone who is interested in publishing new transcriptions of ancient Jewish texts and preparation of critical revisions. Currently the site allows the user to create new projects in any area of Jewish studies, including uploading of images and texts and to create new transcriptions of manuscripts and prints in a simple painless way, and to view images and transcriptions, and to try the transcription tools in the existing projects. The creator of each project will be able to define a closed group of colleagues to work together on a project, and then decide when it will be publically available. In the future you will be able to create variant synopsis comparisons, using specialized algorithms.\n  - The Amuta was established as a joint venture of the \"Friedberg Genizah Project\" (FGP) and the \"Friedberg Jewish Manuscript Society\"(FJMS).”",
+          "footnotes_md": [],
+          "tags": [
+            "manuscripts",
+            "transcription",
+            "critical-edition"
+          ],
+          "status_note": "2023: author got many errors when browsing existing projects.",
+          "origin": {
+            "edition": "2023",
+            "page": 19,
+            "number": "7"
+          }
+        },
+        {
+          "id": "yad-harambam",
+          "name": "Yad Harambam",
+          "name_he": "יד הרמב”ם - פרוייקט פרידברג לשינויי נוסחאות ברמב”ם",
+          "url": "https://rambam.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he"
+          ],
+          "summary": "Friedberg site presenting manuscripts and early printings of Maimonides' Mishneh Torah, with transcriptions, version synopsis, and full-text search.",
+          "annotation_md": "- Requires registration (free).\n- From the webpage:\n  - “The \"Yad HaRambam\" site was established for the purpose of presenting all versions of the Rambam's Mishneh Torah (\"haYad haHazaka\"). It includes images, transcriptions and a sophisticated synopsis (comparison) system between versions.\n  - The site is meant to serve all who want to study the Mishneh Torah; academic researchers, Torah students in Yeshivot, everyone who is interested in historical versions of The Mishneh Torah and its changing unfolding versions through the ages.\n  - The site includes high resolution digital images of early versions of the Mishneh Torah including manuscripts and early printings. Each image is supplemented by an accurate transcription.\n  - The site also integrates additional functions, including full text search on all Rambam textual witnesses, the ability to save, copy and print, personal workspaces, and more.\n  - The Amuta was established as a joint venture of the \"Friedberg Genizah Project\" (FGP) and the \"Friedberg Jewish Manuscript Society\"(FJMS). The textual witness' transcriptions, as well as the software for connecting the image and its transcriptions, are prepared by the Amuta Transcription Team.”",
+          "footnotes_md": [],
+          "tags": [
+            "halakha",
+            "manuscripts",
+            "printed-books",
+            "transcription",
+            "critical-edition",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 19,
+            "number": "8"
+          }
+        },
+        {
+          "id": "nahum-collection-yemenite-manuscripts",
+          "name": "The Nahum Collection of Yemenite Manuscripts",
+          "name_he": "אוסף נחום לכתבי יד תימניים",
+          "url": "https://nachumsite.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he",
+            "ar"
+          ],
+          "summary": "About 80,000 images of the Nahum Collection of Yemenite manuscripts, with short identifications, catalog entries, and a page-flipping viewer.",
+          "annotation_md": "- Requires registration (free).\n- From the webpage:\n  - “The aim of this website is to present efficient research tools for researchers interested in the Nahum Collection of Yemenite Manuscripts. The website contains about 80,000 high-quality digital images of the (mostly) handwritten fragments and volumes in this collection. The site also contains short (1-2 lines) identifications of these manuscripts, whenever available, as well as scanned images of the corresponding entries from the relevant catalogs The site is under continuous development, and we hope to include in it more information in the future. The shelfmarks of the various manuscripts were primordially determined by the existing shelfmarks as marked on the manuscripts and in the catalogs, and when these were missing, new serially shelfmarks were given. In addition, there is a correspondence table in the website that enables direct access to the available information according to the entry-number in the above-mentioned catalogs. Viewing entire volumes can be efficiently browsed using special software that simulates the manual flipping of pages as in a real book. This Site was initially developed by Genazim Digital, headed by Professor Yaacov Choueka and is now supported by the Association for the Study of Jewish Manuscripts.”",
+          "footnotes_md": [],
+          "tags": [
+            "manuscripts",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 20,
+            "number": "9"
+          }
+        },
+        {
+          "id": "friedberg-judeo-arabic-project",
+          "name": "The Friedberg Judeo-Arabic Project",
+          "name_he": "פרויקט פרידברג לערבית יהודית",
+          "url": "https://ja.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "ar",
+            "he"
+          ],
+          "summary": "Searchable corpus of printed Judeo-Arabic works (to the 16th century) with page images and transcriptions, plus Friedman's Judeo-Arabic dictionary.",
+          "annotation_md": "- Requires registration (free).\n- From the webpage:\n  - “This site is designed to assist researchers of the Judeo-Arabic gain a comprehensive and fundamental knowledge of this language, especially in the lexicon, semantics, idiomatic expressions, and word-related areas. This is done by establishing an extensive computerized corpus of titles and advanced software that can search for words and phrases and display their instances in the corpus (or selected parts thereof) with suitable context and various statistics.\n  - For every page of every work in the corpus, a good quality image is available and can be viewed with its transcription, for testing and comparison. In the first stage, the site will contain Judeo-Arabic titles that have already appeared in print, focusing on titles that were written up to the 16th century. With time, the corpus will be expanded, hopefully encompassing all Judeo-Arabic titles in the mentioned group.\n  - When the corpus will be sufficiently broad, advanced tools of computational linguistics and natural language processing will be developed and will reveal interesting structures and linguistic connections that can be discovered only with the help of a computerized system. This Site was initially developed by Genazim Digital, headed by Professor Yaacov Choueka and is now supported by the Association for the Study of Jewish Manuscripts.”\n- Includes foundational works, open-access:\n  - מרדכי עקיבא פרידמן, [מילון הערבית יהודית מימי הבינים: לתעודות הגניזה של ספר הודו ולטקסטים אחרים](https://ja.genizah.org/JA_Dictionary_pdfjs/JA_Dictionary.html)",
+          "footnotes_md": [],
+          "tags": [
+            "dictionary",
+            "search",
+            "transcription",
+            "printed-books",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 20,
+            "number": "10"
+          }
+        },
+        {
+          "id": "princeton-geniza-lab",
+          "name": "Princeton Geniza Lab",
+          "name_he": "",
+          "url": "https://geniza.princeton.edu/en/documents/",
+          "access": "open",
+          "languages": [
+            "ar",
+            "he",
+            "en"
+          ],
+          "summary": "Princeton Geniza Project database of over 30,000 records and 4,600 transcriptions and translations of documentary Geniza texts.",
+          "annotation_md": "- From [About page](https://genizalab.princeton.edu/pgp-database/about): “The Princeton Geniza Project is a database of more than 30,000 records and 4,600 transcriptions of documentary geniza texts. Since 1986, the PGP has been dedicated to discovering and describing unpublished documents; maintaining a full-text retrieval database of geniza documents; and creating new transcriptions and translations.”\n- Project Directors (“PIs”): Nachum Dershowitz, Judith Olszowy-Schlanger, Avi Shmidman, Daniel Stökl Ben Ezra.",
+          "footnotes_md": [],
+          "tags": [
+            "geniza",
+            "transcription",
+            "translation",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 21,
+            "number": "11"
+          }
+        },
+        {
+          "id": "digital-mishnah-project",
+          "name": "Digital Mishnah Project",
+          "name_he": "",
+          "url": "https://editions.erabbinica.org/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Digital edition of Mishnah manuscripts prepared by Hayim Lapin and Daniel Stökl Ben Ezra.",
+          "annotation_md": "Prepared by Hayim Lapin and Daniel Stökl Ben Ezra.",
+          "footnotes_md": [],
+          "tags": [
+            "mishnah",
+            "manuscripts",
+            "critical-edition",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 21,
+            "number": "12"
+          }
+        },
+        {
+          "id": "princeton-sefer-hasidim-database",
+          "name": "Princeton University Sefer Hasidim Database",
+          "name_he": "",
+          "url": "https://etc.princeton.edu/sefer_hasidim/index.php?a=manuscripts",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Database of fourteen manuscripts of Sefer Hasidim and its fragments, directed by Peter Schäfer.",
+          "annotation_md": "Peter Schäfer – Project Director. From the [About](https://etc.princeton.edu/sefer_hasidim/index.php?a=about) page: “The database includes fourteen manuscripts containing different versions of Sefer Hasidim and its fragments.”41",
+          "footnotes_md": [
+            "41 Thanks to M.Honig for pointing out this project to me."
+          ],
+          "tags": [
+            "manuscripts",
+            "transcription"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 21,
+            "number": "13"
+          }
+        },
+        {
+          "id": "qerovot-18-cairo-genizah",
+          "name": "Qerovot-of-18 from the Cairo Genizah",
+          "name_he": "",
+          "url": "https://www.qerovot18.com/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Avi Shmidman's public-domain, TEI-encoded corpus of Palestinian Qerovot for the weekday Amidah, deciphered from Geniza fragments, viewable, searchable and downloadable.",
+          "annotation_md": "Qerovot-of-18 from the Cairo Genizah.42\n- Project of Prof. Avi Shmidman of Bar-Ilan University.\n- He writes (Hebrew):43 “The Palestinian [paytanim](https://en.wikipedia.org/wiki/Piyyut), who operated from the fifth century CE to the eleventh century, composed thousands of piyutim for the prayer cycle. While most of the piyutim were written in honor of Shabbat and the holidays of the year, the paytanim also composed works for the [Amidah](https://en.wikipedia.org/wiki/Amidah) prayer of the holy days, that is, the series of blessings said every day at Shacharit, Mincha and Aravit. These works are called 'Kerovot Shemonah Esreh.' The purpose of the research was to decipher these manuscripts and make the secrets they contain accessible to researchers and the general public. The research included deciphering hundreds of worn and damaged Geniza pieces, and in the process, if possible, restoring the original works [...]\n- You can view and search the piyutim, or alternatively download them all with one click. The digital texts have been transferred to the public domain, and anyone can download and use them as they wish. The piyutim are coded on According to a method called TEI (\"[Text Encoding Initiative](https://en.wikipedia.org/wiki/Text_Encoding_Initiative)\"). Among the advantages of this method, it should be noted that it paves the way for a site that is used by both the researchers and the general public. Researchers need access to the original text as it appears in the manuscript, including archaic forms and even corrupted forms; also, in order to serve the audience of researchers, markings are required throughout the text to indicate letters added between the lines, unclear letters, and the like. On the other hand, editions of piyutim intended for the general public always strive to present the reader with a legible text, free of forms, obvious oddities and disruptions, and without unnecessary markings. TEI's format allows encoding of all these configurations, side by side; both the original text according to the manuscript, with all the provided letters (which are in doubt), etc., and also the normalized and corrected forms. The encoding used on the current website allows the user to choose the appropriate display form: whether to view the original text or the normalized text; whether to leave visible disruptions or correct them; if to mark text added between the sheets; if to mark provided letters; And another priest and priest. The current corpus is the first significant corpus in the Hebrew language to be coded into the TEI format. In recent years, interest in digital humanities in general and TEI in particular has been increasing. But until now researchers have not had even one example of Hebrew text encoding in TEI. The current corpus fills this void and serves as an example for researchers seeking to carry out similar projects involving the digitization of Hebrew corpora in the TEI format.”",
+          "footnotes_md": [
+            "42 Thanks to Gila Prebor for pointing out this resource in a presentation.",
+            "43 [פיוטים לתפילת העמידה מפי פייטני ארץ ישראל](https://isf.org.il/layperson-reports/%D7%A4%D7%99%D7%95%D7%98%D7%99%D7%9D-%D7%9C%D7%AA%D7%A4%D7%99%D7%9C%D7%AA-%D7%94%D7%A2%D7%9E%D7%99%D7%93%D7%94-%D7%9E%D7%A4%D7%99-%D7%A4%D7%99%D7%99%D7%98%D7%A0%D7%99-20181218153326.html)"
+          ],
+          "tags": [
+            "piyyut",
+            "liturgy",
+            "geniza",
+            "manuscripts",
+            "transcription",
+            "digital-humanities",
+            "critical-edition"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 21,
+            "number": "14"
+          }
+        },
+        {
+          "id": "ilanot-project",
+          "name": "The Ilanot Project",
+          "name_he": "מפעל האילנות",
+          "url": "https://ilanot.org/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "\"Maps of God\" portal of the Ilanot Project, presenting linked-data scholarly editions of kabbalistic diagram scrolls (ilanot).",
+          "annotation_md": "- From the homepage: “Welcome to the “Proof of Concept” Preview of “Maps of God” - The Ilanot Portal [...] “Maps of God” (MoG) is the flagship digital humanities initiative of the Ilanot Project, dedicated to the research of Jewish kabbalistic diagrams known as ilanot (“trees,” being intricately inscribed parchment scrolls dedicated to mapping the divine realm). The MoG platform presents scientific editions of the great ilanot using an innovative linked-data approach to enable scholars and laypeople to explore these fascinating artifacts for the first time.”",
+          "footnotes_md": [],
+          "tags": [
+            "kabbalah",
+            "manuscripts",
+            "digital-humanities",
+            "visualization",
+            "critical-edition"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 22,
+            "number": "15"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Manuscripts - by Topic",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "lieberman-institute-talmud-text-databank",
+          "name": "The Sol and Evelyn Henkind Talmud Text Databank; Primary Textual Witnesses to Tannaitic Literature",
+          "name_he": "",
+          "url": "https://www.lieberman-institute.com/",
+          "access": "subscription",
+          "languages": [
+            "he",
+            "arc"
+          ],
+          "summary": "Lieberman Institute / Bar-Ilan subscription site joining the Henkind Talmud Text Databank, a Talmudic reference index, and Tannaitic textual witnesses.",
+          "annotation_md": "- From the home page:\n  - “Welcome to our new integrated website: Cooperative Development Initiative – Created by CDI Systems in partnership with the Saul Lieberman Institute of Talmudic Research of the Jewish Theological Seminary and Bar Ilan University’s Institute for Computerization in Jewish Life.\n  - This new resource upgrades and integrates the three Judaic studies databases developed by these institutions:\n    1. The Sol and Evelyn Henkind Talmud Text Databank.\n    2. The Index of References Dealing with Talmudic Literature, offering pinpointed citations from hundreds of classic and modern scholarly works directly related to the specific selected passage within Talmudic literature.\n    3. Primary Textual Witnesses to Tannaitic Literature.”\n- See under section “Bibliographic info” for “The Index of References Dealing with Talmudic Literature”.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "mishnah",
+            "midrash",
+            "manuscripts",
+            "bibliography",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 22,
+            "number": "16"
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

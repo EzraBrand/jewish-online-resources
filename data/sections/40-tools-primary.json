@@ -1,0 +1,635 @@
+{
+  "part": "E",
+  "source_pages": [
+    23,
+    28
+  ],
+  "blocks": [
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Search and Related Tools",
+      "group": "Open-access",
+      "intro_md": "There are some very powerful tools for researching primary and secondary sources. Gone are the days when one is completely at the mercy of memory, concordance, index, or colleagues. Many of the websites in the previous section (“Primary texts”) have good hyperlinked navigation pages. In addition, they have very good search capabilities. In addition to this, there are websites which are dedicated to search and indexes, that provide powerful capabilities that the previously mentioned websites don’t have.",
+      "entries": [
+        {
+          "id": "dicta",
+          "name": "Dicta",
+          "name_he": "",
+          "url": "https://dicta.org.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Bar-Ilan-based suite of machine-learning tools for Hebrew texts: Bible and Talmud search, automatic vocalization, citation finding, abbreviation expansion, synopsis, and more.",
+          "annotation_md": "- Search is highly recommended.\n- From the About Us [page](https://dicta.org.il/about): “Dicta applies cutting edge machine learning and natural language processing tools to the analysis of Hebrew texts.”\n- Created by Prof. Moshe Koppel of Bar-Ilan University. List of their search and other tools, all very cool and quite user-friendly and hyper-modern UX/UI, in the best way:\n    - [Tanach search](https://search.dicta.org.il/): “Search the Bible intuitively, with no need to worry about alternate spellings, prefixes and suffixes or sorting out multiple meanings of a word. Dicta’s search engine understands what you’re looking for.”\n    - [Talmud Search](https://talmudsearch.dicta.org.il/): “Search the Talmud and Mishnah for words and phrases intuitively, with no need to worry about alternate spellings and multiple meanings. Dicta’s search engine understands what you’re looking for.”\n    - [Quick Nakdan:](https://nakdan.dicta.org.il/) “Automatically add nikud (vocalization) to text as you type.”\n    - [Citation finder](https://citation.dicta.org.il/): “Identify exact or approximate quotations of biblical and talmudic sources in a given text.”\n    - [Rabbinic Abbreviation Expander](https://abbreviation.dicta.org.il/): “Expand abbreviations in Rabbinic texts. An entered text will be displayed including expanded abbreviations. The automated expansions are editable by the user.”\n    - [Synopsis Builder](https://synoptic.dicta.org.il/): “Align two or more versions of the same (arbitrarily long) text, highlighting differences between versions and matching parallel words, including variant spellings and synonyms.”\n    - [Stylistic Segmentation](https://segment.dicta.org.il/): “Partition any selected text into distinct stylistic components. For example, a multi-authored text can be automatically decomposed and displayed so that distinct authorial threads are shown in different colors.”\n    - [Charuzit](https://wordplay.dicta.org.il/): “Find rhymes, assonance, and alliteration for any given Hebrew word. Search results can be filtered by entering semantic words and configuring various grammatical settings.”\n    - [הסרת ניקוד](https://removenikud.dicta.org.il/)",
+          "footnotes_md": [],
+          "tags": [
+            "search",
+            "ai",
+            "digital-humanities",
+            "hebrew-language",
+            "talmud",
+            "critical-edition"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 23,
+            "number": "1"
+          }
+        },
+        {
+          "id": "sefaria-search",
+          "name": "Sefaria search",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Sefaria's full-text search across its library of Jewish texts.",
+          "annotation_md": "Sefaria’s search function is also quite robust.",
+          "footnotes_md": [],
+          "tags": [
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 24,
+            "number": "2"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Tools for Transcription of manuscripts",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "transkribus-dijest",
+          "name": "Transkribus, Dijest model",
+          "name_he": "",
+          "url": "https://dijest.net/digitize-your-texts-with-transkribus/",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "yi",
+            "jrb",
+            "lad"
+          ],
+          "summary": "Free public Transkribus text-recognition model (DiJeSt) for Hebrew-script languages, trained on printed Yiddish, Hebrew, Judeo-Arabic and Ladino texts.",
+          "annotation_md": "- Free Public AI Model for Handwritten Text Recognition with Transkribus, for Hebrew script languages:44 [https://readcoop.eu/model/hebrew-script-languages/](https://readcoop.eu/model/hebrew-script-languages/)\n- It uses the [Dijest model](https://dijest.net/digitize-your-texts-with-transkribus/). From the webpage: “Among Transkribus public models you will find the DiJeSt model for Hebrew script languages, which you can apply to your documents. It is good for automatic recognition of several types of printed texts in Yiddish, Hebrew, Judeo Arabic and Ladino.”",
+          "footnotes_md": [
+            "44 I’d like to thank Gila Prebor for pointing out this webpage to me, in personal communication."
+          ],
+          "tags": [
+            "ocr-htr",
+            "ai",
+            "transcription",
+            "printed-books",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 24,
+            "number": "1"
+          }
+        },
+        {
+          "id": "escriptorium",
+          "name": "Escriptorium",
+          "name_he": "",
+          "url": "https://gitlab.com/scripta/escriptorium",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc"
+          ],
+          "summary": "Open-source platform for machine-learning recognition of handwritten documents, used for Geniza transcription and central to the ERC MiDRASH project on medieval Hebrew manuscripts.",
+          "annotation_md": "- From the homepage: “A project providing digital recognition of handwritten documents using machine learning techniques.”45\n- [From the Princeton Geniza Lab website](https://genizalab.princeton.edu/projects/handwritten-text-recognition): “In February 2021, we began exploring machine learning as a method of transcribing Geniza documents in partnership with Daniel Stökl Ben-Ezra of the École Pratique des Hautes Études (EPHE) in Paris and the digital paleography framework e-Scriptorium.”\n- [ERC Synergy MiDRASH Awarded to EPHE and partner institutions – eScripta](https://escripta.hypotheses.org/500): “The European Research Council has awarded an ERC Synergy Grant to the EPHE and its partner institutions in Israel for a six years computational-humanities project on Medieval Hebrew manuscripts starting in 2023 with a budget of over 10 million Euro. eScriptorium and kraken play a central role in it [...] In this project, we aim to achieve the following goals:\n    - Convert the writing appearing in the images of a large fraction of those manuscripts into searchable text — including as much as possible of interlinear insertions and marginal comments. This will require significant improvements in the state-of-the-art of computerized page segmentation and handwritten-text recognition.\n    - Have the computer compare the multitude of texts to find quotations, paraphrases, borrowings, allusions, and other intertextual relations. These can be made available to people browsing or studying the texts.\n    - Train computer algorithms to analyze handwriting so as to determine where and when each manuscript was written — down to the century and the country. This will involve synergetic feedback between human paleographers and modern neural-network machine learning, teaching the computer to detect the features that have been identified by experts throughout the manuscripts, identifying outliers, and explaining machine classifications in human-understandable terms.\n    - Train computer algorithms to analyze the texts for linguistic (lexical, morphological, and syntactic) features that can be used in text searches and which can help place literary works in their historical context [...]\n- The results of this project — data as well as algorithms — will be made available to the public.”",
+          "footnotes_md": [
+            "45 For overview, see the recent presentation, available on YouTube: [“eScriptorium for Handwritten Text Recognition in Humanities Research”](https://youtu.be/tut007D6w3o) (uploaded Mar 3, 2021. accessed 25-Feb-2022).\n\nFor use on Hebrew manuscripts, there is a gated presentation cited by Katz 2022, footnote 16: D. Stoekl Ben Ezra, “Sofer Mahir: Opening Up Rabbinic Manuscripts Towards Scholarly Editions”. Presentation at the DHJewish conference in Luxembourg, January 2021. URL: [https://sofermahir.hypotheses.org/59](https://sofermahir.hypotheses.org/59). See also here: [Digital Forum Showcases: eScriptorium](https://www.eurojewishstudies.org/digital-forum-showcase-reports/escriptorium/) and here: [DH Tutorials - Goethe-Universität](https://eajs-2023.eu/133556336/DH_Tutorials).\n\nKatz and Gershuni point out: “Unfortunately, the ability to use OCR to read Hebrew or Aramaic manuscripts is not yet sufficiently developed. When textual manuscript-based projects such as Stoekal.'s Sofer Mahir and Tikoun Sofrim will reach a more mature stage, the extension of the edition to the entire Talmud will be far easier to achieve.” (Katz 2022, section 4.1)."
+          ],
+          "tags": [
+            "ocr-htr",
+            "ai",
+            "transcription",
+            "manuscripts",
+            "geniza",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 24,
+            "number": "2"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Bibliographic Information and Indexes - General",
+      "group": "Open-access",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "merhav-bibliographic",
+          "name": "Merhav - The National Library",
+          "name_he": "מרחב - הספרייה הלאומית של ישראל",
+          "url": "https://merhav.nli.org.il/primo-explore/search?query=any,contains,NNL&sortby=rank&vid=NLI&lang=en_US",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "The National Library of Israel's catalog, a major bibliographic resource and search tool covering some five million items.",
+          "annotation_md": "- Recommended. Tremendous bibliographic resource, besides for being a powerful search tool (mentioned also above, under “Search”).\n- Overview at their website [here](https://www.nli.org.il/he/research-and-teach/catalogs) (Hebrew): “The National Library's collection includes about five million items, including books, manuscripts, journals, maps, music and audio-visual and electronic material, in a variety of languages.",
+          "footnotes_md": [],
+          "tags": [
+            "catalog",
+            "bibliography",
+            "search",
+            "printed-books",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 25,
+            "number": "3"
+          }
+        },
+        {
+          "id": "bar-ilan-catalog",
+          "name": "Bar-Ilan Catalog",
+          "name_he": "",
+          "url": "https://biu.primo.exlibrisgroup.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Bar-Ilan University library catalog, with Jewish works missing from Merhav and Bar-Ilan dissertations.",
+          "annotation_md": "Includes many important Jewish works missing from Merhav. Especially dissertations written in Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": [
+            "catalog",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 25,
+            "number": "4"
+          }
+        },
+        {
+          "id": "sfardata",
+          "name": "Sfardata",
+          "name_he": "ספר-דתא",
+          "url": "https://sfardata.nli.org.il/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Codicological database of about 5,000 dated Hebrew manuscripts, from the Hebrew Paleography Project and the work of Malachi Beit-Arié.",
+          "annotation_md": "- Comprehensive data on dated manuscripts, based largely on the life’s work of Prof. Malachi Beit-Arie.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8-%D7%93%D7%AA%D7%90): “The codicological database of the Hebrew Paleography Project. The purpose of the project is to collect data of all Hebrew manuscripts, such as data on ink, codexes, pagination traditions of the text, page and text dimensions and proportions between them, line management [...], and graphic symbols (symbols of emphasis, acronyms and numbers). The total parameters collected are about 900.\n- The database contains about 5,000 Hebrew manuscripts dated either with a colophon or with the author's name, which were examined in 250 libraries and private collections, which constitute about 95% of the existing [Hebrew manuscripts].”",
+          "footnotes_md": [],
+          "tags": [
+            "manuscripts",
+            "catalog",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 25,
+            "number": "5"
+          }
+        },
+        {
+          "id": "bibliography-of-the-hebrew-book",
+          "name": "The Bibliography of The Hebrew Book",
+          "name_he": "מפעל הביבליוגרפיה העברית",
+          "url": "http://www.hebrew-bibliography.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "yi",
+            "lad",
+            "jrb"
+          ],
+          "summary": "Detailed bibliography of books printed in Hebrew characters from 1475 to about 1960, now part of the National Library's Merhav catalog.",
+          "annotation_md": "(also [here](http://uli.nli.org.il/F?func=find-b-0&local_base=mbi01))\n\n- My understanding is that “The Bibliography of The Hebrew Book” has been incorporated into “Merhav”. See also National Library’s guides here: [https://www.nli.org.il/en/research-and-teach/catalogs/bibliographic-databases](https://www.nli.org.il/en/research-and-teach/catalogs/bibliographic-databases)\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%A2%D7%9C_%D7%94%D7%91%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA): “A body designated for the editing of a bibliography of Jewish printing. The project lists and describes all the books printed in Hebrew characters in the Hebrew language and in the languages of the Jews (Yiddish, Ladino, Judaeo-Arabic, etc.) from the first Hebrew incunabula in the year 1475, until about 1960. The bibliographic database was built on the basis of the collections of the National Library and other collections in Israel and around the world. The bibliography numbers over 141,000 bibliographic and 15,000 biographical entries, and includes: books, journals and individual pages (ephemera). Each publication is reviewed by the project staff, and the description of the books is very broad and comprehensive than their description in the National Library catalog, and includes, for example: book approvals (הסכמות לספרים), introductions written by other authors, and the like. As of 2011, the project recorded and described close to 90% of the world's Jewish books and is online on the National Library website.”",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 25,
+            "number": "6"
+          }
+        },
+        {
+          "id": "halacha-brura-virtual-library",
+          "name": "Halacha Brura Institute - Virtual Library",
+          "name_he": "מכון הלכה ברורה - ספריה וירטואלית",
+          "url": "http://www.halachabrura.org/alephlink.htm",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Large index of links to full-text and scanned Jewish books scattered across websites, marked by site and file type.",
+          "annotation_md": "- This is an incredible project.\n- From the webpage: “The Halacha Brura Institute centralizes here links to books that are on the Internet at various websites, in full text, some as text and some as images, to save the visit to libraries.”\n- Has a system of symbols to mark the website where the work is found, and the file type.\n- Ironically, Halacha Brura’s own meta-index of its own indexes is unfortunately not very good, there’s no full sitemap available on the website, and the organization of the webpages doesn’t isn’t always the best (for example, Rambam and commentators and Responsa are on the same page). Presumably, this is because webpages were split as they got larger. In any case, to help with this issue, I created my own meta-index of Halacha Brura's indexes (available [here](https://www.academia.edu/93648655/Meta_index_of_Halacha_Bruras_index_of_scanned_Jewish_books)).\n- This project appears to be affiliated with the Rambam Library (ספריית הרמב\"ם - בית אריאלה) in Tel-Aviv, though it’s not clearly stated on their website.",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 26,
+            "number": "7"
+          }
+        },
+        {
+          "id": "thesaurus-of-talmudic-manuscripts",
+          "name": "Thesaurus of Talmudic Manuscripts",
+          "name_he": "",
+          "url": "https://fjms.genizah.org/",
+          "access": "registration",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Online version of Sussman's catalog of Talmudic manuscripts, with Friedberg updates, hosted on the Hachi Garsinan site.",
+          "annotation_md": "- Hosted at the [Hachi Garsinan](https://bavli.genizah.org/) website, mentioned earlier. Requires registration (free).\n- Based on Y. Sussman, Thesaurus of Talmudic Manuscripts, Jerusalem 2012. With Friedberg updates, edited by M. Katz, September 2017.",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "manuscripts",
+            "catalog",
+            "geniza"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 26,
+            "number": "8"
+          }
+        },
+        {
+          "id": "breuer-manuscript-scan-sites-list",
+          "name": "List of websites and threads for scans of manuscripts and early printed books (Adiel Breuer)",
+          "name_he": "רשימת אתרים ואשכולות לסריקות כת\"י וספרי דפוס עתיקים",
+          "url": "https://forum.otzar.org/viewtopic.php?f=7&t=22946",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "2015 Otzar HaHochma forum post listing library portals and other sites with scanned Hebrew manuscripts and rare books.",
+          "annotation_md": "[רשימת אתרים ואשכולות לסריקות כת\"י וספרי דפוס עתיקים](https://forum.otzar.org/viewtopic.php?f=7&t=22946). R’ Adiel Breuer, published July 5, 2015 on the Otzar HaHochma forum. It contains a plethora of links to websites that contain Hebrew manuscripts and books.46 Breuer’s post focuses on providing links to university library website portals for their Hebrew manuscript and rare book collections. It dates from 2015. As he points out there, the database Ktiv [see below] intends to include all Hebrew manuscripts, rendering going to individual library websites much less relevant. See also under section “Manuscripts”, in a footnote, for further discussion of Breuer’s guide.",
+          "footnotes_md": [
+            "46 Pointed out to me by A. Berman, private communication."
+          ],
+          "tags": [
+            "manuscripts",
+            "printed-books",
+            "forum",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 26,
+            "number": "9"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Bibliographic Information and Indexes - General",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "talmud-yerushalmi-citation-database",
+          "name": "Talmud Yerushalmi Citation Database",
+          "name_he": "מאגרי מידע לתלמוד הירושלמי",
+          "url": "https://yerushalmidb.com/",
+          "access": "subscription",
+          "languages": [
+            "he"
+          ],
+          "summary": "Subscription database of citations for research on the Jerusalem Talmud, by Moshe Pinchuk.",
+          "annotation_md": "- Project of [Dr. Moshe Pinchuk](https://netanya.academia.edu/MoshePinchuk) of Netanya Academic College.47",
+          "footnotes_md": [
+            "47 See his article: [משה פינצ'וק, \"מאגרי מידע לתלמוד הירושלמי,\" עלי ספר כב (תשע\"ב), עמ' 165-171](https://www.academia.edu/30989122/A_Database_for_the_Research_of_Talmud_Yerushalmi_Hebrew_)."
+          ],
+          "tags": [
+            "talmud",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 26,
+            "number": "10"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Bibliographic Information and Indexes - by Topic",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "bibja-judeo-arabic-bibliography",
+          "name": "Bibliography of works in Judeo-Arabic",
+          "name_he": "אתר פרידברג לביבלוגרפיה בערבית יהודית",
+          "url": "http://bibja.genizah.org/",
+          "access": "open",
+          "languages": [
+            "jrb",
+            "he",
+            "en"
+          ],
+          "summary": "Friedberg bibliography of some 1,500 printed Judeo-Arabic works from all regions and periods, with filtering.",
+          "annotation_md": "- From the webpage:\n    - “The aim of this website is to present to all scholars, researchers and, in general, users interested in Judeo-Arabic texts, a comprehensive bibliography of all works in Judeo-Arabic ever printed, in a variety of formats, with some filtering capabilities.\n    - The list, with some 1,500 entries, is intended to cover all regions of publications and all periods of the works' writings, up until and including the very early works of the 21st century.”",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 27,
+            "number": "11"
+          }
+        },
+        {
+          "id": "penn-early-printed-hebrew-book-guide",
+          "name": "Introduction - History of the Early Printed Hebrew Book - Guides at Penn Libraries",
+          "name_he": "",
+          "url": "https://guides.library.upenn.edu/earlyprintedhebrewbook",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "University of Pennsylvania research guide with bibliographies on the early printed Hebrew book, c. 1470 to the seventeenth century.",
+          "annotation_md": "See description [here](https://www.jewishinternetguide.com/JewishWebsiteCategories/Books): “From the University of Pennsylvania comes this guide to the study of the early printed Hebrew book from its beginning around the year 1470 through the seventeenth-century. For every topic, in both the general and the Hebrew sections, you will find a bibliography arranged alphabetically by author, and the availability of the materials in the Penn libraries system, online, or from other academic libraries.”",
+          "footnotes_md": [],
+          "tags": [
+            "bibliography",
+            "printed-books",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 27,
+            "number": "12"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Databases",
+      "group": "Open-access",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "parallels-in-yerushalmi",
+          "name": "Parallels in Yerushalmi",
+          "name_he": "מקבילות לירושלמי",
+          "url": "https://www2.biu.ac.il/js/tl/yerushalmi/index.html",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Leib Moscovitz's lists of sources and parallels to the Jerusalem Talmud in Bible, Tannaitic literature, Yerushalmi, Midrash and sometimes Bavli.",
+          "annotation_md": "- Project of Prof. Leib Moscovitz of Bar-Ilan University.\n- From the About page:\n    - “This site contains lists of sources and parallels to the Jerusalem Talmud, from the Bible, the literature of the Tannaim (Mishnah, Tosefta, and the Halachic Midrashim), the Jerusalem Talmud itself, and the classic Aggadic Midrashim of the Land of Israel. For some of the Tractates, parallels from the Babylonian Talmud are also recorded.”",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "mishnah",
+            "midrash"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 27,
+            "number": "13"
+          }
+        },
+        {
+          "id": "elyonim-vetachtonim",
+          "name": "Elyonim veTachtonim",
+          "name_he": "",
+          "url": "https://elyonimvetachtonim.project.uj.edu.pl/en_GB/databases/babylonian-talmud",
+          "access": "open",
+          "languages": [
+            "en",
+            "he",
+            "arc"
+          ],
+          "summary": "Databases of supernatural entities in the Hebrew Bible and Babylonian Talmud, with tools for quantitative and qualitative analysis.",
+          "annotation_md": "- Project focused on the supernatural entities of the Hebrew Bible and Babylonian Talmud. The website offers the databases of these entities and a system of the quantitative and qualitative analysis of such traditions.48\n- See the list of Papers and chapters based on this project [here](https://elyonimvetachtonim.project.uj.edu.pl/en_GB/about/legacy).",
+          "footnotes_md": [
+            "48 Personal communication from Wojciech Kosior. I’d like to thank him for pointing out his project to me."
+          ],
+          "tags": [
+            "talmud",
+            "digital-humanities",
+            "visualization"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 27,
+            "number": "14"
+          }
+        },
+        {
+          "id": "peace-project",
+          "name": "PEACE Project - Portal of Epigraphy, Archaeology, Conservation and Education on Jewish Funerary Culture",
+          "name_he": "",
+          "url": "https://peace.sites.uu.nl/epigraphy/search/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Utrecht portal on Jewish funerary culture, with a searchable database of thousands of transcribed tombstone inscriptions.",
+          "annotation_md": "- From the [About page](https://peace.sites.uu.nl/about/peace/): “The PEACE portal explores Jewish funerary culture through the ages. In this initial phase, it focuses on epigraphical aspects: the inscriptions recorded on stone, plaster, or gold-glass.”\n- A search for “Year” = -530 - 1732, got me 8606 results of transcriptions of tombstones.",
+          "footnotes_md": [],
+          "tags": [
+            "epigraphy",
+            "history",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 27,
+            "number": "15"
+          }
+        },
+        {
+          "id": "seforimonline-database",
+          "name": "Seforimonline.org",
+          "name_he": "",
+          "url": "https://www.seforimonline.org/seforim-database/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Well-organized database of scanned Rabbinic works, sortable by place and year, with some rare manuscripts and early editions.",
+          "annotation_md": "- Well-organized, publications can be sorted by place of publication, year, etc. There also seem to be works there not found in other websites, especially of manuscripts and early editions of Rabbinic works. (Halacha Brura’s index above sometimes links to Seforimonline.org.)",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "manuscripts"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 28,
+            "number": "16"
+          }
+        },
+        {
+          "id": "judaica-archival-project",
+          "name": "Judaica Archival Project",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Microfilming project for rare Rabbinic books (1987 on); an archived catalog of its thousands of titles remains online.",
+          "annotation_md": "- [Wikipedia](https://en.wikipedia.org/wiki/Judaica_Archival_Project): “The Judaica Archival Project was founded in 1987 as a non-profit preservation and access program for Rabbinics. From 1988 to 1999 the Project operated a microfilm lab at the Jewish National and University Library (JNUL) of the Hebrew University. The Project was supported by private foundations, book lovers and from the sale of facsimile copies. Over half a million pages were filmed from thousands of rare and out-of-print Hebrew works.”\n- Archived list of thousands of primary texts, with bibliographic info, and archived links to book cover pages, [here](https://web.archive.org/web/20050209182706/http://www.virtualgeula.com/archival/eng/cat-ti-e.htm#BB).",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "bibliography"
+          ],
+          "status_note": "Available only as an archived (Wayback Machine) list.",
+          "origin": {
+            "edition": "2023",
+            "page": 28,
+            "number": "17"
+          }
+        },
+        {
+          "id": "responsa-project-works-list",
+          "name": "List of works in Bar-Ilan University’s Responsa Project",
+          "name_he": "",
+          "url": "",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Archived list of the thousands of primary works in the Bar-Ilan Responsa Project, by genre, with basic bibliographic data.",
+          "annotation_md": "List of works in Bar-Ilan University’s Responsa Project (“Global Jewish Database - Responsa Project”). [Archived list of primary works](https://web.archive.org/web/20070311031116/http://www.digento.de/zusatz/101413_01), from 2007-2001. List of thousands of primary works, with basic bibliographic info, categorized by genre.",
+          "footnotes_md": [],
+          "tags": [
+            "responsa",
+            "bibliography"
+          ],
+          "status_note": "Available only as an archived (Wayback Machine) list.",
+          "origin": {
+            "edition": "2023",
+            "page": 28,
+            "number": "18"
+          }
+        },
+        {
+          "id": "heichal-menahem",
+          "name": "Heichal Menahem",
+          "name_he": "היכל מנחם",
+          "url": "https://www.heichal.co.il/departments/%D7%A1%D7%A4%D7%A8%D7%99%D7%9D/1",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Online bookstore whose listings serve as an index of recent Hebrew books, with bibliographic details and pictures.",
+          "annotation_md": "- E-commerce website selling books. Can be used as a kind of index of recently published books, with lots of bibliographical info and pictures.",
+          "footnotes_md": [],
+          "tags": [
+            "printed-books",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 28,
+            "number": "19"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Tools for Navigating Primary Texts",
+      "subsection": "Databases",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "otzar-hadmuyot",
+          "name": "Otzar Hadmuyot",
+          "name_he": "",
+          "url": "https://www.bonayich.com/project/otzar-hadmuyot/",
+          "access": "subscription",
+          "languages": [
+            "he"
+          ],
+          "summary": "Bonayich's searchable database of Tannaim and Amoraim, with name variants, generations, places, relationships and scholarship on each sage.",
+          "annotation_md": "Otzar Hadmuyot.49 From the webpage: “The Bonayich ‘Index of Rabbinic Sages’ is the most up-to-date and scientific database of Tannaim and Amoraim. The data includes identification of every personality mentioned in Rabbinic literature, with all spelling variations of their names, identification of their generation and place of activity, their family and scholarly relationships with other personalities, and all scholarly research written about each figure. The data is presented in a powerful search engine environment enabling sorting and arranging of the personalities as needed.”",
+          "footnotes_md": [
+            "49 Thank you to Menachem Katz for pointing out this resource to me."
+          ],
+          "tags": [
+            "talmud",
+            "mishnah",
+            "history",
+            "search"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 28,
+            "number": "1"
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

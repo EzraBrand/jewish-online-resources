@@ -1,0 +1,1747 @@
+{
+  "part": "H",
+  "source_pages": [
+    40,
+    47
+  ],
+  "blocks": [
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Articles - general",
+      "group": "General",
+      "intro_md": "Websites with open-access articles, written for a popular audience, with relatively high scholarly standards.",
+      "entries": [
+        {
+          "id": "academy-of-hebrew-language-articles",
+          "name": "Academy of Hebrew Language",
+          "name_he": "",
+          "url": "https://hebrew-academy.org.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Israel's official Hebrew-language academy; its website carries many scholarly articles on Hebrew linguistics across all periods.",
+          "annotation_md": "- See above. Besides for a selection of scholarly articles from journals, has many articles specifically written for the website.\n- Recommended. Focuses on Hebrew linguistics. Great resource, at a high level of scholarship, with lots of interesting articles on all topics related to Hebrew language, throughout history.\n- [Wikipedia](https://en.wikipedia.org/wiki/Academy_of_the_Hebrew_Language): “The Academy of the Hebrew Language was established by the Israeli government in 1953 as the \"supreme institution for scholarship on the Hebrew language in the Hebrew University of Jerusalem of Givat Ram campus.\" Its stated aims are to assemble and research the Hebrew language in all its layers throughout the ages; to investigate the origin and development of the Hebrew tongue; and to direct the course of development of Hebrew, in all areas, including vocabulary, grammar, writing, spelling, and transliteration.”",
+          "footnotes_md": [],
+          "tags": [
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 40,
+            "number": "1"
+          }
+        },
+        {
+          "id": "thegemara-com",
+          "name": "TheGemara.com",
+          "name_he": "",
+          "url": "https://thegemara.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Edited English essays on the Babylonian Talmud, written for a general audience to academic standards.",
+          "annotation_md": "- In English.\n- Focuses on Talmud Bavli. Recommended. From the [About Us](https://thegemara.com/about): “We solicit original essays that are reviewed and edited by our in-house scholars, to ensure the highest academic standards as well as maximum readability for the general audience.”",
+          "footnotes_md": [],
+          "tags": [
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 41,
+            "number": "2"
+          }
+        },
+        {
+          "id": "my-jewish-learning",
+          "name": "My Jewish Learning",
+          "name_he": "",
+          "url": "https://www.myjewishlearning.com/category/study/jewish-history/ancient-medieval-jewish-history/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Popular Jewish-education site with many good articles, mostly on Bible and modern Jewish history.",
+          "annotation_md": "- Lots of good articles. However, it mostly focuses on Bible and Modern Jewish history, which are out of the scope of this guide.",
+          "footnotes_md": [],
+          "tags": [
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 41,
+            "number": "3"
+          }
+        },
+        {
+          "id": "929-tanach-byachad",
+          "name": "929- Tanach B’yachad",
+          "name_he": "929 - תנך ביחד",
+          "url": "https://www.929.org.il/p/home",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Modern Hebrew Bible-study site with many articles on Hebrew linguistics, though they are hard to filter out.",
+          "annotation_md": "- In Modern Hebrew. Lots of articles on Hebrew linguistics (for example: [on the phrase \"עומד על הפרק\"](https://www.929.org.il/page/528/post/12882)). However, mostly focuses on Bible, which is out of the scope of this guide. And not so simple to filter for articles on Hebrew linguistics.",
+          "footnotes_md": [],
+          "tags": [
+            "hebrew-language",
+            "bible-commentary"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 41,
+            "number": "4"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Articles - Newspapers and Magazines",
+      "group": "",
+      "intro_md": "Newspapers and magazines can be a great source of scholarship, and they’re often available online. They are especially good for reviews of scholarly books, and interviews with scholars.[^63] Israeli publications often have high-quality articles on Hebrew linguistics. Mostly behind paywall, with some articles not behind paywall.\n\nSome of the best:",
+      "entries": [
+        {
+          "id": "makor-rishon",
+          "name": "Makor Rishon",
+          "name_he": "מקור ראשון",
+          "url": "https://www.makorrishon.co.il/",
+          "access": "freemium",
+          "languages": [
+            "he"
+          ],
+          "summary": "Israeli Hebrew newspaper whose weekend Shabbat supplement often covers scholarly Jewish topics.",
+          "annotation_md": "- In Modern Hebrew. Their [Mussaf Shabbat](https://www.makorrishon.co.il/tag/%D7%9E%D7%95%D7%A1%D7%A3-%D7%A9%D7%91%D7%AA/) (מוסף שבת) is especially good on scholarly topics.\n- [Wikipedia](https://en.wikipedia.org/wiki/Makor_Rishon):\n  - “Makor Rishon is a semi-major Israeli newspaper [...] Shabbat (Sabbath) – a supplement for Jewish philosophy, Judaism and literature, with an intellectual bent.”",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 41,
+            "number": "1"
+          }
+        },
+        {
+          "id": "haaretz",
+          "name": "Haaretz",
+          "name_he": "הארץ",
+          "url": "",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Long-running Israeli daily in Hebrew and English; issues from 1918 to 1997 are in the National Library of Israel newspaper archive.",
+          "annotation_md": "- In Modern Hebrew and English.[^64]\n- Available online: 4 April 1918 - 31 December 1997 (22,721 issues; 394,984 pages), at National Library of Israel’s [Jpress archive](https://www.nli.org.il/en/newspapers/haretz/). However, not all pages in this date range are in fact available there.\n- [Wikipedia](https://en.wikipedia.org/wiki/Haaretz):\n  - “Haaretz is an Israeli newspaper. It was founded in 1918, making it the longest running newspaper currently in print in Israel, and is now published in both Hebrew and English [...]”",
+          "footnotes_md": [
+            "64 Example of article on Hebrew linguistics, on the word “שחצן”: [המילה שַׁחְצָן: מה הקשר בין אריות לנחשים וביניהם לבין יוהרה?](https://www.haaretz.co.il/magazine/the-edge/mehasafa/.premium-1.2853618) https://www.haaretz.co.il/magazine/the-edge/mehasafa/.premium-1.2853618"
+          ],
+          "tags": [
+            "journal",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 42,
+            "number": "2"
+          }
+        },
+        {
+          "id": "segula",
+          "name": "Segula",
+          "name_he": "סגולה",
+          "url": "https://segulamag.com/",
+          "access": "freemium",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Israeli history magazine, monthly in Hebrew and bimonthly in English, since 2010.",
+          "annotation_md": "- In Modern Hebrew and English.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%A1%D7%92%D7%95%D7%9C%D7%94_(%D7%9E%D7%92%D7%96%D7%99%D7%9F)):\n  - “Segula is an Israeli monthly dedicated to history, published since April 2010. The magazine deals with the history of the people of Israel and general history, from the perspective that the people of Israel play an important part in world history and the historical processes leading humanity. The magazine is published monthly. An equivalent edition in English is published once every two months.”",
+          "footnotes_md": [],
+          "tags": [
+            "history",
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 42,
+            "number": "3"
+          }
+        },
+        {
+          "id": "tablet",
+          "name": "Tablet",
+          "name_he": "",
+          "url": "https://www.tabletmag.com/",
+          "access": "freemium",
+          "languages": [
+            "en"
+          ],
+          "summary": "Online magazine of Jewish news, ideas and culture, founded in 2009.",
+          "annotation_md": "- [Wikipedia](https://en.wikipedia.org/wiki/Tablet_(magazine)):\n  - “Tablet is an online religious magazine of news, ideas, and Jewish culture. Founded in 2009 [...]”.",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 42,
+            "number": "4"
+          }
+        },
+        {
+          "id": "jewish-review-of-books",
+          "name": "Jewish Review of Books",
+          "name_he": "",
+          "url": "https://jewishreviewofbooks.com/",
+          "access": "freemium",
+          "languages": [
+            "en"
+          ],
+          "summary": "Quarterly magazine, launched in 2010, with reviews and essays on books and culture from a Jewish perspective.",
+          "annotation_md": "- [Wikipedia](https://en.wikipedia.org/wiki/Jewish_Review_of_Books):\n  - “The Jewish Review of Books is a quarterly magazine with articles on literature, culture and current affairs from a Jewish perspective. [...] The magazine was launched in 2010 [...] ”",
+          "footnotes_md": [],
+          "tags": [
+            "journal"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 42,
+            "number": "5"
+          }
+        }
+      ],
+      "notes_md": [
+        "63 For an interesting example of newspaper interviews and lectures on YouTube being used as evidence in scholarly discussion, see Prof. Bezalel Bar-Kochva’s critique of Prof. Rachel Elior: [https://www.tau.ac.il/sites/tau.ac.il.en/files/media_server/imported/508/files/2014/10/elior-25.11.2013.pdf](https://www.tau.ac.il/sites/tau.ac.il.en/files/media_server/imported/508/files/2014/10/elior-25.11.2013.pdf). However, it must be admitted that that's an unusual case."
+      ]
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Blogs",
+      "group": "",
+      "intro_md": "Blogs are generally not formally peer-reviewed and are generally written more informally and conversationally, but are often a great resource. With the shift from blogs to social media, many blogs have shifted to Facebook, and to a lesser extent Twitter and Reddit. (E.g., Mississippi Fred McDowel no longer posts on \"On the Main Line\", but does on Facebook.) Blogs are far less active than they were. There are a lot of Facebook groups, which I'm less familiar with, and technically have to be added to and aren't indexed by Google unfortunately ([\"walled gardens\"](https://en.wikipedia.org/wiki/Closed_platfor), vs. “open platforms”).\n\nMy focus here is on blogs with a substantial focus on academic/scholarly topics and style.",
+      "entries": [
+        {
+          "id": "seforim-blog",
+          "name": "The Seforim Blog",
+          "name_he": "",
+          "url": "https://seforimblog.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Long-running blog on Jewish books, bibliography and intellectual history, edited by Eliezer Brodt.",
+          "annotation_md": "Edited by Eliezer Brodt.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books",
+            "bibliography",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "1"
+          }
+        },
+        {
+          "id": "talmud-blog",
+          "name": "The Talmud Blog",
+          "name_he": "",
+          "url": "https://thetalmud.blog/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Academic blog on Talmud study, written mainly by Shai Secunda.",
+          "annotation_md": "Written primarily by Shai Secunda. Focuses on Talmud.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "2"
+          }
+        },
+        {
+          "id": "rationalist-judaism",
+          "name": "Rationalist Judaism",
+          "name_he": "",
+          "url": "http://www.rationalistjudaism.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Natan Slifkin's blog on science and Judaism, as well as contemporary politics and hashkafa.",
+          "annotation_md": "Written by Natan Slifkin. Focuses on the relationship of science and Judaism, besides for contemporary politics and hashkafa.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "3"
+          }
+        },
+        {
+          "id": "lehrhaus",
+          "name": "Lehrhaus",
+          "name_he": "",
+          "url": "https://thelehrhaus.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Online journal of essays, mostly on contemporary issues, with many scholarly pieces in its Talmud and Halakhah section.",
+          "annotation_md": "Founded by Shlomo Zuckier. Mostly articles related to contemporary issues, but many that have scholarly interest. Especially in section [Talmud and Halacha](https://thelehrhaus.com/talmud-and-halakhah/).",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "talmud",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "4"
+          }
+        },
+        {
+          "id": "knowledge-in-circulation",
+          "name": "Knowledge in Circulation (EsKnow)",
+          "name_he": "",
+          "url": "https://esknowcirc.hypotheses.org/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Research-project blog on how kabbalistic knowledge moved through manuscripts and print in early modern East-Central Europe.",
+          "annotation_md": "Masthead: “Knowledge in Circulation: The Reception and Transmission of Jewish Esoteric Knowledge in Manuscripts and Print in Early Modern East-Central Europe.” Footer: “A research blog on the history and materiality of Jewish kabbalistic knowledge in East-Central Europe.”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "kabbalah",
+            "manuscripts",
+            "printed-books",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "5"
+          }
+        },
+        {
+          "id": "kavvanah-blog",
+          "name": "Kavvanah.blog- The Book of Doctrines and Opinions",
+          "name_he": "",
+          "url": "https://kavvanah.blog/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Alan Brill's blog on Jewish thought.",
+          "annotation_md": "Written by Alan Brill.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "philosophy"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "6"
+          }
+        },
+        {
+          "id": "jewish-studies-at-cul",
+          "name": "Jewish Studies @ CUL",
+          "name_he": "",
+          "url": "https://blogs.cul.columbia.edu/jewishstudiesatcul/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Columbia University Libraries blog on Hebrew bibliography, by Michelle Margolis.",
+          "annotation_md": "Written by by Michelle Margolis. A blog affiliated with Columbia University, focused on Hebrew Bibliography.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "7"
+          }
+        },
+        {
+          "id": "footprints-blog",
+          "name": "Footprints Blog – Tracing Jewish Books Through Time and Place",
+          "name_he": "",
+          "url": "https://edblogs.columbia.edu/footprints/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog of the Columbia-based Footprints project, which traces the movement of early Jewish books.",
+          "annotation_md": "A blog affiliated with Columbia University, focused on Hebrew Bibliography.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography",
+            "printed-books",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "8"
+          }
+        },
+        {
+          "id": "safranim",
+          "name": "Safranim",
+          "name_he": "",
+          "url": "https://safranim.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog listed by the guide without further description.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "blog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "9"
+          }
+        },
+        {
+          "id": "am-hasefer-blog",
+          "name": "Am Hasefer",
+          "name_he": "עם הספר",
+          "url": "https://amhasefer.wordpress.com/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Blog of the Rambam Library in Tel Aviv on Hebrew bibliography.",
+          "annotation_md": "The blog of Rambam Library of Tel Aviv, focused on Hebrew Bibliography.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "10"
+          }
+        },
+        {
+          "id": "hagahot",
+          "name": "Hagahot",
+          "name_he": "",
+          "url": "http://manuscriptboy.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog that was active from 2005 to 2013.",
+          "annotation_md": "Active 2005 - 2013.",
+          "footnotes_md": [],
+          "tags": [
+            "blog"
+          ],
+          "status_note": "Active 2005 - 2013 (per the 2023 guide).",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "11"
+          }
+        },
+        {
+          "id": "giluy-milta-balma",
+          "name": "Giluy Milta B'alma",
+          "name_he": "גילוי מילתא בעלמא",
+          "url": "http://imhm.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Blog of new findings in Hebrew manuscripts and the Geniza, in Hebrew and English.",
+          "annotation_md": "Masthead: “We present here new and interesting findings in Hebrew Manuscripts, and Genizah- We welcome posts in Hebrew or English.”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "manuscripts",
+            "geniza"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "12"
+          }
+        },
+        {
+          "id": "on-the-main-line",
+          "name": "On the Main Line",
+          "name_he": "",
+          "url": "http://onthemainline.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog of “Mississippi Fred MacDowell” on Jewish books and history; he now posts on Facebook.",
+          "annotation_md": "Blog of “Mississippi Fred MacDowell”.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "13"
+          }
+        },
+        {
+          "id": "english-hebraica",
+          "name": "English Hebraica",
+          "name_he": "",
+          "url": "http://englishhebraica.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog on Jewish and Jewish-themed English writing before the 19th century; active 2006 to 2007.",
+          "annotation_md": "Another blog of “Mississippi Fred MacDowell”. Masthead: “Chronicling Jewish and Jewish themed writing in the English language prior to the 19th century. interesting biographies, diagrams, translations, transliterations and descriptions of Jewish learning and theology from primary sources.” Active 2006 - 2007. Since then posts on Facebook.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books",
+            "history"
+          ],
+          "status_note": "Active 2006 - 2007 (per the 2023 guide).",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "14"
+          }
+        },
+        {
+          "id": "whats-bothering-artscroll",
+          "name": "What's Bothering Artscroll?",
+          "name_he": "",
+          "url": "http://elucidation-not-translation.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog by “Mississippi Fred MacDowell”, active 2006 to 2008.",
+          "annotation_md": "Another blog of “Mississippi Fred MacDowell”. Active 2006 - 2008.",
+          "footnotes_md": [],
+          "tags": [
+            "blog"
+          ],
+          "status_note": "Active 2006 - 2008 (per the 2023 guide).",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "15"
+          }
+        },
+        {
+          "id": "hollander-books-blog",
+          "name": "Hollander Books Blog",
+          "name_he": "",
+          "url": "http://hollanderbooks.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "A Jewish bookseller's blog about the books he handles.",
+          "annotation_md": "Masthead: “A bookseller and his books, his very many books. And a few ideas.”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "16"
+          }
+        },
+        {
+          "id": "kol-safran",
+          "name": "Kol Safran",
+          "name_he": "",
+          "url": "http://kol-safran.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "A librarian's blog with many posts on Jewish bibliography and visits to Jewish libraries.",
+          "annotation_md": "Masthead: “A librarian's comments on books, copyright, management, librarianship, and libraries that don't get the full article treatment.” Many posts on topics in Jewish bibliography, as well as visits to Jewish libraries.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "17"
+          }
+        },
+        {
+          "id": "musings-of-a-jewish-bookseller",
+          "name": "Musings of a Jewish Bookseller",
+          "name_he": "",
+          "url": "http://judaicaused.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Blog about Jewish books and the Jewish book trade.",
+          "annotation_md": "Masthead: “On Jewish Books, Jewish Bookselling and Jewish Booksellers”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "18"
+          }
+        },
+        {
+          "id": "notrikon",
+          "name": "Notrikon",
+          "name_he": "נוטריקון",
+          "url": "http://notrikon.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Modern Hebrew blog about books, periods and people.",
+          "annotation_md": "In Modern Hebrew. Masthead: ”A journey through the space of the written word, between books, periods and people ... stops at different stations, who knows where we will end up.”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "19"
+          }
+        },
+        {
+          "id": "oneg-shabbat",
+          "name": "Oneg Shabbat",
+          "name_he": "עונג שבת",
+          "url": "https://onegshabbat.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Prof. David Assaf's Hebrew blog on modern Jewish history and the history of Hasidism.",
+          "annotation_md": "Blog of Prof. David Assaf. Many interesting posts on modern Jewish history, and on history of Hasidut.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "history",
+            "hasidut"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "20"
+          }
+        },
+        {
+          "id": "hasafranim-nli-blog",
+          "name": "HaSafranim - Blog of National Library of Israel",
+          "name_he": "הספרנים - בלוג הספרייה הלאומית",
+          "url": "https://blog.nli.org.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "The National Library of Israel's Hebrew blog on bibliography and modern Israel.",
+          "annotation_md": "In Modern Hebrew. Focuses on Hebrew bibliography, and topics related to Modern Israel.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 43,
+            "number": "21"
+          }
+        },
+        {
+          "id": "the-librarians-nli",
+          "name": "The Librarians",
+          "name_he": "",
+          "url": "https://blog.nli.org.il/en/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "The National Library of Israel's English blog, with content that differs from its Hebrew blog.",
+          "annotation_md": "English blog of National Library of Israel, which is not identical to the content of the Hebrew blog (previous).",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "22"
+          }
+        },
+        {
+          "id": "7minim",
+          "name": "7minim",
+          "name_he": "7 מינים",
+          "url": "https://7minim.wordpress.com/tag/%d7%a7%d7%91%d7%9c%d7%94/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Tomer Persico's Hebrew blog, mostly on contemporary issues, with some posts on new scholarly books about Kabbalah.",
+          "annotation_md": "Written by Tomer Persico. Masthead: “This blog is intended to allow me, Tomer Persico, to comment briefly on this and that”. Has a number of posts on recent scholarly books on history of Kabbalah (though the blog mostly focuses on contemporary issues).",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "kabbalah"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "24"
+          }
+        },
+        {
+          "id": "parshablog",
+          "name": "Parshablog",
+          "name_he": "",
+          "url": "http://parsha.blogspot.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "R' Josh Waxman's blog on the weekly Torah portion and his current learning.",
+          "annotation_md": "Written by R’ Josh Waxman. Masthead: “Parshablog is published by R’ Josh Waxman, a grad student in Revel, a grad student in a Phd program in computer science at CUNY. I recently received semicha from RIETS. This blog is devoted to parsha as well as whatever it is I am currently learning.”",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "bible-commentary"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "25"
+          }
+        },
+        {
+          "id": "scribal-error",
+          "name": "Scribal Error",
+          "name_he": "",
+          "url": "https://scribalerror.substack.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "R' Josh Waxman's Substack on Talmud.",
+          "annotation_md": "Written by R’ Josh Waxman. Focuses on Talmud",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "26"
+          }
+        },
+        {
+          "id": "talmud-and-tech",
+          "name": "Talmud & Tech",
+          "name_he": "",
+          "url": "https://www.ezrabrand.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Ezra Brand's blog on Talmud and digital humanities, among other topics.",
+          "annotation_md": "My blog (Ezra Brand). Covers a wide area of interests, with focus on Talmud and digitial humanities.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "talmud",
+            "digital-humanities"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "27"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Blogs",
+      "group": "Blogs - Hebrew Linguistics",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "hazirah-haleshonit-ruvik-rozental",
+          "name": "HaZirah HaLeshonit - Ruvik Rozental",
+          "name_he": "הזירה הלשונית - רוביק רוזנטל",
+          "url": "https://www.ruvik.co.il/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%9E%D7%99%D7%9C%D7%99%D7%9D.aspx",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Popular Hebrew linguist Ruvik Rosenthal's site, with many posts on the history of individual Hebrew words.",
+          "annotation_md": "Many posts on history of individual Hebew words, by a well-known and popular Hebrew linguist.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "28"
+          }
+        },
+        {
+          "id": "leshoniada",
+          "name": "Leshoniada",
+          "name_he": "לשוניאדה",
+          "url": "https://leshoniada.co.il/",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Modern Hebrew blog on Hebrew linguistics.",
+          "annotation_md": "In Modern Hebrew. Focuses on Hebrew linguistics.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "29"
+          }
+        },
+        {
+          "id": "safa-ivrit",
+          "name": "Safa Ivrit",
+          "name_he": "השפה העברית",
+          "url": "https://www.safa-ivrit.org/site_map.php",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Modern Hebrew site of short articles on the sources of Hebrew words and sayings.",
+          "annotation_md": "In Modern Hebrew. Focuses on Hebrew linguistics. Not quite a blog, rather a wide range of short articles on sources of sayings and words.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "30"
+          }
+        },
+        {
+          "id": "balashon",
+          "name": "Balashon",
+          "name_he": "בלשון",
+          "url": "https://www.balashon.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "David Curwin's English blog on Hebrew etymology, including classical Hebrew words with Greek and Latin cognates.",
+          "annotation_md": "Written by David Curwin. Focuses on Hebrew linguistics, especially on Modern Hebrew words that draw on classical Hebrew with Greek and Latin cognates.[^65]",
+          "footnotes_md": [
+            "65 See my index of such blogposts [here](https://www.academia.edu/94396791/List_of_some_Greek_loan_words_in_Hazalic_writings), pp. 4-8."
+          ],
+          "tags": [
+            "blog",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "31"
+          }
+        },
+        {
+          "id": "philologos",
+          "name": "Philologos",
+          "name_he": "",
+          "url": "https://mosaicmagazine.com/author/philologos/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Twice-monthly column in Mosaic on Jewish historical and linguistic topics.",
+          "annotation_md": "Appears twice a month in Mosaic. On Jewish historical and linguistic topics.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "hebrew-language",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "32"
+          }
+        },
+        {
+          "id": "aramaic-language-of-the-zohar",
+          "name": "The Aramaic Language of the Zohar",
+          "name_he": "",
+          "url": "https://aramaiczohar.wordpress.com/",
+          "access": "open",
+          "languages": [
+            "en",
+            "arc"
+          ],
+          "summary": "Judy Barrett's blog of basic introductions to the Aramaic of the Zohar.",
+          "annotation_md": "By Judy Barrett. Good collection of basic intros to language of the Zohar.",
+          "footnotes_md": [],
+          "tags": [
+            "blog",
+            "kabbalah",
+            "hebrew-language"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "33"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Videos and Podcasts",
+      "group": "Academic lectures",
+      "intro_md": "YouTube has a lot of academic lectures. With the covid restrictions over the past two years, it has become especially common to live stream scholarly lectures (whether there’s a live component or not), and often the videos are then permanently publicly available on YouTube.[^66]\n\nSome channels:\n\n1. Academic lectures. Hundreds of lectures available. The YouTube channels seem to often be used now for live streaming of scholarly lectures:",
+      "entries": [
+        {
+          "id": "nli-youtube",
+          "name": "National Library of Israel (YouTube)",
+          "name_he": "",
+          "url": "https://www.youtube.com/user/NLI2010/videos",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "The National Library of Israel's YouTube channel of lectures and live streams.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "1.a"
+          }
+        },
+        {
+          "id": "israel-academy-youtube",
+          "name": "The Israel Academy of Sciences and Humanities (YouTube)",
+          "name_he": "",
+          "url": "https://www.youtube.com/user/TheIsraelAcademy/videos",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "YouTube channel of the Israel Academy of Sciences and Humanities, with recorded live-streamed lectures.",
+          "annotation_md": "",
+          "footnotes_md": [
+            "67 See here: [The Israel Academy of Sciences and Humanities - YouTube](https://www.youtube.com/user/TheIsraelAcademy/featured) > “Past live streams”. Recent example that showed in my email inbox of youtube being used for live streaming of a scholarly lecture: [(PDF) 'Three Lectures on Habad Hasidism', Schocken Institute, Jerusalem, November 8, 15, 22, 2021 (Poser + Video) | Jonatan Meir - Academia.edu](https://www.academia.edu/59622961/_Three_Lectures_on_Habad_Hasidism_Schocken_Institute_Jerusalem_November_8_15_22_2021_Poser_Video_) When I was sent this link, Gmail even knew to attach the YouTube preview in the email.\n\nThe most extensive index I’ve found of open-access academic lectures online is the 90 (!) page list of links to lectures online (mostly YouTube) on Jewish mysticism compiled by Judy Barrett on her Academia.edu page: [\"Best of the Web for the Zohar: lectures, interviews, conferences & courses (rev.5/11/20)\"](https://www.academia.edu/38628191/Best_of_the_Web_for_the_Zohar_lectures_interviews_conferences_and_courses_rev_5_11_20_)."
+          ],
+          "tags": [
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 44,
+            "number": "1.b"
+          }
+        },
+        {
+          "id": "hebrew-university-youtube",
+          "name": "Hebrew University (YouTube)",
+          "name_he": "",
+          "url": "https://www.youtube.com/user/HebrewUniversity/videos",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Hebrew University of Jerusalem's YouTube channel, an example of an Israeli university lecture channel.",
+          "annotation_md": "Israeli university channels. For example, Hebrew University ; Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": [
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "1.c"
+          }
+        },
+        {
+          "id": "bar-ilan-university-youtube",
+          "name": "Bar-Ilan University (YouTube)",
+          "name_he": "",
+          "url": "https://www.youtube.com/c/barilanuniversity/videos",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Bar-Ilan University's YouTube channel, an example of an Israeli university lecture channel.",
+          "annotation_md": "Israeli university channels. For example, Hebrew University ; Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": [
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "1.c"
+          }
+        },
+        {
+          "id": "yad-ben-zvi-youtube",
+          "name": "Yad Ben-Zvi (YouTube)",
+          "name_he": "",
+          "url": "https://www.youtube.com/c/yadybenzvi/videos",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "YouTube channel of Yad Ben-Zvi, a scholarly institute for the history of the Land of Israel.",
+          "annotation_md": "Scholarly organizations, such as Yad Ben-Zvi.",
+          "footnotes_md": [],
+          "tags": [
+            "video",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "1.d"
+          }
+        }
+      ],
+      "notes_md": [
+        "66 As for podcasts, many podcasts are also available on YouTube. For example, see below for the podcast “Channeling Jewish History”."
+      ]
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Videos and Podcasts",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "torah-in-motion",
+          "name": "Torah in Motion",
+          "name_he": "",
+          "url": "https://www.youtube.com/c/TorahinMotion/videos",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "YouTube channel with many lecture series, mostly on modern history, theology and Bible.",
+          "annotation_md": "A large number of lecture series. However, it mostly focuses on more modern history, contemporary theology, and on the Bible, so outside the scope of this guide. For lecture series within the scope of this guide, see for example the series with Dr. William Gewirtz, [The Changing Nature of Time in Halakha](https://youtube.com/playlist?list=PLGQrWlI7O--7uHNeabUKagPJ5vcjOVoUm), which is a four-part series that, according to the description, includes a lot of discussion of the history of the Jewish calendar.",
+          "footnotes_md": [],
+          "tags": [
+            "video",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "2"
+          }
+        },
+        {
+          "id": "seforim-chatter",
+          "name": "Seforim Chatter",
+          "name_he": "",
+          "url": "https://www.seforimchatter.com/podcasts/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Recommended podcast in which Nachi Weinstein interviews leading scholars about Jewish books and their research.",
+          "annotation_md": "Podcast hosted by Nachi Weinsten of Lakewood, NJ.[^68] Has interviews with top scholars discussing their most interesting research. For example, some previous guests include: Seforim Blog’s [Prof. Marc Shapiro](https://seforimchatter.buzzsprout.com/1218638/4566857-with-prof-marc-shapiro-discussing-his-books-rav-mazuz-rabbi-dr-yitzchak-isadore-twersky-and-more); [Jacob J. Schacter](https://seforimchatter.buzzsprout.com/1218638/4566965-with-rabbi-dr-jacob-j-schacter-discussing-rav-yaakov-emden-the-yaavetz), and many more. Recommended. Also has an associated [Twitter feed](https://twitter.com/SeforimChatter).[^69]",
+          "footnotes_md": [
+            "68 Introduction Show, Seforimchatter, [https://seforimchatter.buzzsprout.com/1218638/4587641-introduction-show](https://seforimchatter.buzzsprout.com/1218638/4587641-introduction-show), July 15, 2020, Season 1 Episode 18. (Accessed 13-Feb-22).",
+            "69 The tweets are also accessible at his website, and thus this can help one circumvent the need to sign up to Twitter as they can see all the tweets here without being signed up: [https://www.seforimchatter.com/tweets/](https://www.seforimchatter.com/tweets/) (pointed out to me by Nachi).\n\nSee the recent article about the podcast: Yosef Herz | APRIL 3, 2023, [One for the Books – Mishpacha Magazine](https://mishpacha.com/one-for-the-books-3/), about “Nachi Weinstein, the bibliophile behind the seforim chatter podcast”. See there this interesting quote: “I try to stay away from certain topics, namely academic Bible studies and academic dissections of Talmud and Chazal, because I don’t think they’re befitting a frum podcast.”\n\nFor an index of podcast episodes, see my article [“Index, by century discussed, of interviews of historians on Seforim Chatter podcast”](https://www.academia.edu/94100918/Index_by_century_discussed_of_interviews_of_historians_on_Seforim_Chatter_podcast)."
+          ],
+          "tags": [
+            "podcast",
+            "printed-books",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "3"
+          }
+        },
+        {
+          "id": "misfit-torah",
+          "name": "Misfit Torah",
+          "name_he": "",
+          "url": "https://podcasts.apple.com/us/podcast/misfit-torah/id1399327341",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Podcast hosted by Akiva Weisinger.",
+          "annotation_md": "Podcast hosted by Akiva Weisinger.",
+          "footnotes_md": [],
+          "tags": [
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "4"
+          }
+        },
+        {
+          "id": "channeling-jewish-history",
+          "name": "Channeling Jewish History",
+          "name_he": "",
+          "url": "https://www.youtube.com/channel/UCZ04ugbTVoUm5W0b6j-YKGA/videos",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Joel Davidi's podcast of interviews with scholars of Jewish history, also on YouTube.",
+          "annotation_md": "Podcast hosted by my friend Joel Davidi.[^70] Interviews many scholars, [such as Prof. Marc Shapiro](https://youtu.be/rsRBlTIdPxA).",
+          "footnotes_md": [
+            "70 Admin of the Facebook group [“Channeling Jewish History Group”](https://www.facebook.com/groups/2213868834/)."
+          ],
+          "tags": [
+            "podcast",
+            "video",
+            "history"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "5"
+          }
+        },
+        {
+          "id": "alldaf",
+          "name": "AllDaf",
+          "name_he": "",
+          "url": "https://www.youtube.com/c/AllDaf/videos",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Daf Yomi video channel that includes talks by Eliezer Brodt on lesser-known commentaries on each tractate.",
+          "annotation_md": "A number of discussions featuring R’ Dr. Eliezer Brodt “to briefly highlight some of the Rishonim and Acharonim ‘out there’ on this masechta”, see the latest Seforim Blog post [here,](https://seforimblog.com/2022/01/daf-yomi-seforim-on-moed-katan-part-one/) with links to previous.",
+          "footnotes_md": [],
+          "tags": [
+            "video",
+            "talmud",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "6"
+          }
+        },
+        {
+          "id": "tradition-podcast",
+          "name": "Tradition Podcast",
+          "name_he": "",
+          "url": "https://traditiononline.org/traditionpodcast/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Podcast of the journal Tradition, hosted by its editor, with interviews of scholars.",
+          "annotation_md": "Hosted by the editor of Tradition. Available on their [YouTube channel](https://www.youtube.com/channel/UCwLJ3A3MauDGLxLMIKuaqEQ/videos). For example, one episode is [an interview with Prof. Eric Lawee on a new book of his](https://youtu.be/8ey_9QBvv2w) on Rashi’s Commentary.",
+          "footnotes_md": [],
+          "tags": [
+            "podcast",
+            "video"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "7"
+          }
+        },
+        {
+          "id": "am-hasefer-podcast",
+          "name": "Am HaSefer - Rambam Library - Beit Ariela",
+          "name_he": "עם הספר - ספריית הרמב\"ם בית אריאלה",
+          "url": "https://castbox.fm/channel/%D7%A2%D7%9D-%D7%94%D7%A1%D7%A4%D7%A8---%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%AA-%D7%94%D7%A8%D7%9E%D7%91%22%D7%9D-%D7%91%D7%99%D7%AA-%D7%90%D7%A8%D7%99%D7%90%D7%9C%D7%94-id1922735",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew podcast of the Rambam Library at Beit Ariela in Tel Aviv.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "podcast",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "8"
+          }
+        },
+        {
+          "id": "ajs-adventures-in-jewish-studies",
+          "name": "AJS Adventure in Jewish Studies Podcast series",
+          "name_he": "",
+          "url": "https://associationforjewishstudies.org/publications-research/adventures-in-jewish-studies-podcast",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Podcast series of the Association for Jewish Studies.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "podcast"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 45,
+            "number": "9"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Videos and Podcasts",
+      "group": "Other videos and podcasts",
+      "intro_md": "10. Endless videos and podcasts, each of which must be judged on its own. One genre is well-edited videos with graphics by unknown hosts. Another type is podcast-type interviews with well-known personalities. A majority of all of these are focused on Bible, which as mentioned in the introduction, are outside the scope of this guide. Also, many of them are focused more on drawing lessons, in the “self-help” genre, and less on pure scholarship.[^71]",
+      "entries": [],
+      "notes_md": [
+        "71 A few examples: R’ Dr. Ari Lamm’s podcast called [“Good Faith Effort”](https://podcasts.apple.com/us/podcast/good-faith-effort/id1536163226); Michael Eisenberg’s [YouTube channel](https://www.youtube.com/channel/UCR6pKCe9d3jczqrMnOls4Pw/videos)."
+      ]
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Twitter",
+      "group": "",
+      "intro_md": "Now requires registration (free) to view most content.\n\nEssentially every organization focused on Jewish scholarship has a Twitter feed and a Facebook page. Most Twitter feeds and Facebook pages affiliated with organizations are focused on academic events, book launches, awards, etc., and so are less interesting for our purposes here. Here are the ones that especially caught my eye as having content relevant to this guide, especially bibliographical content.",
+      "entries": [
+        {
+          "id": "michelle-margolis-twitter",
+          "name": "Michelle Margolis (@hchesner)",
+          "name_he": "",
+          "url": "https://mobile.twitter.com/hchesner",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Account of Columbia's Judaica librarian, on Jewish book history and Hebrew incunabula.",
+          "annotation_md": "[Michelle Margolis (@hchesner) / Twitter](https://mobile.twitter.com/hchesner).\n\n- “Judaica @Columbia @Footprints_Heb #dhjewish, VP @jewishlibraries, Jewish book history, Hebrew incunabula”",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "1"
+          }
+        },
+        {
+          "id": "footprints-project-twitter",
+          "name": "Footprints Project (@Footprints_Heb)",
+          "name_he": "",
+          "url": "https://mobile.twitter.com/Footprints_Heb",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Account of the Footprints project, which traces the history of individual Jewish books.",
+          "annotation_md": "[Footprints Project (@Footprints_Heb) / Twitter](https://mobile.twitter.com/Footprints_Heb).\n\n- “Tracing Jewish books through time and place.”",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "2"
+          }
+        },
+        {
+          "id": "nli-twitter",
+          "name": "National Library of Israel (@NLIsrael)",
+          "name_he": "",
+          "url": "https://twitter.com/nlisrael",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "The National Library of Israel's account, on its collections of books, photos, maps and archives.",
+          "annotation_md": "[National Library of Israel (@NLIsrael) / Twitter](https://twitter.com/nlisrael).\n\n- “Collecting & preserving the cultural treasures of #Israel & the #Jewish People. Opening access to millions of books, photos, recordings, maps, archives + more.”",
+          "footnotes_md": [],
+          "tags": [
+            "social-media"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "3"
+          }
+        },
+        {
+          "id": "nathan-hirsch-nlitorani",
+          "name": "Nathan Hirsch (@NLITorani)",
+          "name_he": "נתן הירש",
+          "url": "https://twitter.com/nlitorani",
+          "access": "registration",
+          "languages": [
+            "he"
+          ],
+          "summary": "Account on contemporary rabbinic literature, also on Telegram and Facebook.",
+          "annotation_md": "[נתן הירש Nathan Hirsch (@NLITorani) / Twitter](https://twitter.com/nlitorani).\n\n- “Contemporary Rabbinic literature”.\n- Also on Telegram: [https://t.me/s/NLITorani](https://t.me/s/NLITorani)\n- And on Facebook: [Nathan Hirsch | Facebook](https://www.facebook.com/nathan.hirsch1)",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "bibliography",
+            "printed-books"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "4"
+          }
+        },
+        {
+          "id": "dayenupal-twitter",
+          "name": "DayenuPal",
+          "name_he": "",
+          "url": "https://mobile.twitter.com/dayenupal",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Twitter account listed by the guide without further description.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "social-media"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "5"
+          }
+        },
+        {
+          "id": "dhjewish-hashtag",
+          "name": "#dhjewish - Twitter Search",
+          "name_he": "",
+          "url": "https://mobile.twitter.com/hashtag/dhjewish?src=hashtag_click",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Twitter hashtag for Jewish digital humanities.",
+          "annotation_md": "[#dhjewish - Twitter Search / Twitter](https://mobile.twitter.com/hashtag/dhjewish?src=hashtag_click)",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "digital-humanities"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "6"
+          }
+        },
+        {
+          "id": "princeton-geniza-lab-twitter",
+          "name": "Princeton Geniza Lab (@GenizaLab)",
+          "name_he": "",
+          "url": "https://twitter.com/genizalab",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Account of the Princeton Geniza Lab.",
+          "annotation_md": "[Princeton Geniza Lab (@GenizaLab) / Twitter](https://twitter.com/genizalab)",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "geniza"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "7"
+          }
+        },
+        {
+          "id": "marina-rustow-twitter",
+          "name": "Marina Rustow (@mrustow)",
+          "name_he": "",
+          "url": "https://twitter.com/mrustow",
+          "access": "registration",
+          "languages": [
+            "en"
+          ],
+          "summary": "Account of Geniza historian Marina Rustow.",
+          "annotation_md": "[Marina Rustow (@mrustow) / Twitter](https://twitter.com/mrustow)",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "geniza",
+            "history"
+          ],
+          "status_note": "Twitter is now X.",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "8"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Facebook",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "norman-e-alexander-library-facebook",
+          "name": "Norman E. Alexander Library for Jewish Studies",
+          "name_he": "",
+          "url": "https://www.facebook.com/NEAlibrary/?ref=aymt_homepage_panel",
+          "access": "unknown",
+          "languages": [
+            "en"
+          ],
+          "summary": "Facebook page of Columbia University's Jewish Studies library.",
+          "annotation_md": "[Norman E. Alexander Library for Jewish Studies - Home | Facebook](https://www.facebook.com/NEAlibrary/?ref=aymt_homepage_panel).\n\n- “The Norman E. Alexander Library for Jewish Studies at Columbia University collects Judaica and Hebraica in all formats and supports research.”",
+          "footnotes_md": [],
+          "tags": [
+            "social-media",
+            "bibliography"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "1"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Forums",
+      "group": "",
+      "intro_md": "**There are some great forums dedicated to academic Jewish Studies.**",
+      "entries": [
+        {
+          "id": "otzar-hahochma-forum",
+          "name": "Otzar HaChochma’s forum",
+          "name_he": "פורום אוצר החכמה",
+          "url": "https://forum.otzar.org/index.php",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew discussion forum of Otzar HaChochma, with many interesting threads on Jewish books and scholarship.",
+          "annotation_md": "In Modern Hebrew. Lots of really interesting discussions.",
+          "footnotes_md": [],
+          "tags": [
+            "forum"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "1"
+          }
+        },
+        {
+          "id": "daf-yomi-com-forum",
+          "name": "Daf-yomi.com’s forum",
+          "name_he": "פורום פורטל הדף היומי",
+          "url": "https://daf-yomi.com/forums/forum.aspx?id=1",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew forum of the Daf Yomi portal, with discussions on the Talmud and its commentators.",
+          "annotation_md": "In Modern Hebrew. Lots of really interesting discussions on the Talmud and commentators.",
+          "footnotes_md": [],
+          "tags": [
+            "forum",
+            "talmud"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 46,
+            "number": "2"
+          }
+        },
+        {
+          "id": "behadrei-haredim-seforim-forum",
+          "name": "Behadrei Haredim - Forum: Seforim and Sofrim",
+          "name_he": "בחדרי חרדים - פורום: ספרים וסופרים",
+          "url": "https://www.bhol.co.il/forums/forum.asp?cat_id=38&forum_id=19616",
+          "access": "open",
+          "languages": [
+            "he"
+          ],
+          "summary": "Hebrew forum on books and authors at the Behadrei Haredim site.",
+          "annotation_md": "In Modern Hebrew.",
+          "footnotes_md": [],
+          "tags": [
+            "forum",
+            "printed-books"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 47,
+            "number": "3"
+          }
+        },
+        {
+          "id": "mi-yodea",
+          "name": "Judaism.stackexchange.com (Mi Yodea)",
+          "name_he": "",
+          "url": "https://judaism.stackexchange.com/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "English question-and-answer site on Judaism.",
+          "annotation_md": "In English.",
+          "footnotes_md": [],
+          "tags": [
+            "forum"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 47,
+            "number": "4"
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Popular Media and Platforms",
+      "subsection": "Mobile Apps",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "sefaria-app",
+          "name": "Sefaria (mobile app)",
+          "name_he": "",
+          "url": "https://play.google.com/store/apps/details?id=org.sefaria.sefaria&hl=en&gl=US",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Mobile app of Sefaria's library of Jewish texts.",
+          "annotation_md": "See above on Sefaria in general.",
+          "footnotes_md": [],
+          "tags": [
+            "app"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 47,
+            "number": "1"
+          }
+        },
+        {
+          "id": "artscroll-app",
+          "name": "Artscroll (mobile app)",
+          "name_he": "",
+          "url": "https://appstore.artscroll.com/",
+          "access": "unknown",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Artscroll's mobile app store.",
+          "annotation_md": "",
+          "footnotes_md": [],
+          "tags": [
+            "app"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 47,
+            "number": "2"
+          }
+        },
+        {
+          "id": "rambam-plus-app",
+          "name": "Rambam Plus - Mishneh Torah - Mifal Mishneh Torah",
+          "name_he": "",
+          "url": "https://play.google.com/store/apps/details?id=com.Rollep.MishneTora&hl=en&gl=US",
+          "access": "unknown",
+          "languages": [
+            "he"
+          ],
+          "summary": "Mobile app with the Mishneh Torah in the Makbili edition.",
+          "annotation_md": "- Mobile app with Rambam’s Mishneh Torah (ed. Makbili).",
+          "footnotes_md": [],
+          "tags": [
+            "app",
+            "halakha"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2023",
+            "page": 47,
+            "number": "3"
+          }
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}

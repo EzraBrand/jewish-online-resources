@@ -1,0 +1,379 @@
+{
+  "part": "B",
+  "source_pages": [8, 13],
+  "blocks": [
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - text format - popular editions",
+      "group": "Open-access",
+      "intro_md": "Popular editions, as opposed to scholarly/critical editions. See next section for scholarly editions.",
+      "entries": [
+        {
+          "id": "sefaria",
+          "name": "Sefaria",
+          "name_he": "ספריא",
+          "url": "https://www.sefaria.org/texts",
+          "access": "open",
+          "languages": ["he", "en", "arc"],
+          "summary": "Large free library of Jewish texts with linked commentaries and many English translations, including the Steinsaltz Talmud and Guggenheimer Yerushalmi.",
+          "annotation_md": "Large number of texts, as well as English translations.\n\n- [Wikipedia - English](https://en.wikipedia.org/wiki/Sefaria): “Sefaria has a vast library of Jewish text, including Tanakh, Talmud, and Jewish prayers alongside sources in philosophy, mysticism, Jewish law, and newer works. Some works, such as Tanakh and Talmud, feature English translations. These are either crowdsourced, provided by publishers, or in the public domain. Contains a complete English translation of Rashi's commentary on the Torah, the William Davidson Talmud translation,[19] and a complete translation of Ibn Ezra's Torah commentaries, one of the only resources to have a complete translation of these works in English. Many works are linked with their respective commentaries. For example, clicking on a verse in Tanakh will open a window on the side, allowing the user to open a commentary on that verse.”\n- Some of the texts available, all highly credible works, and that I’ve personally used in Sefaria for study (all with hyper-linked table of contents, transcribed, searchable, downloadable, ability to make text larger, and many other features):\n  - [Steinzaltz-Koren translation into English and commentary on Talmud Bavli](https://www.sefaria.org/texts/Talmud)\n  - [Guggenheimer translation and commentary of Talmud Yerushalmi](https://www.sefaria.org/texts/Talmud/Yerushalmi)\n  - [Mishnat Eretz Yisrael](https://www.sefaria.org/texts/Mishnah/Modern%20Commentary%20on%20Mishnah/Mishnat%20Eretz%20Yisrael) commentary on Mishnah\n  - [Jastrow Dictionary](https://www.sefaria.org/Jastrow)",
+          "footnotes_md": [
+            "[18] See, now, many experiments of things that can be done with Talmud via Sefaria API, discussed in a number of pieces on my blog: “[Cataloging My Blogposts: An Organized Breakdown by Theme](https://www.ezrabrand.com/p/cataloguing-my-blogposts-an-organized-78d)” (July 28, 2023), section “Digital Layout of the Talmud and other Rabbinic Texts”.",
+            "[19] In the About page there: “includes Rabbi Adin Even-Israel Steinsaltz’s complete Modern Hebrew and English translations of the Talmud”."
+          ],
+          "tags": ["talmud", "mishnah", "translation", "bible-commentary", "dictionary", "api"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 8, "number": "1"}
+        },
+        {
+          "id": "al-hatorah",
+          "name": "Al-Hatorah",
+          "name_he": "על-התורה",
+          "url": "https://alhatorah.org/",
+          "access": "open",
+          "languages": ["he", "en", "arc"],
+          "summary": "Free library strong in medieval Tanakh and Talmud commentaries, with new digital editions of many commentaries, study tools, translations and visualizations.",
+          "annotation_md": "- Both Al-Hatorah as well as Sefaria are very user friendly and powerful both for looking up references, as well as for studying. However, not all of the transcriptions on Al-Hatorah are complete.\n- Al-Hatorah has more developed tools for serious study. While Sefaria has a bit of a cleaner interface and more modern UX/UI with lots of whitespace.\n- The UX/UI is quite similar to the “Bar Ilan Responsa Project,” where the Table of Contents are set up as “trees”.\n- From the [About page](https://alhatorah.org/About:Who_We_Are/en): “ALHATORAH.ORG was founded by Rabbi Hillel & Neima Novetsky and their children, Yonatan, Aviva, Ariella, and Yehuda. Hillel is a musmakh of RIETS (YU) and earned an MA in Jewish History from Bernard Revel Graduate School and a PhD in Bible from Haifa University. Neima earned an MA in Bible from Bernard Revel Graduate School (YU) and teaches in Torah institutions in Israel. The content of the website is the product of an ongoing, worldwide, collaborative effort of Rabbis, scholars, educators, and laypeople.”\n- See also their [mission statement](https://alhatorah.org/About:Our_Mission/0/en) and [Who We Are](https://alhatorah.org/About:Who_We_Are/en) (listed on the Advisory Board there: Prof. Uriel Simon, Prof. Haym Soloveitchik, Prof. Richard Steiner, and more).\n- Al-Hatorah is especially strong in medieval commentaries on Tanakh and Talmud. It is also good on the basic texts of a typical yeshiva curriculum (Tanakh, Mishna, Talmud, and their commentaries). It is fairly weak to non-existent in the genres of Kabbalah, Liturgy, Jewish Thought, Chasidut, Musar, and Responsa (all of which are major sections in Sefaria, with multiple major works of each).\n- Full “library tree” [here](https://library.alhatorah.org/).\n- See [the full list of digital editions](https://mg.alhatorah.org/Editions). The full range of high-quality editions is quite impressive.\n- Some of the works available there (many from recent critical editions):\n  - [Targum Yerushalmi - Neofiti](https://library.alhatorah.org/?r1=Targum_Yerushalmi_(Neofiti)_Bereshit_1:1) (תרגום ירושלמי - ניאופיטי).\n  - [New digital edition of Rashi on Torah, Leipzig manuscript](https://alhatorah.org/Commentators:Rashi_Leipzig_1/1/en).[21]\n  - [New digital edition of R’ Yosef Kara's Torah Commentary.](https://alhatorah.org/Commentators:R._Yosef_Kara's_Torah_Commentary/1/en)\n  - [Reconstruction of the Lost Parts of Rashbam's Torah Commentary.](https://alhatorah.org/Commentators:Rashbam's_Torah_Commentary/1/en)[22]\n  - [Ramban's Updates to his Torah Commentary](https://alhatorah.org/Commentators:Ramban's_Updates).\n  - Additional new digital editions of Torah commentaries, with introductions: [ibn Ezra](https://alhatorah.org/Commentators:Ibn_Ezra's_Torah_Commentary), [Yosef Bekhor Shor](https://alhatorah.org/Commentators:R._Yosef_Bekhor_Shor's_Torah_Commentary), and more; see list [here](https://rashi.alhatorah.org/) (under “נושאים פרשניים”).\n  - [New digital edition of Rif](https://alhatorah.org/Commentators:R._Yitzchak_Alfasi_(Rif)/0/he) (ed. E. Chwat).[23]\n  - [Rashbam's Commentary on Avodah Zarah](https://alhatorah.org/Commentators:Rashbam's_Commentary_on_Avodah_Zarah/0/he) (ed. H. Gershuni).\n  - [Mishna MS Kaufmann](https://library.alhatorah.org/?r1=Mishna_MS_Kaufmann_Berakhot_1) (ed. D. Be’eri).\n  - [Mishnat Eretz Yisrael](https://library.alhatorah.org/?r1=Mishnat_Eretz_Yisrael_Berakhot_Introduction) - modern scholarly commentary on Mishnah. (This commentary also in Sefaria, as mentioned in its entry.)\n  - [Steinsaltz-Koren commentary on Talmud Bavli in Hebrew](https://library.alhatorah.org/?r1=Steinsaltz_Commentary_Berakhot_2a) (Sefaria has the English translation and commentary, as mentioned in its entry.)\n  - [List of translated works into English](https://library.alhatorah.org/Editions#English).\n  - [Visualizations](https://alhatorah.org/Commentators:Home/0). Very interesting visualizations: timelines, maps, and lists.\n  - Intros, with footnotes to latest academic research:[24]\n    - [Bereshit_Rabbah](https://alhatorah.org/Commentators:Bereshit_Rabbah)\n    - [Mekhilta_DeRabbi_Yishmael](https://alhatorah.org/Commentators:Mekhilta_DeRabbi_Yishmael)[25]\n    - [Sifra](https://alhatorah.org/Commentators:Sifra)",
+          "footnotes_md": [
+            "[20] See, now, my full review at my blog: “[Evaluating Al-Hatorah's Digital Repository: Exploring Its Excellent Tanakh and Talmud Commentaries, and More](https://www.ezrabrand.com/p/evaluating-al-hatorahs-digital-repository)” (June 9, 2023). A Wikipedia entry on Al-Hatorah was a desideratum when this piece was first written (beginning of 2022), there is now an entry: [על התורה – ויקיפדיה](https://he.wikipedia.org/wiki/%D7%A2%D7%9C_%D7%94%D7%AA%D7%95%D7%A8%D7%94).",
+            "[21] See discussion started by R’ Adiel Breuer at [this Otzar HaHochma forum](http://forum.otzar.org/viewtopic.php?f=7&t=25619), dated 25-Jan-2016.",
+            "[22] From the intro there: “The reconstructed interpretations of Rashbam presented on these pages are a preliminary version from 2015 of the analysis conducted by Hillel Novetsky of material which he discovered in various manuscripts. An updated version of these texts based on his dissertation (2020) can be accessed at [https://mg.alhatorah.org](https://mg.alhatorah.org) \\[...\\].”",
+            "[23] See interview with Chwat on this edition on Seforim Chatter podcast: “[With Dr. Ezra Chwat discussing the Rif (Rav Yitzchak Alfasi, 1013 – 1103) and his new critical edition](https://www.seforimchatter.com/2021/10/10/with-dr-ezra-chwat-discussing-the-rif-rav-yitzchak-alfasi-1013-1103-and-his-new-critical-edition/)”, #97, October 10, 2021.",
+            "[24] Full list [here](https://alhatorah.org/Commentators:Home/TopicList). Many of the linked pages only have headers, with no content.",
+            "[25] Footnote 1 there: “1 This section incorporates information from M. Kahana, \"The Halakhic Midrashim\" in The Literature of the Sages Part II, ed. Safrai et al. (Assen, 2006): 3-105 (hereafter: Kahana), and G. Stemberger and H. Strack, Introduction to the Talmud and Midrash (1996, hereafter: Stemberger and Strack).”"
+          ],
+          "tags": ["bible-commentary", "talmud", "mishnah", "midrash", "critical-edition", "translation", "visualization"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 9, "number": "2"}
+        },
+        {
+          "id": "wikisource-hebrew",
+          "name": "Wikisource - Hebrew",
+          "name_he": "ויקיטקסט",
+          "url": "https://he.wikisource.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Crowd-sourced Hebrew Wikimedia library of transcribed texts; large but uneven and incomplete, and a source many other sites draw on.",
+          "annotation_md": "- Wikisource is a \"sister-project\" of Wikipedia, under the auspices of the Wikimedia Foundation.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98): “In May 2009, the Hebrew Wikisource (ויקיטקסט) reached 25,000 text units upon completion of uploading all of Maimonides’ Mishneh Torah.”\n- Due to the fact that it’s a crowd-sourced project, it very much has the feel of a “work-in-progress”, with lots of individual chapters missing transcriptions, and of uneven editorship.\n- Despite this, it's a great resource, and one that many other websites draw on.\n- For example of an interesting sefer found there, see R’ Aharon Heiman’s [Toldot Tana’im VeAmora’im](https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D). I recently used Wikisource’s transcription to do various analyses of the entire corpus of names of rabbis found in Chazal.[26]",
+          "footnotes_md": [
+            "[26] Seth (Avi) Kadish, personal communication: “One of the most amazing \\[resources\\], which I think should get more recognition, is Dr. Ronen Ahituv's commentary on the Mishnah, Tosefta, and the halakhic midrashim e.g. Sifrei Devarim (with interlinks and references between them). It needs better formatting, but the actual content is priceless. Also see the vocalized, formatted and annotated version of the Mishnah, first edited by [R’ Dan Be'eri](https://he.wikipedia.org/wiki/%D7%93%D7%9F_%D7%91%D7%90%D7%A8%D7%99) and then highly improved for many tractates (ongoing) by Dr. Simhah Gershon Borer.”"
+          ],
+          "tags": ["printed-books", "transcription", "mishnah", "halakha"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 10, "number": "3"}
+        },
+        {
+          "id": "ben-yehuda-project",
+          "name": "Ben-Yehuda Project",
+          "name_he": "פרויקט בן-יהודה",
+          "url": "https://benyehuda.org/",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Free digital library of Hebrew literature from the Middle Ages to today, including piyyutim from Late Antiquity and the medieval period.",
+          "annotation_md": "- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%91%D7%9F-%D7%99%D7%94%D7%95%D7%93%D7%94): “The project includes, among other things, poetry, fiction, translation, research (עיון) and essays in Hebrew from the Middle Ages to the present day. As of October 2021 it includes over 28,000 works, by about 1,000 different authors.”\n- Includes piyutim from [Late Antiquity](https://benyehuda.org/read/35887) (such as [Eleazar ben Kalir](https://benyehuda.org/author/1457) and [Yanai](https://benyehuda.org/author/1470)) and from [Medieval era](https://benyehuda.org/period/medieval) (such as [Yehudah Halevi](https://benyehuda.org/author/161) and [Shlomo ibn Gabirol](https://benyehuda.org/author/180)).",
+          "footnotes_md": [],
+          "tags": ["piyyut", "printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "4"}
+        },
+        {
+          "id": "an-invitation-to-piyut",
+          "name": "An Invitation to Piyut",
+          "name_he": "הזמנה לפיוט",
+          "url": "http://old.piyut.org.il/search/",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Large database of transcribed piyyutim, from a cultural-educational project that preserves and revives Jewish piyyut and prayer traditions.",
+          "annotation_md": "- Tremendous database of piyyutim, with a huge number of piyyutim transcribed.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%A4%D7%99%D7%95%D7%98): “A cultural-educational project that works to preserve and revive the traditions of piyyut and prayer of the Jewish people, through a website, publishing, conservation activities, community education and cultural events. The site has about 1,000 columns and articles, including personal columns, memoirs, introductory passages, and reviews. Among the authors of the site are Prof. Ephraim Hazan, Dr. Meir Buzaglo, Prof. Haviva Pedia, Prof. Edwin Seroussi, Rabbi Dr. Benny Lau and many others.”",
+          "footnotes_md": [],
+          "tags": ["piyyut", "liturgy"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "5"}
+        },
+        {
+          "id": "grimoar",
+          "name": "Grimoar",
+          "name_he": "",
+          "url": "http://hebrew.grimoar.cz/",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Database of typed Kabbalah and Jewish-thought books; it gives no bibliographic information about the editions or manuscripts used.",
+          "annotation_md": "- Focuses on kabbalistic texts.\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%AA%D7%95%D7%A8%D7%A0%D7%99#%D7%90%D7%AA%D7%A8_Grimoar): “A database collecting a large amount of Kabbalah books and books of Jewish thought typed and open for use.”\n- Unfortunately, the website contains no bibliographical information whatsoever, such as on what edition or manuscript the text is based on. In general it’s unclear who hosts the website (the website domain is Czech, and so are the book descriptions on the website).",
+          "footnotes_md": [],
+          "tags": ["kabbalah", "philosophy"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "6"}
+        },
+        {
+          "id": "kodesh-snunit",
+          "name": "Kodesh.Snunit",
+          "name_he": "סנונית - מאגר ספרות הקודש",
+          "url": "https://kodesh.snunit.k12.il/i/tr/t0101.htm",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Database of basic rabbinic texts from the Snunit educational site.",
+          "annotation_md": "Basic rabbinic texts.",
+          "footnotes_md": [],
+          "tags": ["talmud", "mishnah"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "7"}
+        },
+        {
+          "id": "mamre-institute",
+          "name": "Mamre Institute",
+          "name_he": "מכון ממרא",
+          "url": "https://mechon-mamre.org/",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Israeli institute offering accurate texts of the Bible, Mishnah, Tosefta, both Talmuds, Mishneh Torah and Targum Onkelos.",
+          "annotation_md": "- [Wikipedia](https://en.wikipedia.org/wiki/Mamre_Institute): “The Mamre Institute is an Israeli research institute aimed at providing accessible and accurate texts for the Hebrew Bible, Mishnah, Tosefta, Babylonian Talmud, Jerusalem Talmud, Mishneh Torah and Targum Onkelos.”",
+          "footnotes_md": [],
+          "tags": ["talmud", "mishnah", "halakha"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "8"}
+        },
+        {
+          "id": "mercava",
+          "name": "Mercava",
+          "name_he": "",
+          "url": "https://www.themercava.com/app/books/metanav/1695",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Digital edition of the Talmud shown in the traditional page layout (tzurat hadaf).",
+          "annotation_md": "A digital edition of Talmud, in the traditional tzurat hadaf.[27]",
+          "footnotes_md": [
+            "[27] For a general review of digital editions of Talmud, see now my “[From Print to Pixel: Digital Editions of the Talmud Bavli](https://seforimblog.com/2023/06/from-print-to-pixel-digital-editions-of-the-talmud-bavli/)” (June 5, 2023), at the Seform Blog."
+          ],
+          "tags": ["talmud"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "9"}
+        },
+        {
+          "id": "tashma-jewish-office",
+          "name": "Tashma - Jewish Office",
+          "name_he": "תא שמע - אופיס יהודי",
+          "url": "https://tashma.jewishoffice.co.il/",
+          "access": "registration",
+          "languages": ["he"],
+          "summary": "Text database that needs registration, with a dark-mode interface; it does not say which editions its works use.",
+          "annotation_md": "- Requires registration. Interesting UX/UI, dark mode by default. Works contain no indication of which edition is used. Full list of books in the database [here](https://jewishoffice.co.il/catalog/).",
+          "footnotes_md": [
+            "[28] This resource was pointed out by the commenter “Sam” to pt. 2 blogpost."
+          ],
+          "tags": ["printed-books"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 11, "number": "10"}
+        },
+        {
+          "id": "zemirot-database",
+          "name": "Zemirot Database",
+          "name_he": "אוצר זמירות",
+          "url": "https://www.zemirotdatabase.org/song_index.php",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Editable online database of zemirot, liturgy and Jewish songs, with texts, translations, bibliographic and historical notes, and recordings.",
+          "annotation_md": "- From FAQ page:\n  - “This is an editable online database for zemirot, liturgy, and other Jewish songs.”\n  - Contains original text, translation, bibliographic info, history, and recordings.",
+          "footnotes_md": [],
+          "tags": ["liturgy", "piyyut", "translation"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "11"}
+        },
+        {
+          "id": "open-siddur-project",
+          "name": "Open Siddur Project",
+          "name_he": "פרויקט הסדור הפתוח",
+          "url": "https://opensiddur.org/",
+          "access": "open",
+          "languages": ["he", "en"],
+          "summary": "Open-source digital humanities project that publishes Jewish liturgy and related texts, including facsimiles and transcriptions of Maimonides’ Seder Tefillot.",
+          "annotation_md": "- [Wikipedia](https://en.wikipedia.org/wiki/Open_Siddur_Project):\n  - “\\[An\\] open-source, web-to-print publishing and digital humanities project intent on sharing the semantic data of Jewish liturgy and liturgy-related work”.\n- Example of interesting section: “[\\[C\\]ontainer for facsimile editions and digital transcriptions of Maimonides’ Seder Tefillot (Order of Prayers) found at the end of his Sefer Ahava (Book of Love) in his Mishneh Torah.](https://opensiddur.org/compilations/liturgical/siddurim/kol-bo/maimonides-seder-tefillot/)”",
+          "footnotes_md": [],
+          "tags": ["liturgy", "digital-humanities"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "12"}
+        },
+        {
+          "id": "chabad-library",
+          "name": "Chabad Library",
+          "name_he": "ספריית חב\"ד ליובאוויטש",
+          "url": "https://chabadlibrary.org/books/",
+          "access": "open",
+          "languages": ["he", "yi"],
+          "summary": "Transcribed works of Chabad Hasidut.",
+          "annotation_md": "- Works of Chabad Chasidut transcribed.",
+          "footnotes_md": [],
+          "tags": ["hasidut"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "13"}
+        },
+        {
+          "id": "ramhal-net",
+          "name": "Ramhal.net",
+          "name_he": "קהילת הרמח\"ל",
+          "url": "https://ramhal.net/%d7%a1%d7%a4%d7%a8%d7%99-%d7%95%d7%9e%d7%90%d7%9e%d7%a8%d7%99-%d7%94%d7%a8%d7%9e%d7%97%d7%9c/",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Transcribed works of the Ramhal, from a community founded in 2002 to make his teachings accessible.",
+          "annotation_md": "- Works of the Ramhal transcribed.\n- From the About page: “The community was founded in 2002 with the aim of making Ramchal's teachings accessible to the general public.”",
+          "footnotes_md": [],
+          "tags": ["kabbalah", "philosophy"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "14"}
+        },
+        {
+          "id": "hassidout-org",
+          "name": "Hassidout.org",
+          "name_he": "",
+          "url": "https://www.hassidout.org/hassidout/Textes_Kodech/Kabbalah/index.php-rootid=103.htm",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Transcribed works of Kabbalah.",
+          "annotation_md": "Works of Kabbalah transcribed.",
+          "footnotes_md": [],
+          "tags": ["kabbalah"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "15"}
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - text format - popular editions",
+      "group": "Requires subscription or purchase",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "bar-ilan-responsa-project",
+          "name": "Bar Ilan Responsa Project",
+          "name_he": "",
+          "url": "https://www.responsa.co.il/home.en-US.aspx",
+          "access": "subscription",
+          "languages": ["he", "arc"],
+          "summary": "Subscription database of a very large, highly accurate collection of Hebrew texts, especially responsa, plus Bible, Talmud, codes and Zohar.",
+          "annotation_md": "Massive number of texts, with very high level of accuracy. Requires subscription.\n\n- [Wikipedia - English](https://en.wikipedia.org/wiki/Bar_Ilan_Responsa_Project): “The database consists of one of the world's largest electronic collections of Jewish texts in Hebrew. It includes numerous works from the Responsa Literature. The database also includes the Bible and the Talmud (with commentaries); articles about Jewish law and customs; Maimonides' Mishneh Torah and the Shulchan Aruch with main commentaries; Zohar, Midrashim, and the Talmudic Encyclopedia.”",
+          "footnotes_md": [],
+          "tags": ["responsa", "halakha", "talmud", "search"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "16"}
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Books - text format - scholarly editions",
+      "group": "",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "maagarim",
+          "name": "Ma'agarim - Historical Dictionary Project of the Hebrew Language",
+          "name_he": "מאגרים - המילון ההיסטורי ללשון העברית",
+          "url": "https://maagarim.hebrew-academy.org.il/Pages/PMain.aspx",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Academy of the Hebrew Language research database of carefully edited ancient Hebrew works, built for rigorous research rather than ease of use.",
+          "annotation_md": "- Not especially user-friendly, meant for rigorous research.[29]\n- [Wikipedia - Hebrew](https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%99%D7%9C%D7%95%D7%9F_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99_%D7%9C%D7%9C%D7%A9%D7%95%D7%9F_%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA): “Includes a database of all the major works of the Hebrew language in antiquity. As of 2012, more than 7,900 works have been typed into the database, which include more than nine million words, and contain more than 36,000 entries. Work on the database continues consistently, both because of the need to update the database according to updated research, as well as due to the discovery of additional ancient works.”",
+          "footnotes_md": [
+            "[29] I used this resource as one of the sources for word counts of major Jewish works. See my “[Words of Wisdom: Word Counts of Classical Jewish Works](https://www.academia.edu/106385574/Words_of_Wisdom_Word_Counts_of_Classical_Jewish_Works)”."
+          ],
+          "tags": ["hebrew-language", "dictionary", "critical-edition", "search"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 12, "number": "17"}
+        },
+        {
+          "id": "talmud-yerushalmi-digital-critical-edition",
+          "name": "Talmud Yerushalmi digital critical edition",
+          "name_he": "תלמוד ירושלמי מהדורה דיגיטלית",
+          "url": "https://www.talmudyerushalmi.com/",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Prof. Menachem Katz's beta digital critical edition of the Jerusalem Talmud; in 2023 only tractate Yevamot was available.",
+          "annotation_md": "- Project of [Prof. Menachem Katz](https://haifa.academia.edu/MenachemKatz). In beta, only Yevamot is available.[30]\n- An incredible project, with tremendous potential.",
+          "footnotes_md": [
+            "[30] See full overview here: Menachem Katz et. al., “[Talmud Yerushalmi Digital Critical Edition - IRCDL 2022](https://www.academia.edu/72403082/Talmud_Yerushalmi_Digital_Critical_Edition_IRCDL_2022)” (2022)."
+          ],
+          "tags": ["talmud", "critical-edition", "digital-humanities"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "18"}
+        },
+        {
+          "id": "schechter-midrash-project",
+          "name": "Midrash Project - Schechter Institute of Jewish Studies",
+          "name_he": "מפעל המדרש - מכון שכטר למדעי היהדות",
+          "url": "https://schechter.ac.il/research-center/midrash/",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Schechter Institute project offering synoptic editions of eight Midrashim.",
+          "annotation_md": "- Synoptic editions of eight Midrashim.",
+          "footnotes_md": [],
+          "tags": ["midrash", "critical-edition", "manuscripts"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "19"}
+        },
+        {
+          "id": "vayikra-rabba-synoptic-edition",
+          "name": "Vayikra Rabba - synoptic edition",
+          "name_he": "ויקרא רבה - מהדורה סינופטית",
+          "url": "http://www.biu.ac.il/JS/midrash/VR/",
+          "access": "open",
+          "languages": ["he", "arc"],
+          "summary": "Bar-Ilan University site with a complete synopsis of the manuscript versions of Vayikra Rabba.",
+          "annotation_md": "- A website presenting a complete synopsis of the versions preserved in manuscripts of Vayikra Rabba, hosted by Bar-Ilan University.",
+          "footnotes_md": [],
+          "tags": ["midrash", "critical-edition", "manuscripts"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "20"}
+        },
+        {
+          "id": "zohar-aramaic-texts",
+          "name": "Aramaic Texts of The Zohar",
+          "name_he": "",
+          "url": "https://www.sup.org/zohar/aramaic/",
+          "access": "open",
+          "languages": ["arc"],
+          "summary": "Aramaic text of the Zohar as prepared by Daniel Matt for the Pritzker edition; in 2023 only the unified PDF link worked.",
+          "annotation_md": "- From the edition prepared by Prof. Daniel Matt.\n- “This website contains the Aramaic text of the first five volumes of \\[the Pritzker\\] edition of the Zohar. The Versions include regular text, underlined text showing emendations, and “user-friendly,” which includes page numbers that correspond to this printed edition, Italics for the Biblical verses, and citations for the verses with verse and chapter number.”[31]\n- As of 31-May-23, the only link that works is the button labeled as follows: “Unified PDF of the Aramaic of all volumes (large file)”.",
+          "footnotes_md": [
+            "[31] [https://huc.edu/libraries/free-online-resources/?table=Bible/Early%20Resources](https://huc.edu/libraries/free-online-resources/?table=Bible/Early%20Resources) > “Zohar Pritzker edition”."
+          ],
+          "tags": ["kabbalah", "critical-edition"],
+          "status_note": "As of 31-May-2023, only the unified PDF link worked.",
+          "origin": {"edition": "2023", "page": 13, "number": "21"}
+        },
+        {
+          "id": "moreh-nevuchim-markup",
+          "name": "Moreh Nevuchim",
+          "name_he": "מורה נבוכים",
+          "url": "https://hamore.openapp.co.il/index.php/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+          "access": "open",
+          "languages": ["he"],
+          "summary": "Marked-up Hebrew text of Maimonides' Guide for the Perplexed, with a glossary and bibliography by Gershuni and Makbili.",
+          "annotation_md": "With mark-up.\n\n- See description here: Hillel Gershuni and Yohai Makbili, “[Guide for the Perplexed - Glossary and bibliography](https://www.academia.edu/39895312/%D7%9E%D7%95%D7%A8%D7%94_%D7%94%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%9E%D7%95%D7%A0%D7%97%D7%99_%D7%AA%D7%A8%D7%92%D7%95%D7%9D_%D7%95%D7%91%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94_Guide_for_the_Perplexed_Glossary_and_bibliography)” (2019).",
+          "footnotes_md": [],
+          "tags": ["philosophy", "digital-humanities"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "22"}
+        },
+        {
+          "id": "inscriptions-of-israel-palestine",
+          "name": "Inscriptions of Israel/Palestine",
+          "name_he": "",
+          "url": "https://library.brown.edu/iip/index/",
+          "access": "open",
+          "languages": ["he", "arc", "grc", "la", "en"],
+          "summary": "Brown University database of published inscriptions from Israel/Palestine (ca. 500 BCE - 640 CE), with transcriptions, images, translations and bibliography.",
+          "annotation_md": "“\\[A\\] Brown University site directed by Michael Satlow. This website presents transcriptions, images, and bibliographic data of a growing number of inscriptions of relevance to rabbinics research, including epigraphical references to ‘rabbis’.”[32] From [the About page](https://library.brown.edu/iip/about/why_inscription/): “The Inscriptions of Israel/Palestine project seeks to collect and make freely accessible all of the previously published inscriptions (and their English translations) of Israel/Palestine from the Persian period through the Islamic conquest (ca. 500 BCE - 640 CE).”\n\n- “Your search for `display status:approved AND dates after 100 CE AND dates before 600 CE AND religion:jewish AND language:he` yielded 119 results”.",
+          "footnotes_md": [
+            "[32] Secunda, ibid., p. 626."
+          ],
+          "tags": ["epigraphy", "history", "translation"],
+          "status_note": "",
+          "origin": {"edition": "2023", "page": 13, "number": "23"}
+        }
+      ],
+      "notes_md": []
+    }
+  ]
+}
