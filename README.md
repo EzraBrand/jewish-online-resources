@@ -51,5 +51,5 @@ py -3.13 -m http.server 8771 --directory site
 
 - `build/candidates-review.csv`: every candidate from Powered by Sefaria and jewishai.me,
   with the include/exclude decision and a reason.
-- `build/link-report.html`: every link that is not plainly OK. Maintainer-only. It is not
-  in `site/`, so GitHub Pages does not publish it.
+- `data/linkcheck.csv` + `data/link-overrides.csv`: the link-rot audit. Filter `result`
+  / `verdict` for anything that is not OK.

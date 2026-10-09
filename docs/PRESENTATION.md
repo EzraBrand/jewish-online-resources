@@ -20,7 +20,7 @@ views are not exclusive. We can try one and add another later.
 2. **Full guide** (`site/guide.html`). The traditional reading order, with a sticky
    table of contents, one card per resource, and footnotes kept with their resource.
    This replaces the PDF.
-3. **Link report** (`build/link-report.html`, maintainer-only, not published). A list of what rotted, moved, or
+3. **Link audit data** (`data/linkcheck.csv`, `data/link-overrides.csv`; not published). What rotted, moved, or
    was hijacked.
 4. **CSV export** (`site/resources.csv`).
 

@@ -5,7 +5,6 @@ Outputs into site/:
   guide.html            full guide, section by section, with all annotations
   data/resources.json   flat list of entries with rendered HTML (feeds index.html)
   resources.csv         flat CSV export
-and, not published, build/link-report.html (link-rot report for the maintainer).
 
 Other modes:
   --dump-urls FILE      write every URL used in the data (for scripts/check_links.py)
@@ -390,23 +389,6 @@ def render_intro():
     return "\n<hr>\n".join(parts)
 
 
-def link_report(link_seen):
-    rows = []
-    order = {"hijacked": 0, "dead": 1, "unverified": 2, "moved": 3, "ok": 4}
-    for url, v in sorted(link_seen.items(), key=lambda kv: (order.get(kv[1]["verdict"], 9), kv[0])):
-        if v["verdict"] == "ok":
-            continue
-        arch = (f'<a href="{html.escape(v["archive"], quote=True)}">archive</a>'
-                if v["archive"] else "")
-        new = (f'<a href="{html.escape(v["href"], quote=True)}">{html.escape(v["href"])}</a>'
-               if v["href"] != url else "")
-        rows.append(f'<tr><td><span class="badge v-{v["verdict"]}">{v["verdict"]}</span></td>'
-                    f'<td class="url">{html.escape(url)}</td><td class="url">{new}</td>'
-                    f'<td>{html.escape(v["note"])}</td><td>{arch}</td></tr>')
-    counts = Counter(v["verdict"] for v in link_seen.values())
-    return rows, counts
-
-
 def write_csv(entries, path):
     cols = ["id", "name", "name_he", "url", "link_verdict", "section", "subsection",
             "group", "access", "languages", "tags", "summary", "edition", "page",
@@ -481,13 +463,8 @@ def main():
     (SITE / "guide.html").write_text(
         fill("guide.html", toc=toc, body=body, intro=intro, **common), encoding="utf-8")
     (SITE / "index.html").write_text(fill("index.html", **common), encoding="utf-8")
-    rows, counts = link_report(link_seen)
-    summary = ", ".join(f"{k}: {v}" for k, v in counts.most_common())
-    # Maintainer-only: kept out of site/ so GitHub Pages does not publish it.
-    (ROOT / "build").mkdir(exist_ok=True)
-    (ROOT / "build" / "link-report.html").write_text(
-        fill("link-report.html", rows="\n".join(rows), summary=summary,
-             n_links=len(link_seen), **common), encoding="utf-8")
+    counts = Counter(v["verdict"] for v in link_seen.values())
+    summary = ", ".join(f"{k}: {n}" for k, n in counts.most_common())
     print(f"entries={len(entries)} new={n_new} links={len(link_seen)} {summary}")
 
 
