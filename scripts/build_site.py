@@ -265,8 +265,8 @@ def flatten(blocks, checks, overrides):
                 eid = f"{eid}-{seen_ids[eid]}"
             ann = md_to_html(e.get("annotation_md", ""), eid)
             fns = footnotes_html(e.get("footnotes_md"), eid)
-            ann = apply_link_status(ann, checks, overrides, link_seen)
-            fns = apply_link_status(fns, checks, overrides, link_seen)
+            ann = external_new_tab(apply_link_status(ann, checks, overrides, link_seen))
+            fns = external_new_tab(apply_link_status(fns, checks, overrides, link_seen))
             url = e.get("url", "")
             uv = verdict_for(url, checks, overrides) if url else None
             if url:
@@ -417,11 +417,19 @@ def write_csv(entries, path):
             w.writerow(row)
 
 
+EXTERNAL_A = re.compile(r'<a (?![^>]*\btarget=)([^>]*\bhref="https?://[^"]*"[^>]*)>')
+
+
+def external_new_tab(htm):
+    """Open every external link in a new tab."""
+    return EXTERNAL_A.sub(r'<a \1 target="_blank" rel="noopener">', htm)
+
+
 def fill(template, **kw):
     t = (TEMPLATES / template).read_text(encoding="utf-8")
     for k, v in kw.items():
         t = t.replace("{{" + k + "}}", str(v))
-    return t
+    return external_new_tab(t)
 
 
 def all_urls(blocks):

@@ -12,13 +12,8 @@
   --font: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
   --font-he: "SBL Hebrew", "Frank Ruehl CLM", "David", "Times New Roman", serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #171614; --fg: #ece8e1; --muted: #a39d93; --line: #34312c;
-    --accent: #8db8e3; --card: #201f1c; --good: #6cc28e; --bad: #f08a80;
-    --warn: #e0b453; --new: #b99ae6;
-  }
-}
+/* Light theme only, also when the OS or browser asks for dark mode. */
+:root { color-scheme: only light; }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 4rem; }
 body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 var(--font); }
@@ -82,7 +77,9 @@ button.more { font: inherit; font-size: .78rem; background: none; border: 1px so
 .layout nav.toc { position: sticky; top: 3.4rem; align-self: start; max-height: calc(100vh - 4rem); overflow: auto; font-size: .86rem; }
 .layout nav.toc ul { list-style: none; padding-left: .8rem; margin: .2rem 0; }
 .layout nav.toc > ul { padding-left: 0; }
-.layout nav.toc a { text-decoration: none; }
+.layout nav.toc a { text-decoration: none; display: block; padding: .05rem .4rem; border-left: 3px solid transparent; border-radius: 0 .25rem .25rem 0; }
+.layout nav.toc a.current { border-left-color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, transparent); font-weight: 650; }
+.layout nav.toc a.current-parent { font-weight: 650; }
 @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } .layout nav.toc { position: static; max-height: none; } }
 .guide h2 { border-bottom: 2px solid var(--line); padding-bottom: .2rem; margin-top: 2.5rem; }
 .guide h3 { margin-top: 2rem; }
