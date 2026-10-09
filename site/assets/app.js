@@ -129,7 +129,7 @@
     }
   });
 
-  fetch("data/resources.json").then((r) => r.json()).then((data) => {
+  fetch("data/resources.json?v=" + (document.querySelector("meta[name=data-version]")?.content || Date.now())).then((r) => r.json()).then((data) => {
     rows = data.entries.map((e) => ({
       ...e,
       _text: fold([e.name, e.name_he, e.summary, e.tags.join(" "), e.section, e.subsection, e.group,

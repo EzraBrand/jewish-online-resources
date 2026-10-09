@@ -16,6 +16,7 @@ data/link-overrides.csv (manual verdicts, which win).
 Usage: py -3.13 -I scripts/build_site.py [--dump-urls build/all-urls.json]
 """
 import csv
+import hashlib
 import html
 import json
 import re
@@ -470,7 +471,13 @@ def main():
     write_csv(entries, SITE / "resources.csv")
 
     n_new = sum(e["edition"] == EDITION for e in entries)
-    common = dict(built=BUILD_DATE, n_entries=len(entries), n_new=n_new)
+    # Content hashes as ?v= stamps, so browsers and the Pages CDN never serve a
+    # stale CSS/JS/data file after a deploy.
+    def v(path):
+        return hashlib.sha1((SITE / path).read_bytes()).hexdigest()[:10]
+    common = dict(built=BUILD_DATE, n_entries=len(entries), n_new=n_new,
+                  v_css=v("assets/style.css"), v_app=v("assets/app.js"),
+                  v_guide=v("assets/guide.js"), v_data=v("data/resources.json"))
     (SITE / "guide.html").write_text(
         fill("guide.html", toc=toc, body=body, intro=intro, **common), encoding="utf-8")
     (SITE / "index.html").write_text(fill("index.html", **common), encoding="utf-8")
