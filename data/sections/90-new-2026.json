@@ -32,6 +32,33 @@
             "page": null,
             "number": ""
           }
+        },
+        {
+          "id": "girsology",
+          "name": "Girsology",
+          "name_he": "",
+          "url": "https://www.girsology.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "en"
+          ],
+          "summary": "Joshua Waxman's Talmud site in the Vilna tzurat ha-daf layout, with sugya outlines, a who-asks-whom graph of the sages, and a logic engine for sugyot.",
+          "annotation_md": "- Designed and coded by Joshua Waxman; texts mainly from Sefaria. Presented at the ISF workshop on AI and Talmudic research (Hemdat, Oct-2026).\n- Each daf keeps the look of the Vilna page. On top of it, sample sugyot have three layers: the people in the sugya and who asks, answers or disputes whom; the argument as an outline of question, answer and objection; and the argument encoded as facts and rules, with what a solver derives from them.\n- Also: sugya outlines and the Vilna and Steinsaltz sugya divisions by tractate; the Rif with Ran and Nimukei Yosef in page layout; vocalized Rosh; and research notebooks (Google Colab).\n- Waxman has permission to use the Hachi Garsinan manuscript images, so the site plans to show manuscript variants (girsaot).",
+          "footnotes_md": [],
+          "tags": [
+            "talmud",
+            "visualization",
+            "digital-humanities",
+            "manuscripts"
+          ],
+          "status_note": "Work in progress. Checked live 21-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
         }
       ],
       "notes_md": []
@@ -230,6 +257,32 @@
             "page": null,
             "number": ""
           }
+        },
+        {
+          "id": "rabbinet",
+          "name": "RabbiNet",
+          "name_he": "",
+          "url": "https://rabbinet.netlify.app/",
+          "access": "open",
+          "languages": [
+            "en",
+            "he"
+          ],
+          "summary": "Interactive citation network of 257 medieval rabbinic scholars (8th-16th c.): who cites whom, filterable by century and region.",
+          "annotation_md": "- From the Bar-Ilan JEWDIT Lab (Digital Lab for Jewish Heritage): the project *Digital Mapping of Intellectual Affinities in the Literature of the Rishonim*, presented by Binyamin Katzoff and the Bar-Ilan team at the ISF workshop on AI and Talmudic research (Hemdat, Oct-2026).\n- Filter citing and cited scholars by century and region (Ashkenaz, France, Italy, Middle East, North Africa, Provence, Spain). Networks can be saved and reloaded.\n- Method papers: Ben-Gigi, Zhitomirsky-Geffet, Schler and Katzoff, \"[Automatic Construction of the Citation Network from the Medieval Jewish Responsa Literature](https://dl.acm.org/doi/full/10.1145/3712013)\"; and \"[Citation network analysis for viewpoint plurality assessment of historical corpora: The case of the medieval rabbinic literature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307115)\" (PLOS ONE, 2024).",
+          "footnotes_md": [],
+          "tags": [
+            "responsa",
+            "history",
+            "visualization",
+            "digital-humanities"
+          ],
+          "status_note": "Checked live 21-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
         }
       ],
       "notes_md": []
@@ -292,6 +345,45 @@
             "search"
           ],
           "status_note": "In development; checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
+      "section": "Primary Texts",
+      "subsection": "Manuscripts - by Topic",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "dicta-genizah-search",
+          "name": "Dicta Genizah Search",
+          "name_he": "חיפוש בגניזה הקהירית",
+          "url": "https://genizahsearch.com/",
+          "access": "open",
+          "languages": [
+            "he",
+            "arc",
+            "ar",
+            "en"
+          ],
+          "summary": "Full-text search over the MiDRASH automatic transcriptions of about 255,000 Cairo Genizah manuscripts, with images, parallels and join search.",
+          "annotation_md": "- Built by Hillel Gershuni; presented at the ISF workshop on AI and Talmudic research (Hemdat, Oct-2026).\n- Searches the MiDRASH project's computer-read transcriptions (about 232,000 automatic and 27,000 scholarly transcriptions; over 1 million pages). The site warns that the automatic readings contain errors.\n- Tools: exact, spelling-variant and regex search; parallel detection for a pasted text; a Joins Lab for possible physical joins; browsing by shelfmark and by identification (domain, author, work); computed identifications to review; and a beta Genizah Atlas.\n- Also offers a ChatGPT connector. Login is optional for saved lists.",
+          "footnotes_md": [],
+          "tags": [
+            "geniza",
+            "manuscripts",
+            "search",
+            "ocr-htr",
+            "transcription",
+            "ai"
+          ],
+          "status_note": "Checked live 21-Oct-2026.",
           "origin": {
             "edition": "2026",
             "page": null,

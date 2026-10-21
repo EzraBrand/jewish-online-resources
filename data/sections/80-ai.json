@@ -34,6 +34,32 @@
           }
         },
         {
+          "id": "dicta-iluy",
+          "name": "Iluy (Dicta)",
+          "name_he": "עילוי",
+          "url": "https://iluy.dicta.org.il/",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Dicta's AI tool that answers questions from retrieved rabbinic sources, each claim with a reference to check; replaces Dicta's two earlier chatbots.",
+          "annotation_md": "- Dicta's two earlier, separate chatbot tools are now combined in this one site.\n- Covers Talmud and lomdus, Bible commentary, thought, Hasidut and musar, and halakha. In halakha it sets out the sources and does not give a ruling.\n- Answers are built on sources it actually retrieved, not on the model's memory, with links to each source. It finds sources that use different wording from the question.\n- Five answer styles: sources only, short, fluent modern Hebrew, lamdani (rabbinic Hebrew), and responsum. You can ask in one language and get the answer in another.\n- No free follow-up questions yet; instead you can get an explanation of a source, re-answer in another style, or retrieve more sources. A public archive of answers is at [all-questions](https://iluy.dicta.org.il/all-questions).",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "search",
+            "halakha",
+            "talmud"
+          ],
+          "status_note": "Checked live 21-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
           "id": "mekoros",
           "name": "Mekoros",
           "name_he": "",
@@ -208,7 +234,7 @@
             "he"
           ],
           "summary": "Dicta's free machine-learning tools for Hebrew texts, including automatic vocalization, abbreviation expansion and citation finding.",
-          "annotation_md": "- Also listed in the 2023 guide (Dicta entry under Search and Related Tools). Tools most relevant here:\n    - [Nakdan](https://nakdan.dicta.org.il/): adds nikud automatically; modes for modern, rabbinic and poetic Hebrew.\n    - [Rabbinic abbreviation expander](https://abbreviation.dicta.org.il/): resolves ראשי תיבות in context.\n    - [Citation finder](https://citation.dicta.org.il/): finds exact and loose quotations of Bible, Mishnah and Talmud in a pasted text.\n- Dicta, led by Moshe Koppel, also publishes open language models (see the Dicta Hugging Face entry below).",
+          "annotation_md": "- Also listed in the 2023 guide (Dicta entry under Search and Related Tools). Tools most relevant here:\n    - [Nakdan](https://nakdan.dicta.org.il/): adds nikud automatically; modes for modern, rabbinic and poetic Hebrew.\n    - [Rabbinic abbreviation expander](https://abbreviation.dicta.org.il/): resolves ראשי תיבות in context.\n    - [Citation finder](https://citation.dicta.org.il/): finds exact and loose quotations of Bible, Mishnah and Talmud in a pasted text.\n- Dicta, led by Moshe Koppel, also runs [Iluy](https://iluy.dicta.org.il/), its AI answer tool over rabbinic sources (see the Iluy entry above), and publishes open language models (see the Dicta-LM 3.0 and Dicta Hugging Face entries below).",
           "footnotes_md": [],
           "tags": [
             "ai",
@@ -651,7 +677,7 @@
             "en"
           ],
           "summary": "Dicta's open Hebrew language models: the DictaLM chat models, DictaBERT encoders and BEREL for rabbinic Hebrew.",
-          "annotation_md": "- **DictaLM 3.0** (late 2025): open-weight Hebrew-English chat models in 24B, 12B and 1.7B sizes, Apache-2.0.\n- **DictaBERT**: encoders for segmentation, morphology, syntax, lexical tasks and vocalization.\n- **BEREL** (BERT Embeddings for Rabbinic-Encoded Language, 2022): a model trained for rabbinic Hebrew; BEREL 3.0 is the newer version.\n- Most are for developers; the Nakdan and other Dicta web tools put them to use for end users.",
+          "annotation_md": "- **DictaLM 3.0** (late 2025; [release page](https://dicta.org.il/dicta-lm-3)): open-weight Hebrew-English chat models in 24B, 12B and 1.7B sizes, Apache-2.0.\n- **DictaBERT**: encoders for segmentation, morphology, syntax, lexical tasks and vocalization.\n- **BEREL** (BERT Embeddings for Rabbinic-Encoded Language, 2022): a model trained for rabbinic Hebrew; BEREL 3.0 is the newer version.\n- Most are for developers; the Nakdan and other Dicta web tools put them to use for end users.",
           "footnotes_md": [],
           "tags": [
             "ai",
@@ -659,6 +685,30 @@
             "hebrew-language"
           ],
           "status_note": "Checked live 9-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        },
+        {
+          "id": "dicta-lm-3",
+          "name": "Dicta-LM 3.0",
+          "name_he": "",
+          "url": "https://dicta.org.il/dicta-lm-3",
+          "access": "open",
+          "languages": [
+            "he",
+            "en"
+          ],
+          "summary": "Dicta's open-weight Hebrew-English language models (24B, 12B, 1.7B), Apache-2.0, built with Israel's National NLP Program.",
+          "annotation_md": "- Released by Dicta with the DDR&D / Israeli National Program for NLP.\n- Continued pretraining of open base models (Mistral Small 3.1, NVIDIA Nemotron Nano V2, Qwen3) on about 150B tokens, 75% Hebrew and 25% English, then SFT and RL into instruct and reasoning chat models.\n- 65k-token context (about 26k Hebrew words) and tool calling. The 24B model leads the Open Hebrew LLM Leaderboard among models up to 70B, per Dicta.\n- Weights: [DictaLM 3.0 collection on Hugging Face](https://huggingface.co/collections/dicta-il/dictalm-30-collection); [technical report](https://dicta.org.il/publications/DictaLM_3_0___Techincal_Report.pdf).",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "hebrew-language"
+          ],
+          "status_note": "Checked live 21-Oct-2026.",
           "origin": {
             "edition": "2026",
             "page": null,
