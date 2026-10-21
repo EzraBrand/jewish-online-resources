@@ -74,3 +74,42 @@
   }
   update();
 })();
+
+// Copy-link button on each section and subsection heading.
+(function () {
+  "use strict";
+  const ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>';
+  const heads = [...document.querySelectorAll(".guide section[id] > h2, .guide h3[id]")];
+  heads.forEach((h) => {
+    const id = h.id || h.parentElement.id;
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "anchor-copy";
+    btn.title = "Copy link to this section";
+    btn.setAttribute("aria-label", "Copy link to section: " + h.textContent.trim());
+    btn.innerHTML = ICON;
+    btn.addEventListener("click", async () => {
+      const url = location.origin + location.pathname + "#" + encodeURIComponent(id);
+      let ok = true;
+      try { await navigator.clipboard.writeText(url); } catch (e) {
+        // Older browsers or blocked Clipboard API: copy from a hidden textarea.
+        const ta = document.createElement("textarea");
+        ta.value = url;
+        ta.style.position = "fixed";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select();
+        try { ok = document.execCommand("copy"); } catch (e2) { ok = false; }
+        ta.remove();
+      }
+      history.replaceState(null, "", "#" + encodeURIComponent(id));
+      btn.classList.add("copied");
+      const msg = document.createElement("span");
+      msg.className = "anchor-msg";
+      msg.textContent = ok ? "Copied" : "Link in address bar";
+      btn.appendChild(msg);
+      setTimeout(() => { btn.classList.remove("copied"); msg.remove(); }, 1500);
+    });
+    h.appendChild(btn);
+  });
+})();

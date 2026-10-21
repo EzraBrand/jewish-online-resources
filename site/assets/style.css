@@ -83,6 +83,14 @@ button.more { font: inherit; font-size: .78rem; background: none; border: 1px so
 @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } .layout nav.toc { position: static; max-height: none; } }
 .guide h2 { border-bottom: 2px solid var(--line); padding-bottom: .2rem; margin-top: 2.5rem; }
 .guide h3 { margin-top: 2rem; }
+/* Copy-link button after section headings (added by guide.js). */
+.anchor-copy { border: 0; background: none; padding: 0 .25rem; margin-left: .35rem; cursor: pointer;
+  color: var(--muted); opacity: .35; vertical-align: middle; line-height: 1; font: inherit; font-size: .8rem; }
+.anchor-copy svg { width: .85em; height: .85em; vertical-align: -.05em; }
+.guide h2:hover .anchor-copy, .guide h3:hover .anchor-copy, .anchor-copy:focus-visible { opacity: 1; color: var(--accent); }
+.anchor-copy.copied { opacity: 1; color: var(--good); }
+.anchor-copy .anchor-msg { font-size: .75rem; font-weight: normal; margin-left: .25rem; }
+@media (hover: none) { .anchor-copy { opacity: .6; } }
 .guide h4 { color: var(--muted); text-transform: uppercase; font-size: .8rem; letter-spacing: .05em; }
 article.entry { background: var(--card); border: 1px solid var(--line); border-radius: .5rem; padding: .7rem 1rem; margin: .7rem 0; }
 article.entry h5 { font-size: 1.05rem; margin: 0 0 .3rem; }
