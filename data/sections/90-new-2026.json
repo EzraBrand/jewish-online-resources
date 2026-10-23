@@ -3,6 +3,38 @@
   "source_pages": [],
   "blocks": [
     {
+      "section": "Intro",
+      "subsection": "Existing Guides",
+      "group": "New in 2026",
+      "intro_md": "",
+      "entries": [
+        {
+          "id": "idh-index",
+          "name": "Israeli Digital Humanities Index",
+          "name_he": "",
+          "url": "https://idh-index.org/",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Searchable directory of the people, projects, organizations, datasets, tools and training materials of digital humanities in Israel.",
+          "annotation_md": "- Each entry has a type (organization, project, dataset, tool, publication, training material, event) and topic tags.\n- Covers much Hebrew and Jewish Studies work: Hebrew NLP labs and models, the Hebrew University, Bar-Ilan and Haifa DH centers, digitized press and archives.\n- The site says it is a work in progress.",
+          "footnotes_md": [],
+          "tags": [
+            "digital-humanities",
+            "catalog"
+          ],
+          "status_note": "",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
+        }
+      ],
+      "notes_md": []
+    },
+    {
       "section": "Primary Texts",
       "subsection": "Books - text format - popular editions",
       "group": "New in 2026",
