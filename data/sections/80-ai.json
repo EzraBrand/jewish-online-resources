@@ -748,6 +748,30 @@
             "page": null,
             "number": ""
           }
+        },
+        {
+          "id": "jewish-ai-projects-rosehill",
+          "name": "Jewish & Torah Tech Projects (Daniel Rosehill, GitHub)",
+          "name_he": "",
+          "url": "https://github.com/danielrosehill/Jewish-AI-Projects",
+          "access": "open",
+          "languages": [
+            "en"
+          ],
+          "summary": "Curated GitHub list of about 80 tech projects for Jewish religious life: AI chatbots, MCP servers, APIs, datasets, calendar libraries and study apps.",
+          "annotation_md": "- Grouped by type: AI chatbots and assistants, transcription, evaluation, custom GPTs, APIs, MCP servers, datasets, NLP, calendar and zmanim libraries, Shabbat and smart-home tools.\n- Aimed at observant users and developers more than at scholars; many entries are small open-source repositories.\n- Maintained by Daniel Rosehill; last updated Apr-2026.",
+          "footnotes_md": [],
+          "tags": [
+            "ai",
+            "api",
+            "catalog"
+          ],
+          "status_note": "Checked live 24-Oct-2026.",
+          "origin": {
+            "edition": "2026",
+            "page": null,
+            "number": ""
+          }
         }
       ],
       "notes_md": []
